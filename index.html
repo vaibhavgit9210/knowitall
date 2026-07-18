@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>knowitall — the daily brief</title>
+<style>
+  :root {
+    --bg: #0d0f12; --card: #15181d; --edge: #262b33;
+    --fg: #e8e6e1; --dim: #8a919e; --faint: #4a515c;
+    --accent: #ffb454;
+    --india: #ff9d5c; --world: #6cb2ff; --business: #7ee08a;
+    --sports: #ff7a9c; --tech: #c9a0ff;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  html, body { height: 100%; }
+  body {
+    background: var(--bg); color: var(--fg);
+    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif;
+    display: flex; flex-direction: column;
+  }
+  header {
+    display: flex; align-items: center; gap: 14px;
+    padding: 14px 18px; border-bottom: 1px solid var(--edge);
+  }
+  header h1 { font-size: 17px; letter-spacing: .5px; }
+  header h1 span { color: var(--accent); }
+  .tabs { display: flex; gap: 4px; margin-left: auto; }
+  .tabs button {
+    background: none; border: 1px solid transparent; color: var(--dim);
+    font: inherit; font-size: 13px; padding: 5px 12px; border-radius: 6px; cursor: pointer;
+  }
+  .tabs button.active { color: var(--fg); border-color: var(--edge); background: var(--card); }
+  .tabs button.locked { opacity: .5; }
+  #updated { font-size: 11px; color: var(--faint); }
+
+  #progressbar { height: 3px; background: var(--edge); }
+  #progressbar div { height: 100%; background: var(--accent); width: 0; transition: width .3s; }
+
+  main { flex: 1; overflow-y: auto; display: flex; flex-direction: column; }
+
+  /* ---- brief mode ---- */
+  #brief { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 24px; }
+  #card {
+    width: 100%; max-width: 680px; background: var(--card);
+    border: 1px solid var(--edge); border-radius: 14px; padding: 34px 36px 28px;
+  }
+  .sec-tag {
+    display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: 2px;
+    text-transform: uppercase; padding: 3px 10px; border-radius: 20px;
+    border: 1px solid currentColor; margin-bottom: 18px;
+  }
+  #headline { font-size: 26px; line-height: 1.32; font-weight: 650; margin-bottom: 16px; }
+  #headline a { color: inherit; text-decoration: none; }
+  #headline a:hover { text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--accent); }
+  .meta { font-size: 13px; color: var(--dim); display: flex; gap: 10px; flex-wrap: wrap; }
+  .meta .src { color: var(--fg); opacity: .85; }
+  #cardfoot {
+    width: 100%; max-width: 680px; display: flex; align-items: center;
+    margin-top: 16px; gap: 12px; flex-wrap: wrap;
+  }
+  #counts { font-size: 13px; color: var(--dim); }
+  #counts b { color: var(--fg); }
+  .navbtns { margin-left: auto; display: flex; gap: 8px; }
+  .navbtns button {
+    font: inherit; cursor: pointer; border-radius: 10px; padding: 10px 18px;
+    border: 1px solid var(--edge); background: var(--card); color: var(--dim);
+  }
+  #nextbtn { background: var(--accent); border-color: var(--accent); color: #1a1204; font-weight: 700; padding: 10px 28px; }
+  .hint { margin-top: 18px; font-size: 12px; color: var(--faint); max-width: 100%; text-align: center; }
+  kbd {
+    border: 1px solid var(--edge); border-bottom-width: 2px; border-radius: 4px;
+    padding: 0 5px; font-size: 11px; font-family: ui-monospace, monospace;
+  }
+
+  /* ---- done screen ---- */
+  #done { text-align: center; max-width: 560px; }
+  #done .big { font-size: 44px; margin-bottom: 10px; }
+  #done h2 { font-size: 24px; margin-bottom: 8px; }
+  #done p { color: var(--dim); margin-bottom: 20px; }
+  #done button {
+    font: inherit; font-weight: 700; cursor: pointer; border-radius: 10px;
+    padding: 12px 26px; border: none; background: var(--accent); color: #1a1204;
+  }
+
+  /* ---- browse & archive ---- */
+  .listwrap { max-width: 760px; width: 100%; margin: 0 auto; padding: 22px 18px 60px; }
+  .listwrap h2 {
+    font-size: 12px; letter-spacing: 2px; text-transform: uppercase;
+    margin: 26px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--edge);
+  }
+  .item { padding: 9px 0; border-bottom: 1px solid #1a1e24; }
+  .item a { color: var(--fg); text-decoration: none; font-size: 15px; }
+  .item a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .item .meta { font-size: 12px; margin-top: 2px; }
+  .item.read { opacity: .45; }
+  #archdates { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+  #archdates button {
+    font: inherit; font-size: 13px; cursor: pointer; padding: 5px 12px; border-radius: 6px;
+    border: 1px solid var(--edge); background: var(--card); color: var(--dim);
+  }
+  #archdates button.active { color: var(--fg); border-color: var(--accent); }
+  .note { color: var(--dim); font-size: 14px; padding: 30px 0; text-align: center; }
+
+  .c-india { color: var(--india); } .c-world { color: var(--world); }
+  .c-business { color: var(--business); } .c-sports { color: var(--sports); }
+  .c-tech { color: #c9a0ff; } .c-channels { color: #9aa7b8; }
+
+  @media (max-width: 560px) {
+    #card { padding: 24px 22px 20px; }
+    #headline { font-size: 21px; }
+    header { padding: 12px 14px; gap: 8px; }
+    #updated { display: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>knowit<span>all</span></h1>
+  <div id="updated"></div>
+  <nav class="tabs">
+    <button id="tab-brief" class="active">Brief</button>
+    <button id="tab-browse" class="locked">Browse 🔒</button>
+    <button id="tab-archive">Archive</button>
+  </nav>
+</header>
+<div id="progressbar"><div id="progressfill"></div></div>
+<main>
+  <section id="brief">
+    <div class="note">Loading headlines…</div>
+  </section>
+  <section id="browse" class="listwrap" hidden></section>
+  <section id="archive" class="listwrap" hidden></section>
+</main>
+
+<script>
+'use strict';
+const SECTIONS = ['india', 'world', 'business', 'sports', 'tech', 'channels'];
+const SECTION_LABEL = { india: 'India', world: 'World', business: 'Business', sports: 'Sports', tech: 'Tech', channels: 'News Channels' };
+const READ_KEY = 'kia_read_v1';
+const READ_TTL_DAYS = 10;
+const TEST = new URLSearchParams(location.search).has('test');
+
+let data = null;       // {updatedAt, sections}
+let queue = [];        // unread items in section order
+let pos = 0;           // cursor in queue
+let read = loadRead();
+
+function loadRead() {
+  try {
+    const m = JSON.parse(localStorage.getItem(READ_KEY)) || {};
+    const cutoff = Date.now() - READ_TTL_DAYS * 864e5;
+    for (const k in m) if (m[k] < cutoff) delete m[k];
+    return m;
+  } catch { return {}; }
+}
+function saveRead() { try { localStorage.setItem(READ_KEY, JSON.stringify(read)); } catch {} }
+
+function allItems() {
+  const out = [];
+  for (const s of SECTIONS) for (const it of (data.sections[s] || [])) out.push({ ...it, section: s });
+  return out;
+}
+
+function rebuildQueue() {
+  const unread = allItems().filter(it => !read[it.id]);
+  // keep current position stable: already-passed items stay marked read, so
+  // queue only ever holds what's still unread + the card being shown
+  queue = unread;
+  if (pos > queue.length) pos = queue.length;
+}
+
+function timeAgo(iso) {
+  if (!iso) return '';
+  const mins = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return mins + 'm ago';
+  const h = Math.round(mins / 60);
+  if (h < 24) return h + 'h ago';
+  return Math.round(h / 24) + 'd ago';
+}
+
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+const $ = id => document.getElementById(id);
+
+function totalCount() { return allItems().length; }
+function readCount() { return allItems().filter(it => read[it.id]).length; }
+
+function updateChrome() {
+  const total = totalCount(), done = readCount();
+  $('progressfill').style.width = total ? (100 * done / total) + '%' : '0';
+  const t = $('tab-browse');
+  const finished = done >= total && total > 0;
+  t.textContent = finished ? 'Browse' : 'Browse 🔒';
+  t.classList.toggle('locked', !finished);
+  if (data) $('updated').textContent = 'updated ' + timeAgo(data.updatedAt);
+}
+
+function sectionProgress(sec) {
+  const items = (data.sections[sec] || []);
+  const done = items.filter(it => read[it.id]).length;
+  return done + '/' + items.length;
+}
+
+function renderBrief() {
+  const el = $('brief');
+  if (!queue.length || pos >= queue.length) { renderDone(el); updateChrome(); return; }
+  const it = queue[pos];
+  const left = queue.length - pos;
+  el.innerHTML = `
+    <div id="card">
+      <span class="sec-tag c-${it.section}">${SECTION_LABEL[it.section]} · ${sectionProgress(it.section)}</span>
+      <div id="headline"><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+      <div class="meta">
+        <span class="src">${esc(it.source)}</span>
+        <span>${timeAgo(it.publishedAt || it.firstSeen)}</span>
+        <span><a href="${esc(it.link)}" target="_blank" rel="noopener" style="color:var(--dim)">open source ↗</a></span>
+      </div>
+    </div>
+    <div id="cardfoot">
+      <div id="counts"><b>${left}</b> headline${left === 1 ? '' : 's'} left · ${readCount()}/${totalCount()} read</div>
+      <div class="navbtns">
+        <button id="backbtn" ${pos === 0 ? 'disabled' : ''}>‹ Back</button>
+        <button id="nextbtn">Next ›</button>
+      </div>
+    </div>
+    <div class="hint"><kbd>space</kbd>/<kbd>→</kbd> next · <kbd>←</kbd> back · <kbd>o</kbd> open story · no skipping, that's the point</div>`;
+  $('nextbtn').onclick = next;
+  $('backbtn').onclick = back;
+  updateChrome();
+}
+
+function renderDone(el) {
+  const day = new Date().toLocaleDateString('en-IN', { weekday: 'long', day: 'numeric', month: 'long' });
+  el.innerHTML = `
+    <div id="done">
+      <div class="big">☕</div>
+      <h2>Brief complete</h2>
+      <p>You went through all ${totalCount()} headlines for ${day}.<br>
+      New stories land every ~30 minutes — they'll queue up here.</p>
+      <button onclick="showTab('browse')">Browse everything</button>
+    </div>`;
+}
+
+function next() {
+  const it = queue[pos];
+  if (it) { read[it.id] = Date.now(); saveRead(); }
+  pos++;
+  renderBrief();
+}
+function back() { if (pos > 0) { pos--; renderBrief(); } }
+
+function renderBrowse() {
+  const el = $('browse');
+  let html = '';
+  for (const s of SECTIONS) {
+    const items = data.sections[s] || [];
+    if (!items.length) continue;
+    html += `<h2 class="c-${s}">${SECTION_LABEL[s]}</h2>`;
+    for (const it of items) {
+      html += `<div class="item${read[it.id] ? ' read' : ''}">
+        <a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+        <div class="meta"><span class="src">${esc(it.source)}</span> <span>${timeAgo(it.publishedAt || it.firstSeen)}</span></div>
+      </div>`;
+    }
+  }
+  el.innerHTML = html || '<div class="note">Nothing here yet.</div>';
+}
+
+async function renderArchive() {
+  const el = $('archive');
+  el.innerHTML = '<div class="note">Loading archive…</div>';
+  let days = [];
+  try { days = await (await fetch('logs/index.json?t=' + Date.now())).json(); } catch {}
+  if (!days.length) { el.innerHTML = '<div class="note">No logs yet — the archive fills up as the fetcher runs.</div>'; return; }
+  el.innerHTML = `<h2 style="border:none;margin-top:6px">Headline log</h2><div id="archdates"></div><div id="archlist"></div>`;
+  const wrap = $('archdates');
+  days.slice(0, 30).forEach((d, i) => {
+    const b = document.createElement('button');
+    b.textContent = d;
+    b.onclick = () => { [...wrap.children].forEach(c => c.classList.remove('active')); b.classList.add('active'); loadDay(d); };
+    wrap.appendChild(b);
+    if (i === 0) { b.classList.add('active'); loadDay(d); }
+  });
+}
+
+async function loadDay(day) {
+  const list = $('archlist');
+  list.innerHTML = '<div class="note">Loading…</div>';
+  try {
+    const log = await (await fetch(`logs/${day}.json?t=` + Date.now())).json();
+    let html = '';
+    for (const s of SECTIONS) {
+      const items = log.items.filter(it => it.section === s);
+      if (!items.length) continue;
+      html += `<h2 class="c-${s}">${SECTION_LABEL[s]} · ${items.length}</h2>`;
+      for (const it of items) {
+        html += `<div class="item"><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+          <div class="meta"><span class="src">${esc(it.source)}</span></div></div>`;
+      }
+    }
+    list.innerHTML = html + `<div class="note">${log.items.length} headlines logged on ${day}</div>`;
+  } catch { list.innerHTML = '<div class="note">Could not load that day.</div>'; }
+}
+
+function showTab(name) {
+  if (name === 'browse' && readCount() < totalCount()) {
+    name = 'brief';   // locked until the brief is finished
+    const c = $('card'); if (c) { c.style.transform = 'translateX(6px)'; setTimeout(() => c.style.transform = '', 120); }
+  }
+  for (const t of ['brief', 'browse', 'archive']) {
+    $(t).hidden = t !== name;
+    $('tab-' + t).classList.toggle('active', t === name);
+  }
+  if (name === 'browse') renderBrowse();
+  if (name === 'archive') renderArchive();
+}
+$('tab-brief').onclick = () => showTab('brief');
+$('tab-browse').onclick = () => showTab('browse');
+$('tab-archive').onclick = () => showTab('archive');
+
+document.addEventListener('keydown', e => {
+  if ($('brief').hidden) return;
+  if (e.key === ' ' || e.key === 'ArrowRight' || e.key === 'j') { e.preventDefault(); next(); }
+  else if (e.key === 'ArrowLeft' || e.key === 'k') back();
+  else if (e.key === 'o' || e.key === 'Enter') {
+    const it = queue[pos];
+    if (it) window.open(it.link, '_blank', 'noopener');
+  }
+});
+
+const SAMPLE = { updatedAt: new Date().toISOString(), sections: {
+  india: [{ id: 't1', title: 'Test headline: parliament passes the sample data bill', link: '#', source: 'PIB', publishedAt: new Date().toISOString() }],
+  world: [{ id: 't2', title: 'Test: world leaders agree the screenshot looks fine', link: '#', source: 'Reuters', publishedAt: new Date().toISOString() }],
+  business: [], sports: [], tech: [], channels: [],
+}};
+
+async function load(first) {
+  try {
+    if (TEST) { data = SAMPLE; }
+    else {
+      const res = await fetch('data/news.json?t=' + Date.now());
+      if (!res.ok) throw new Error(res.status);
+      data = await res.json();
+    }
+  } catch (e) {
+    if (first) $('brief').innerHTML = '<div class="note">Could not load headlines (data/news.json missing?).<br>The GitHub Action generates it — check back in a minute.</div>';
+    return;
+  }
+  rebuildQueue();
+  if (first || !$('brief').hidden) renderBrief();
+  updateChrome();
+}
+
+load(true).then(() => {
+  if (location.hash === '#archive') showTab('archive');
+  else if (location.hash === '#browse') showTab('browse');
+});
+setInterval(() => load(false), 15 * 60 * 1000);   // pick up fresh headlines while the tab is open
+</script>
+</body>
+</html>
