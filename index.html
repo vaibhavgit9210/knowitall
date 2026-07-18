@@ -38,6 +38,19 @@
   #progressbar { height: 3px; background: var(--edge); }
   #progressbar div { height: 100%; background: var(--accent); width: 0; transition: width .3s; }
 
+  #filters {
+    display: flex; gap: 6px; padding: 10px 18px 0; overflow-x: auto;
+    scrollbar-width: none; flex-shrink: 0;
+  }
+  #filters::-webkit-scrollbar { display: none; }
+  #filters button {
+    font: inherit; font-size: 12.5px; cursor: pointer; white-space: nowrap;
+    padding: 4px 13px; border-radius: 20px; border: 1px solid var(--edge);
+    background: none; color: var(--dim);
+  }
+  #filters button.active { background: var(--card); color: var(--fg); border-color: var(--dim); }
+  .hot { color: var(--accent); font-weight: 600; }
+
   main { flex: 1; overflow-y: auto; display: flex; flex-direction: column; }
 
   /* ---- brief mode ---- */
@@ -126,6 +139,7 @@
   </nav>
 </header>
 <div id="progressbar"><div id="progressfill"></div></div>
+<div id="filters"></div>
 <main>
   <section id="brief">
     <div class="note">Loading headlines…</div>
@@ -146,6 +160,10 @@ let data = null;       // {updatedAt, sections}
 let queue = [];        // unread items in section order
 let pos = 0;           // cursor in queue
 let read = loadRead();
+let filter = new URLSearchParams(location.search).get('sec') || localStorage.getItem('kia_filter') || 'all';
+if (filter !== 'all' && !SECTIONS.includes(filter)) filter = 'all';
+
+function activeSections() { return filter === 'all' ? SECTIONS : [filter]; }
 
 function loadRead() {
   try {
@@ -159,8 +177,34 @@ function saveRead() { try { localStorage.setItem(READ_KEY, JSON.stringify(read))
 
 function allItems() {
   const out = [];
-  for (const s of SECTIONS) for (const it of (data.sections[s] || [])) out.push({ ...it, section: s });
+  for (const s of activeSections()) for (const it of (data.sections[s] || [])) out.push({ ...it, section: s });
   return out;
+}
+
+function hotBadge(it) {
+  return it.hot >= 2 ? ` <span class="hot">🔥 ${it.hot} outlets</span>` : '';
+}
+
+function renderFilters() {
+  const wrap = $('filters');
+  wrap.innerHTML = '';
+  for (const s of ['all', ...SECTIONS]) {
+    const b = document.createElement('button');
+    b.textContent = s === 'all' ? 'All' : SECTION_LABEL[s];
+    b.classList.toggle('active', filter === s);
+    b.onclick = () => {
+      filter = s;
+      try { localStorage.setItem('kia_filter', s); } catch {}
+      pos = 0;
+      rebuildQueue();
+      renderFilters();
+      if (!$('brief').hidden) renderBrief();
+      if (!$('browse').hidden) { if (readCount() < totalCount()) showTab('brief'); else renderBrowse(); }
+      if (!$('archive').hidden) renderArchive();
+      updateChrome();
+    };
+    wrap.appendChild(b);
+  }
 }
 
 function rebuildQueue() {
@@ -215,7 +259,7 @@ function renderBrief() {
       <div id="headline"><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
       <div class="meta">
         <span class="src">${esc(it.source)}</span>
-        <span>${timeAgo(it.publishedAt || it.firstSeen)}</span>
+        <span>${timeAgo(it.publishedAt || it.firstSeen)}</span>${hotBadge(it)}
         <span><a href="${esc(it.link)}" target="_blank" rel="noopener" style="color:var(--dim)">open source ↗</a></span>
       </div>
     </div>
@@ -238,7 +282,7 @@ function renderDone(el) {
     <div id="done">
       <div class="big">☕</div>
       <h2>Brief complete</h2>
-      <p>You went through all ${totalCount()} headlines for ${day}.<br>
+      <p>You went through all ${totalCount()} ${filter === 'all' ? '' : SECTION_LABEL[filter] + ' '}headlines for ${day}.<br>
       New stories land every ~30 minutes — they'll queue up here.</p>
       <button onclick="showTab('browse')">Browse everything</button>
     </div>`;
@@ -255,14 +299,14 @@ function back() { if (pos > 0) { pos--; renderBrief(); } }
 function renderBrowse() {
   const el = $('browse');
   let html = '';
-  for (const s of SECTIONS) {
+  for (const s of activeSections()) {
     const items = data.sections[s] || [];
     if (!items.length) continue;
     html += `<h2 class="c-${s}">${SECTION_LABEL[s]}</h2>`;
     for (const it of items) {
       html += `<div class="item${read[it.id] ? ' read' : ''}">
         <a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
-        <div class="meta"><span class="src">${esc(it.source)}</span> <span>${timeAgo(it.publishedAt || it.firstSeen)}</span></div>
+        <div class="meta"><span class="src">${esc(it.source)}</span> <span>${timeAgo(it.publishedAt || it.firstSeen)}</span>${hotBadge(it)}</div>
       </div>`;
     }
   }
@@ -292,7 +336,7 @@ async function loadDay(day) {
   try {
     const log = await (await fetch(`logs/${day}.json?t=` + Date.now())).json();
     let html = '';
-    for (const s of SECTIONS) {
+    for (const s of activeSections()) {
       const items = log.items.filter(it => it.section === s);
       if (!items.length) continue;
       html += `<h2 class="c-${s}">${SECTION_LABEL[s]} · ${items.length}</h2>`;
@@ -354,6 +398,7 @@ async function load(first) {
   updateChrome();
 }
 
+renderFilters();
 load(true).then(() => {
   if (location.hash === '#archive') showTab('archive');
   else if (location.hash === '#browse') showTab('browse');

@@ -113,6 +113,28 @@ def norm_title(title):
     return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
 
 
+STOPWORDS = set("""a an and are as at be but by for from has have he her his how i in is it its
+of on or say says she that the their there they this to was were what when who will with you your
+after over amid new live updates news top today latest breaking""".split())
+
+
+def sig_tokens(title):
+    return {w for w in norm_title(title).split() if len(w) >= 3 and w not in STOPWORDS}
+
+
+def similar(a, b):
+    """Do two headline token-sets look like the same story?"""
+    if len(a) < 2 or len(b) < 2:
+        return False
+    shared = len(a & b)
+    return shared >= 2 and shared / min(len(a), len(b)) >= 0.5
+
+
+def mostly_english(title):
+    ascii_letters = sum(c.isascii() for c in title)
+    return ascii_letters / max(len(title), 1) >= 0.7
+
+
 def split_google_title(title):
     """Google News titles end with ' - Publisher'. Split it out."""
     parts = title.rsplit(" - ", 1)
@@ -122,10 +144,13 @@ def split_google_title(title):
 
 
 def collect():
-    sections = {}
+    """Two passes: gather every raw entry (the scoring corpus), then per section
+    dedupe near-identical stories and score each by how many distinct outlets
+    are running a similar headline anywhere in the corpus ("hot")."""
+    raw = {s: [] for s in FEEDS}   # section -> raw entries
+    corpus = []                    # (tokens, source) for every entry everywhere
     failures = []
     for section, feeds in FEEDS.items():
-        items, seen = [], set()
         for feed_name, url in feeds:
             try:
                 entries = list(parse_feed(fetch(url)))
@@ -143,19 +168,34 @@ def collect():
                     title, publisher = split_google_title(title)
                     if publisher:
                         source = publisher
-                key = norm_title(title)
-                if not key or key in seen:
+                if not norm_title(title) or not mostly_english(title):
                     continue
-                seen.add(key)
-                items.append({
-                    "id": hashlib.sha1(key.encode()).hexdigest()[:12],
-                    "title": title,
-                    "link": link,
-                    "source": source,
-                    "publishedAt": when.astimezone(timezone.utc).isoformat(timespec="seconds") if when else None,
-                })
+                entry = {"title": title, "link": link, "when": when, "source": source,
+                         "tokens": sig_tokens(title)}
+                raw[section].append(entry)
+                corpus.append((entry["tokens"], source))
                 count += 1
+
+    sections = {}
+    for section, entries in raw.items():
+        items, seen_keys, kept_tokens = [], set(), []
+        for e in entries:
+            key = norm_title(e["title"])
+            if key in seen_keys or any(similar(e["tokens"], t) for t in kept_tokens):
+                continue  # same story already kept in this section
+            seen_keys.add(key)
+            kept_tokens.append(e["tokens"])
+            hot = len({src for toks, src in corpus if similar(e["tokens"], toks)})
+            items.append({
+                "id": hashlib.sha1(key.encode()).hexdigest()[:12],
+                "title": e["title"],
+                "link": e["link"],
+                "source": e["source"],
+                "hot": hot,   # distinct outlets running this story (1 = only here)
+                "publishedAt": e["when"].astimezone(timezone.utc).isoformat(timespec="seconds") if e["when"] else None,
+            })
         items.sort(key=lambda i: i["publishedAt"] or "", reverse=True)
+        items.sort(key=lambda i: i["hot"], reverse=True)  # stable: hot first, fresh first within same hot
         sections[section] = items[:PER_SECTION_CAP]
     return sections, failures
 
