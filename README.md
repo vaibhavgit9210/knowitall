@@ -15,13 +15,20 @@ Live: https://vaibhavgit9210.github.io/knowitall/
     `site:` searches.
   - *News Channels section*: top-stories RSS of TOI, NDTV, The Hindu, HT,
     India Today, BBC, Al Jazeera.
-  - Dedupes by normalized title, drops items older than 36h, caps 30/section.
+  - Dedupes near-identical stories (token overlap), drops items older than 36h,
+    caps 30/section, filters out non-English headlines.
+  - **Importance ranking**: each story gets a `hot` score = number of distinct
+    outlets running a similar headline anywhere in the fetch. Sections are
+    sorted hot-first, so trending stories (the ones everyone is covering) lead
+    the brief; the UI shows a 🔥 badge with the outlet count.
 - **`.github/workflows/update-news.yml`** runs the script every 30 minutes,
   commits `data/news.json` + daily logs to `main`, and force-syncs `gh-pages`
   so the site updates itself. No servers, no tokens, no cost.
 - **`index.html`** — the whole site. Three views:
-  - **Brief** (default): one headline at a time, in section order. Space/→ to
-    advance. No list, no skipping. Progress bar tracks you.
+  - **Brief** (default): one headline at a time, hottest first. Space/→ to
+    advance. No list, no skipping. Progress bar tracks you. Category chips
+    (All / India / World / Business / Sports / Tech / Channels) narrow the
+    brief to one section — also deep-linkable as `?sec=tech`.
   - **Browse**: full grouped list — 🔒 locked until you finish the brief.
   - **Archive**: every headline that ever appeared on the page, one JSON per
     IST day in `logs/`, browsable by date. Git history is a second audit log.
