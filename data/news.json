@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-22T23:22:35+00:00",
+ "updatedAt": "2026-08-22T23:46:51+00:00",
  "sections": {
   "india": [
    {
@@ -27,15 +27,6 @@
     "source": "The Times of India",
     "hot": 2,
     "publishedAt": "2026-08-22T16:36:00+00:00",
-    "firstSeen": "2026-08-22T23:22:35+00:00"
-   },
-   {
-    "id": "fc283ecd0831",
-    "title": "No More Physical Boarding Pass Stamping At Immigration From Sept 1",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2t2amlDbW1HdTBJOE54S0dCYzBZUmVFektxNmVPNUJlNnY5UVF6SzRiWEtwbzhqc2VBVDlwRGpZZ3hGTHNSTGx4MG1PUGFYTFJZeEpHaC05YU5QcTVYNmthSk0ydmdEcWZCaUlTdm5hWUdLSExpdXFJbk9KVnhOX00tQlVSSlVkdDc4ODF0WGR5aXdDelk4RlZxejhnOF9rc2FvT0N30gGuAUFVX3lxTFB5cUNwVVF6QXFJVUQyUjhhLV8wS3hFWkRwTjBqV3dnd3JOdDdJdkt0cjZCVmt6b2QxcEdIVFJnVF8xd2xVWkNzdWxtYU1fc3FEcEZxcVdYaTdhWDRPVC04Nnd6d1JGQTVRMlVnYTFGU1JPREhvckVpTlF1UzMzdURhMkVOQUJTNFdlQlBhZG41alI5cHAxWEFqb19GV1VJNlRLZ0VySWpsTWFwNUI1QQ?oc=5",
-    "source": "NDTV",
-    "hot": 2,
-    "publishedAt": "2026-08-22T08:48:21+00:00",
     "firstSeen": "2026-08-22T23:22:35+00:00"
    },
    {
@@ -129,6 +120,15 @@
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
+    "id": "b34f5bc8881b",
+    "title": "India to end boarding pass stamping at airports for international travellers from September 1",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaXdZZXNkUE83cHhaSW5BRmdxWGlSckVjVDNpZ1JBdVYyZmxWYWVEU1NZTU0wRngzWGxsZ3lGaUF0bWRXblhYZHZmcEdSUFIwd1VtalU2SkhsVkJ1SjR3UmkxcF9ycDlZM1ZfZjlyY1Zvd05PakZoMHNza2M5MlQzLWxXRndrUWZ2THJKTFJZcjYtb0dacEp2d3c5aDlrQ05sdXVtb0s5aTl6OGk2bnJvUThTYlNkU2F3VHkwMkJpeW9oX1ltMzRRb2IzUUlQWDM3NC1hMUxrRjJvc0FRd3p2WEJrVzlkdW_SAe4BQVVfeXFMTTRyak9uNUhlUTdtY1JzNC1tX09SM0s1MG9sZjlKeXdLR1VaTktCaHc1LXNrM2YtMENNWW1SNjR1cFpUWHY5OFhGX2FzN0YzbDFhYUxVNHJfM196MVJrWkJtMHhIZEU3aUJocmxxb3JmWkdjMVhHRTluaXM5WS1rRUM5MGc4c2V3S1JPcHlCNHl3Y0p6YUdMMVJwcW9BOHJ5ZlV6S3U4ZnB0QXdJVjJjM3Ixa3E2UTcxZU12X25PbDIxWDE0a3liVEhnU0dlbEItc1dON29objRNM25nLXlLdnJyekVSWTFlSUdZdl9SQQ?oc=5",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-22T12:43:23+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
+   },
+   {
     "id": "9cb4f8ac6512",
     "title": "Hyderabad Edtech Edwisely Powers SASTRA.AI, Betting India's Universities Are Ready to Move Past the LMS",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWnpld2taZElWb1FNX0JJNGEtTlZSTk11OTNUUExySDZEamplVnh1ak5lTjlpWTN3WWU5NHA0VnBuVTlEdVFKLUppLWV1ZmlabkFINGF3Q2ZYUXMxVXhUSDIzSGowYldHeTNHN19Ob1lpU0xqdl9JTTd2dWU1ZnlSZUx1UkQySkxmRHRWY1Zyd2VybUc0azBHblRzWDF2SnBTOXZpd0ZReEo0TXpnZVBqNVRNSkx2MzktbHhxR0ZiNlhMM2taN0VncFNLUF9sU1haYkwxeUdGYlNLNWJxTVRlMmZFRmc?oc=5",
@@ -192,13 +192,13 @@
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
-    "id": "65458bd8f187",
-    "title": "Boy dies after dispute over iPhone with parents; couple die trying to save him",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSU5jNHhTbXloSmFxSURrU2FBSE9zVWgyalZjazZiUnFyeWZsOFYzaHVZclpPRVZtRWJ6NHQ1Z0pSSmlYdWswaTN3TWV2bERTX0t0MTdqcEUwME5hZnF5OEo0eThycHhvU0JfTWxqemtmMnAtcmhMOFBDcXFELXEyWUlDTjA1VkdvbTlDamlTMXk3UzNUdU85MlJrbFJmZUlienVzdGVMMGlBeXIyTnVHRzVEcEh0WmQwcVpKbHcyNldUZEV1dTc3em9YSXNmVGRjME4zSXpzNU5sRkh5UjhDbjlxWGlIMWtZd2NPa0Z4aTJKZWNxMmJVUDh5dULSAYMCQVVfeXFMT3hzM3ZSb1dGYlIyV1pXYmwzOGFobGVXczFSc1Q0MnhQWklobWxrMy1KY3R2MUNjMWt1N2ROS1AyYnVyZmd0T29XRHllMnlvXzg3UjROSkdTVVJXSk1INy16MWxTOFg1aVd5M2VKTFBoZVhpaU9hRGZCUnVSc25xVWdMVHpwRGdpMDdhR1g5QjBIdFFTaWU4ZDdxWjJCYU9LQVpaWUhZaHNONXBQSWdGQmR5Y25fQXl4bnBYQWwxM2dDUmdWb1BsTXVsWFVNNzB5SlhnQjFRa3gyTkwxUEhsLVRwMWZvUzY2eWMtT2VfTHMzZWdVdURRNVd2R0J2M1dXVHhqNA?oc=5",
-    "source": "The Hindu",
+    "id": "4c9c08fa694a",
+    "title": "Teenager, parents die after falling from Maharashtra hill amid iPhone EMI dispute",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZU81QU90S1E1YXVwS0ZnR2NZdldIMmpTRjhNc3d4aEZjbjFZSWJlMFlrNFFMM3RKb0pLTkdaNzZZc1BDU2FaYkJ2X2prZDRYdVZmbmFWMWdBckRGV0JWRTNqa211VUdETjNTaHh6U3dzNllXVEtleVpkYnFQYklIbnQtWHVnSW9HVlIySzE0YnJTYzRRMk5FaVdkUDBVSjF4T2RhZ0xua3huWEJTdW8yMTZseTNhV3JXRkdfcmdzY29ULWVvMWRuanpSSXRyOGVuM2xPLWJubUtNVUZT0gHqAUFVX3lxTE5UM09WM3R6SWl5WGQzWGpYTFNCbU9xVWl0cFlySEJvdVBPbWszUFU1a0tWQ2xpVjJIZExBNDl1RUtPQ1VUMXJacFFXM2pLcUxqdUk1X2FvbnF3d1BEbmgzWkljVGNOVjZpOExNQWV6d1p0YkxyTFZhVVlvMzBTZFcxbUdtcTVSOFJ1LXp3cHVaTDgwN0oxN19FQlYzTm12N2x4WG1wOEZZaGtsZFQ3YTVxU1RNZFVsME05QXc5NHhsakZsQnBYcWxsbUtMaU82di13N25IdnczY2RLLS1tVFBuNWRHcHFpUEtEQQ?oc=5",
+    "source": "The New Indian Express",
     "hot": 1,
-    "publishedAt": "2026-08-22T03:44:02+00:00",
-    "firstSeen": "2026-08-22T22:23:50+00:00"
+    "publishedAt": "2026-08-22T03:16:30+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
    },
    {
     "id": "d1fb0b2cabc0",
@@ -219,6 +219,15 @@
     "hot": 2,
     "publishedAt": "2026-08-22T18:23:42+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
+   },
+   {
+    "id": "12230d2dee5b",
+    "title": "Iran war news LIVE Updates: Iran says US economic sanctions a ‘declaration of war’ on all nations",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZE45RWpQcHo5Z1NzYkI2ZWtJMW9PTE4tbW13d3JsQk5hRTY2SFo0eDdfcnVKYUt5bnBTcmxtQy1ZdWtjcWxJVVQ5aVBrRkkxelNfNzJTeF9qc1Bkc19TWE5kOS1wekRuS3h6aVFJUFl0ZXV1cGVBVTRFZ1UyY25nWFMwZU5KUjdpRE5xNmJtR0pUck9CTi03QWFlemFOOVR4VGdVWWlKYlBFZHR0dXRCUU80dGVocHZjNDc2am5Dd05zZ1FTeS1hOC0tZVhmM25nYlNZeWN5Q1FBeUNnZXlvZXBPWU5OaXUyS1Q4cXRGY3BIaExMLUhSYm1XUUU0d2RJTnc?oc=5",
+    "source": "livemint.com",
+    "hot": 2,
+    "publishedAt": "2026-08-22T17:12:14+00:00",
+    "firstSeen": "2026-08-22T22:23:50+00:00"
    },
    {
     "id": "cbe97e8bc4e5",
@@ -246,15 +255,6 @@
     "hot": 2,
     "publishedAt": "2026-08-22T10:19:57+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
-    "id": "c3a3c3f007ab",
-    "title": "\"Will Be Greatest Of Its Kind\": Trump \"Grateful\" For Supreme Court Ballroom Decision",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDViMkFwT250WXQ0cElBUHo4c1JQc1E3QXBRVlItZGRQS0U3NDJPOXoyVUJVcVYzcFNqcVNIVzQwTHVxcXRRMl9MYkhoaVRhamZBc2oweHU1UDZVWTFNTEV5d1A5bVdRNFN6TkRuZFp2Q0xHTDgzNHNwYmdoYmNfM2NKazV6bzJyRVVSTm5lQXhvR0VtUVowbU1VUXdsNTTSAacBQVVfeXFMUDF6eFVpWlRqX2xlWDFFdkMxdUp4VlhSQm9pYTQ5bzZoV0NiVEx3bV9XaWd6T2ZUU1ZTQWRaR3RscWNtRDVSNlR4WDc5RTM0cV82dndmZ21pUDlHandvNlpZQUYyNkEtZzdjelNwYWczMXhZVXV5MnZMcnFJVFlPZFAza0JmX201eld1TXBZVTBvSGNmSzJCY2tsZjQwTld3UXhWRGVoSkU?oc=5",
-    "source": "NDTV",
-    "hot": 2,
-    "publishedAt": "2026-08-21T23:32:23+00:00",
-    "firstSeen": "2026-08-22T22:49:27+00:00"
    },
    {
     "id": "8ae173630328",
@@ -300,15 +300,6 @@
     "hot": 1,
     "publishedAt": "2026-08-22T17:21:21+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
-    "id": "12230d2dee5b",
-    "title": "Iran war news LIVE Updates: Iran says US economic sanctions a ‘declaration of war’ on all nations",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZE45RWpQcHo5Z1NzYkI2ZWtJMW9PTE4tbW13d3JsQk5hRTY2SFo0eDdfcnVKYUt5bnBTcmxtQy1ZdWtjcWxJVVQ5aVBrRkkxelNfNzJTeF9qc1Bkc19TWE5kOS1wekRuS3h6aVFJUFl0ZXV1cGVBVTRFZ1UyY25nWFMwZU5KUjdpRE5xNmJtR0pUck9CTi03QWFlemFOOVR4VGdVWWlKYlBFZHR0dXRCUU80dGVocHZjNDc2am5Dd05zZ1FTeS1hOC0tZVhmM25nYlNZeWN5Q1FBeUNnZXlvZXBPWU5OaXUyS1Q4cXRGY3BIaExMLUhSYm1XUUU0d2RJTnc?oc=5",
-    "source": "livemint.com",
-    "hot": 1,
-    "publishedAt": "2026-08-22T17:12:14+00:00",
-    "firstSeen": "2026-08-22T22:23:50+00:00"
    },
    {
     "id": "396d8a4edceb",
@@ -410,6 +401,15 @@
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
+    "id": "c3a3c3f007ab",
+    "title": "\"Will Be Greatest Of Its Kind\": Trump \"Grateful\" For Supreme Court Ballroom Decision",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDViMkFwT250WXQ0cElBUHo4c1JQc1E3QXBRVlItZGRQS0U3NDJPOXoyVUJVcVYzcFNqcVNIVzQwTHVxcXRRMl9MYkhoaVRhamZBc2oweHU1UDZVWTFNTEV5d1A5bVdRNFN6TkRuZFp2Q0xHTDgzNHNwYmdoYmNfM2NKazV6bzJyRVVSTm5lQXhvR0VtUVowbU1VUXdsNTTSAacBQVVfeXFMUDF6eFVpWlRqX2xlWDFFdkMxdUp4VlhSQm9pYTQ5bzZoV0NiVEx3bV9XaWd6T2ZUU1ZTQWRaR3RscWNtRDVSNlR4WDc5RTM0cV82dndmZ21pUDlHandvNlpZQUYyNkEtZzdjelNwYWczMXhZVXV5MnZMcnFJVFlPZFAza0JmX201eld1TXBZVTBvSGNmSzJCY2tsZjQwTld3UXhWRGVoSkU?oc=5",
+    "source": "NDTV",
+    "hot": 1,
+    "publishedAt": "2026-08-21T23:32:23+00:00",
+    "firstSeen": "2026-08-22T22:49:27+00:00"
+   },
+   {
     "id": "d739b4989db1",
     "title": "2 Ships With 22 Indians Hijacked By Armed Pirates Off Yemen, Somalia",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjlKaWUxaks2M0pXck5RVkZMN1Zfd2lOS19WTi1rY3hZcVJReURrMkZNc1BiV2ZUYjV3U0xsSWRZUnRIbVhQRWxGNmx6dGtnUnBRU0kzeU10YnNYcmNhdGkyR1pISDJYM0l6bm5SX1NvRmtNRkEyRHoyNDZZeFhPN0RUUi1TZU4tYlYwOGdCTllCNUQ0VkVYMERUZHNQYWdmV1EtUzk5cDdqZTda?oc=5",
@@ -430,15 +430,6 @@
     "firstSeen": "2026-08-22T21:23:17+00:00"
    },
    {
-    "id": "e11116deb010",
-    "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
-    "source": "Reuters",
-    "hot": 2,
-    "publishedAt": "2026-08-22T20:03:10+00:00",
-    "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
     "id": "cbe97e8bc4e5",
     "title": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5",
@@ -446,6 +437,15 @@
     "hot": 2,
     "publishedAt": "2026-08-22T16:03:12+00:00",
     "firstSeen": "2026-08-22T22:49:27+00:00"
+   },
+   {
+    "id": "e8ab49e018b9",
+    "title": "Seven dead in UK after vehicle travelling wrong way hits police car",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcC11SW8wQU1KT0N4d3h5RUI5eVhQcDBUZFdlZXFjQzZPMGJrYi1mYnVGS2tobE9ZV1JkSDJRWTVIWlkxSk1obkpYeHlTZ2ItX0NYWmlXbmdRTjBHeHRocmJaaG9NVktrclNHYTBMZVZaSjdia1BmZDhTNGUtTGZfS0tBNHhveTVfMFZIS3czR0o4SHNQMGpBQmlUUldxUQ?oc=5",
+    "source": "Reuters",
+    "hot": 2,
+    "publishedAt": "2026-08-22T15:53:16+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
    },
    {
     "id": "d80cb78b5aac",
@@ -472,6 +472,15 @@
     "source": "Reuters",
     "hot": 1,
     "publishedAt": "2026-08-22T21:46:16+00:00",
+    "firstSeen": "2026-08-22T21:47:43+00:00"
+   },
+   {
+    "id": "e11116deb010",
+    "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+    "source": "Reuters",
+    "hot": 1,
+    "publishedAt": "2026-08-22T20:03:10+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
@@ -529,6 +538,15 @@
     "firstSeen": "2026-08-22T23:22:35+00:00"
    },
    {
+    "id": "4318a95d437a",
+    "title": "This 14 Lakh 7-Seater Offers Better Comfort Than Its Rivals",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMzBRb2FLMWxndG5BZHlWc1VmdVJkYWJkSXM3SjA5UkFPVjNaYmxPVVBEaEdWTk1vRWtOYzhHdDN2azJUS1ZRYjdza0d6eVhweE56Y25nYmkyQmsyNUVvMmU4Y1BUenB6bWNlOTFHZVpvT0l2WXlUUk5YLTBlMXhJZHpkZHV4N3FkY1VvMUdDVHpFOFFXX3F1bHZyONIBoAFBVV95cUxPRVk5N3NYeHZXMGhlUlJ1aDl4OUY1SjhuYTM4T3pLeUNydFNUNF94bDVzMnExREdITVd4T01NQ1BFdWMzdkU4SXhUdmtxTnpXTXhCY0w2aWk0Q3NwVGtpemdXN1Q4RGhyREtmd0E2WWNvRV9TX2hyUkhGZ1NFSkpsZlI5bzZYSXBTdTdhX2d1WDl6eFNmeWI4RTNYNmhnY2ty?oc=5",
+    "source": "MotorOctane",
+    "hot": 1,
+    "publishedAt": "2026-08-22T13:00:00+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
+   },
+   {
     "id": "a75e993859dc",
     "title": "Romania adopts new measures to boost Danube waters to cool Cernavoda nuclear plant",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTEloQl93UWRETzBXZ3hIZWM1eDZFREpLN0NDZkMwM3hZVXhpMjI2dnBWdmxIVV81WVVRVG1nVEE5NkVHYTlqSE9RQWQxMy03Tl94RUU4WDZQRkc2cFBJVU0xYy1DdHpFOFRoLUVkajd0dkplRVNmZkhlSERNV1NpR3M2TXlxaGo2LWR3Yzk1ZUdtUXdmNVdKVWNJN2tHSU1qOHRIcWRZcWRZaGRkMjF6cWFSVFJNbE11U0VINW5ERDZ5QUo4ajRv?oc=5",
@@ -565,15 +583,6 @@
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
-    "id": "f508cc71cd29",
-    "title": "Zee Entertainment promoter allotted convertible warrants",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY29zQmFOeUVTbE10Y1l3OXoxT0pza09rMzVHZ2lFT2pPaXMwVDBuQjJMSjBWbE5jcUp0SGJXMzM3OTgyc1FCRHlLbGtxSndLVnh1QTdab1pIaEl5NEpqdnlrbW1vaVB2RnNaTHRYbnBQa2NGZVl6VHBkcGw5SHhGVTJxemgxVkRvMDFaZDlGNTZxREZKU25JSHAxakxrZnpRd3ZxalZ3WWlDM19jQWJYbkFLSGxhM3FkUVpiZzlR0gHDAUFVX3lxTE9qSl92YWRTLVM5Mi1sVGp1TlRpU1l5TTFFRksyZ3o2UFNrUldkaUtvaF9lRzF1TTRyOFAzekVleUFrSE1YTjk2S3BHckV2cGNFOXJtbmttSDViRWNSR0VjYUVGdWtSWW02eDlpeXFYa2tUakZGc0htTzBRQ01MVXpqTFFkWDVLdDU1dmpSTFg1UEY4N1NQNzVsRVY4ZzFtSXBzdUJfbDhHbEUxZzV1dlpGQkFyUnNHenVycVZxeFNzc0loNA?oc=5",
-    "source": "Moneycontrol.com",
-    "hot": 1,
-    "publishedAt": "2026-08-22T06:28:22+00:00",
-    "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
     "id": "aa88b4fc08ee",
     "title": "At least 13 Tunisians missing after migrant boat sinks off Tunisia",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHFXYTZwbms4c0tlRDFOZkwwS2FhM0xmZzZRMkdSMjV6MGhZWXl0NC1uSXF1NzU2X1pOMzBEU05QU2NKUDNCSTk4THFXWEY5bW5NT0F6aDl3WlNWeTJmVVJFYkJxRjJmU3U4dnJZc1NhS0tnbTd3bVZpNEVva2FKOFdHQ0VQSWdjTVpUazljenlBNWJ2Sy13U3pWbGloVjdjakNvOThxajJuSEU3NGxnUS1LT2RBZjVYMFR5VGZWYlE?oc=5",
@@ -589,15 +598,6 @@
     "source": "Reuters",
     "hot": 1,
     "publishedAt": "2026-08-22T00:36:00+00:00",
-    "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
-    "id": "356272618150",
-    "title": "Trump says he did not direct Bessent to intervene in bond market",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkFsc1FIR29sOXp1dmJuLTJFNHR0Z04taHhTaEZkd1QyRmhxN0hKTmZHYldObW5zV1J6c2ozT04xOXp0dlFMbWgwMHVUckdCeHNPRG1QTEE4bU9fckJmd1BnekhaZ0JCOUUwbDBCdWdRM3FRWEFJUHB4LW9KaTNPRDBmQ1lLYTdOUTJWa2wtckZ1Y0FFbjJVTkFjaUVKY2Zwdm05VENB?oc=5",
-    "source": "Reuters",
-    "hot": 1,
-    "publishedAt": "2026-08-21T23:27:43+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
@@ -619,6 +619,15 @@
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
+    "id": "99916f2bc2e5",
+    "title": "India’s rich are moving 40-45% of wealth beyond stocks, real estate – what are they buying?",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLVZHSXBqblRJNjNoS0NQN1lnUlFxTkZ0Tl8wVi01TlNFQlJSWXVRLUVMN0lsUTNKLV84TTJFblE4QVZ1OFlTcjNFMml3TUstaGQ0aTBGVEJuTXpkSlF6aXQ3YWswd2dtVTl4Vm5qck1walg1b2dMU3lWT0Jjb1JQTVVtdTB1dHVOR2N4VkNqUEtFQldTdmI2YlM1eGV1UFlxOW84ZElZT01GdDUxaU9jN2JWNENla1VjUWIzQVNVVEppNlBIMk04YXdkRHM0RmFSSm0wcXZ4c9IB3gFBVV95cUxPOElsWEJwcW1OWllhT25GSkR5SFQtREFVTDhpRzJwSHVQVEJMVE45bVY4RmRBeS1CSGVKd2ZJVXBORmNlcm9rclVoN3hsNk5udEJaQXlXNlZ2VVIyYlBDR0dJRlR5VTVNa2Itc1lZQlUyQ0NzWEVrc0FSbV9KUnpNejBYeGRjR3g3ZDhEaTQ3VXNLUF9kUDFhUFc3YmlCamZyQ1ZKMjJHUkFmMk9hUnAxcDc4S18wdHVBS2RaMUVfZl9KWkt1RUQ1R1Y2am9pRms1ek95TlphTjRvcGVLZUE?oc=5",
+    "source": "financialexpress.com",
+    "hot": 1,
+    "publishedAt": "2026-08-21T14:05:57+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
+   },
+   {
     "id": "2edd0d23afed",
     "title": "India gets $511.5 million in FDI under new policy for neighbouring countries",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEZybFNFcUJHeFhjcW9JWUFyOHhSd0dEUWI2NWlUNVhnbzkyZ2M0Ymc5RzhCTzE4ZlBEV21nTkpnWXBBeTRGb2I0VW1iVnBOZXJLbUYxY3RFSXA1eDU1NkJZeFNMRDRud1dteDlGQW40VkVRcVZCN19lczlwdXIxZ2FnYUF2RUJFY2RMZ282eU81d2R5Z1JPYWZtZUxZOGlBZ0xzaXJhclNGekZVTE4tNTh0LVBYdw?oc=5",
@@ -626,15 +635,6 @@
     "hot": 1,
     "publishedAt": "2026-08-21T13:11:12+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
-    "id": "5a5507cfc162",
-    "title": "India's forex pile rises to six-month peak on sustained capital inflows",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5",
-    "source": "Reuters",
-    "hot": 1,
-    "publishedAt": "2026-08-21T12:07:44+00:00",
-    "firstSeen": "2026-08-22T23:22:35+00:00"
    }
   ],
   "sports": [
@@ -754,16 +754,7 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
     "source": "AP News",
     "hot": 2,
-    "publishedAt": "2026-08-22T03:43:36+00:00",
-    "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
-    "id": "bee3b590a242",
-    "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWF96endSSklBQ0dCRVBNcjNPdEFVSS02dU5ybnNIeDdNOTlhZ0gyNVZuWm05YndRbTF6VkctQVFUdDRXeklSbDFJS3laNC1vaGt6NGZZWGNlREo4YXE0MXFuNzNzaU10NnVBTjRXS2MyX0RWNi1MRVBlYjZyVWNDZVVHdGV6cTg0WlItLTR0ZFFuUDFuMjlqV1JwRzBPZ1A2REE?oc=5",
-    "source": "AP News",
-    "hot": 2,
-    "publishedAt": "2026-08-21T23:32:00+00:00",
+    "publishedAt": "2026-08-22T19:43:00+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
@@ -801,6 +792,15 @@
     "hot": 1,
     "publishedAt": "2026-08-22T19:00:36+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
+   },
+   {
+    "id": "929c22261588",
+    "title": "I’m now sure the Galaxy Z Fold 8 has already wiped the floor with the foldable iPhone",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk1uSVBLNGxnajNIeFRPN3JDcVRIdk0xQVQ4bkw5VFFUOUJSc0w5b3FTcEdxNkd3UDBPWTYwTEQ5VUlBcUYtUmNzVUNTYXA5VjFFeVhCVl8yNDI2WlVFY19JUDNNd2NtSEY0LTI2YnBqOHN2ZmtmUFBTWnZGejgtZTdKbFdwTzZTVVVOWXZjYTZvVXRiNVRTTHZOekdYLW9od3F6R0xvOUhYWHl3eENXYkxjdUV1T0tXeHRqckZYT0NQZm8?oc=5",
+    "source": "PhoneArena",
+    "hot": 1,
+    "publishedAt": "2026-08-22T18:31:34+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
    },
    {
     "id": "9767419e8b80",
@@ -893,6 +893,15 @@
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
+    "id": "d1f268651e39",
+    "title": "Apple iPhone 18 Pro Design Latest: 4 New Colors And Updated Case Style",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVNsTlpOZWx4UDJUSWNiODl1MWZQWjlqSVRUTWZGT2VsRm0tQktyNkxqMzRoWkpaTXM0NWI3cjFyTEpZMG1ZU2FhNk1nMVVYNkRwMnBiTWtoOTNGSE5YN05QYTlvYnZFRjVKanpDdU5YV08yNG1QVy1CU0pUT1QtMHNwUlpTN0IyMUhGTTFsWm1KSk5RWmNaQnJzRUljakJjWmxGUkdRb2pMZTdYU1ZrTks2dzhxbHA5R1R4cVBnSQ?oc=5",
+    "source": "Forbes",
+    "hot": 1,
+    "publishedAt": "2026-08-22T08:40:50+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
+   },
+   {
     "id": "2819c38c65d2",
     "title": "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1lVaUlBUkREVmNQS2psak5xOUtXMmE0c3dzNy1Oal9MM19DMno4WEVaTlhORngzVnUweTltVWdJRDdaVW5xTFd1WTVOOFRIYXh4TnFrdzliOTZxVmxSYlRGclB1Y29BUUpvMWZfb0NUbHdjWnF3Mlk4bmc5Mnk2NWN6UDdvWnBHX0FjejJhSHpoVG9Md2FibU44aWVCLTdsLUNId1h4YlU?oc=5",
@@ -911,13 +920,13 @@
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
-    "id": "33a09c5c533e",
-    "title": "Chinese Hacker Uses DeepSeek AI to Automate Vulnerability Exploitation",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HV0IyQ3RZSm50eVhPY1lraTJTV1lrZ3ctZkg1ZWdvcE1yTV9WRmpTRlhFUkxPSlg4V3Vha0dvazBJNjVnTm5ZWGU0Rk9fUTMycTRQTzJPRjdHWDExVXZJeU51UTB2Z9IBZkFVX3lxTE5HV0IyQ3RZSm50eVhPY1lraTJTV1lrZ3ctZkg1ZWdvcE1yTV9WRmpTRlhFUkxPSlg4V3Vha0dvazBJNjVnTm5ZWGU0Rk9fUTMycTRQTzJPRjdHWDExVXZJeU51UTB2Zw?oc=5",
-    "source": "cyberpress.org",
+    "id": "529486711597",
+    "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E?oc=5",
+    "source": "AP News",
     "hot": 1,
-    "publishedAt": "2026-08-22T06:31:16+00:00",
-    "firstSeen": "2026-08-22T22:23:50+00:00"
+    "publishedAt": "2026-08-22T07:53:00+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
    },
    {
     "id": "e4fff03b4894",
@@ -954,18 +963,18 @@
     "hot": 1,
     "publishedAt": "2026-08-21T21:50:00+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
-    "id": "d68a1ef35c70",
-    "title": "Galaxy Z Flip and Fold 8 storage upgrades are cheaper in the UK for a limited time",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnNYSlExek4zVVFTakpiUmhjY1pGQUcxSURkczFPX3doMWxkeWRXQ3hqWVFUQVQxQ3BkSXRrQ1B1ejI4Z0JfbFdqMWo0RFpOUzNNOWJPdVpWQWwzcFZPTTFuREVSNVFfU1FxbjMzSXZmX1RxWFkzU0s1SWVVQ3loSkZVY0NSSXdsZzJFWjJSa3BoeWRnbVNnbGRmTGZPdEg4RDJKaDRJeFN4YkFjeGdUOVRtN0Q?oc=5",
-    "source": "SamMobile",
-    "hot": 1,
-    "publishedAt": "2026-08-21T12:19:00+00:00",
-    "firstSeen": "2026-08-22T22:23:50+00:00"
    }
   ],
   "channels": [
+   {
+    "id": "6f04e0abe67f",
+    "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+    "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+    "source": "Al Jazeera",
+    "hot": 2,
+    "publishedAt": "2026-08-22T23:26:15+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
+   },
    {
     "id": "c798716b3174",
     "title": "'Vanished from tracking system': How Panama-flagged cargo ship sank off Odisha coast",
@@ -982,15 +991,6 @@
     "source": "Times of India",
     "hot": 2,
     "publishedAt": "2026-08-22T21:05:48+00:00",
-    "firstSeen": "2026-08-22T21:23:17+00:00"
-   },
-   {
-    "id": "3268c3da4125",
-    "title": "Soon, no need for physical boarding cards at immigration",
-    "link": "https://timesofindia.indiatimes.com/india/soon-no-need-for-physical-boarding-cards-at-immigration/articleshow/133431013.cms",
-    "source": "Times of India",
-    "hot": 2,
-    "publishedAt": "2026-08-22T20:56:20+00:00",
     "firstSeen": "2026-08-22T21:23:17+00:00"
    },
    {
@@ -1021,21 +1021,21 @@
     "firstSeen": "2026-08-22T20:24:23+00:00"
    },
    {
+    "id": "8c4f96e7f70c",
+    "title": "Two police officers among seven killed in wrong-way car crash",
+    "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "hot": 2,
+    "publishedAt": "2026-08-22T19:28:14+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
+   },
+   {
     "id": "644de4c602da",
     "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
     "source": "Al Jazeera",
     "hot": 2,
     "publishedAt": "2026-08-22T19:24:00+00:00",
-    "firstSeen": "2026-08-22T21:47:43+00:00"
-   },
-   {
-    "id": "b74bc64f1a2f",
-    "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-    "source": "Al Jazeera",
-    "hot": 2,
-    "publishedAt": "2026-08-22T19:13:02+00:00",
     "firstSeen": "2026-08-22T21:47:43+00:00"
    },
    {
@@ -1055,6 +1055,33 @@
     "hot": 2,
     "publishedAt": "2026-08-22T15:22:33+00:00",
     "firstSeen": "2026-08-22T17:47:08+00:00"
+   },
+   {
+    "id": "39a542a942d5",
+    "title": "Visit families affected by Ken-Betwa project, hear their grievances: M.P. CM tells officials",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/visit-families-affected-by-ken-betwa-project-hear-their-grievances-mp-cm-tells-officials/article71378282.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-22T23:27:55+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
+   },
+   {
+    "id": "245084449f7b",
+    "title": "Why we can't look away from hoarder home clean-ups",
+    "link": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "hot": 1,
+    "publishedAt": "2026-08-22T23:22:10+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
+   },
+   {
+    "id": "29d116eeeacc",
+    "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+    "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "hot": 1,
+    "publishedAt": "2026-08-22T23:22:02+00:00",
+    "firstSeen": "2026-08-22T23:46:51+00:00"
    },
    {
     "id": "d913aa9abbb7",
@@ -1129,6 +1156,15 @@
     "firstSeen": "2026-08-22T21:23:17+00:00"
    },
    {
+    "id": "3268c3da4125",
+    "title": "Soon, no need for physical boarding cards at immigration",
+    "link": "https://timesofindia.indiatimes.com/india/soon-no-need-for-physical-boarding-cards-at-immigration/articleshow/133431013.cms",
+    "source": "Times of India",
+    "hot": 1,
+    "publishedAt": "2026-08-22T20:56:20+00:00",
+    "firstSeen": "2026-08-22T21:23:17+00:00"
+   },
+   {
     "id": "2ae967a6dc7f",
     "title": "U.P. Deputy CM Brajesh Pathak meets reservation reform movement agitators, assures dialogue with Union Ministers",
     "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-deputy-cm-brajesh-pathak-meets-reservation-reform-movement-agitators-assures-dialogue-with-union-ministers/article71378491.ece",
@@ -1198,42 +1234,6 @@
     "source": "BBC",
     "hot": 1,
     "publishedAt": "2026-08-22T20:14:04+00:00",
-    "firstSeen": "2026-08-22T20:24:23+00:00"
-   },
-   {
-    "id": "803001b9af5f",
-    "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "hot": 1,
-    "publishedAt": "2026-08-22T20:10:00+00:00",
-    "firstSeen": "2026-08-22T19:46:41+00:00"
-   },
-   {
-    "id": "adf0ef092509",
-    "title": "Carney faces crucial test after walking away from Trump's deal",
-    "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "hot": 1,
-    "publishedAt": "2026-08-22T20:02:46+00:00",
-    "firstSeen": "2026-08-22T20:24:23+00:00"
-   },
-   {
-    "id": "1263cc5ed935",
-    "title": "PM Modi pushes social media outreach with new BJP office-bearers",
-    "link": "https://www.indiatoday.in/india/story/bjp-youth-outreach-modi-asks-new-office-bearers-to-stay-active-on-social-media-2977760-2026-08-23?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-22T20:00:06+00:00",
-    "firstSeen": "2026-08-22T20:24:23+00:00"
-   },
-   {
-    "id": "0efdf9916fbc",
-    "title": "H1N1 surge: hospital footfall increases as doctors flag risks",
-    "link": "https://www.thehindu.com/news/cities/Delhi/h1n1-surge-hospital-footfall-increases-as-doctors-flag-risks/article71378884.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-22T19:51:36+00:00",
     "firstSeen": "2026-08-22T20:24:23+00:00"
    }
   ]
