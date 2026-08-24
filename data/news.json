@@ -1,60 +1,96 @@
 {
- "updatedAt": "2026-08-24T07:01:45+00:00",
+ "updatedAt": "2026-08-24T08:11:04+00:00",
  "sections": {
   "india": [
    {
-    "id": "0c3c3b72427e",
-    "title": "Tamil Nadu Drops Parandur Airport Project, Vijay Says \"I Stand With Protesters\"",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXp4bzNJcFhrRC1GM0luRUpIVm5JQmVpSEpMb2s4VUdaZGV1TWRWakgxbHBmZVRTYXNZQjl4N3pRaTJBUUJSbC1JbmhRQlBHb0N1RmFIWTVyWjlaNnNnTk5pY0ZteXlNMDNBX19NUWhkT3locmpQUHFRMWUyaGRWLUV1SkdJNHROckR4ckFDeDV5enBOWElUZ0ZSZUFUX1dVY0JOek12eEpiN3JEcjRLMWl0bUJhVTlI?oc=5",
-    "source": "NDTV",
-    "hot": 3,
-    "publishedAt": "2026-08-24T04:43:04+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "fd360d056df1",
-    "title": "Journalist Abhishek Upadhyay, Who Reported Ram Temple Donation Theft, Moves Supreme Court Against UP...",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOampIMktQTlFlZGdNYzdFTXVJZ01fb1NtUTFEVjhIMzVEUDFiaGFDTy16Um5rX21rSEdTZGo2QkRRcDJrUVllSHB4YmtFejc2N1QycUdfUm1oYW94a3FncmY1RXlZRk1UNkdZRTRMWm5JSFItN2dZZlpjbFFNVS1JclpUMzV0UXk4TlgxREJWbEZjajJsME9jcVJiMjd0QjlXZC1pZmVIYTJFdlk4Z1piREc0WkZCLVN5cE1vc3RLZkh0T3k0aHg1NW1EN3MwdXpUekVEMmZzZTUzSXJtaW9fV0VVMmVFUdIB6wFBVV95cUxQMWhPTFBTUkZkd0NLU0k5WFVOX2g3THNzeERQNTNrMG9ZeFBvOWFrMHNsWEJPNUtweEtjZVptNDVmaXdRVEs0T2VTTGo2TVJTcnhkTXVpazB5T25oOTdoZzMtTEFTQ3NkSl9OYjdNeGtSQTA2VUNMRldDZ1g4aTFWcFJrU1Y2dy1laWkyY0NNUS1oWHhYWUdKYjczS3VZbEx6VTVpQUxuakowdkVzbXhJUnpHUFZkd3BxcWE2bmdYazZ4enNRSnFReGRTcWcxc1lFdUV2UnZ1X2lTVU9wcVVCVnc2YlZvSVh0ZmJr?oc=5",
-    "source": "Live Law",
-    "hot": 3,
-    "publishedAt": "2026-08-23T16:41:45+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "6eda8a819e68",
-    "title": "Three newborns die in fire at government hospital in Amravati, Maharashtra",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWXhDTnBOUUxEbFN6QmZKdHVTeTlXclg4NDNzUHJiSnZ3UnJOeVdSMThxNk5SbkR0YzJ5Q2MwZ1dsaG9Qd0VkYkpxcEk0dXVFbUFJYTN5YVpRMDA1MHUwOGt2N0JnWDhRTVlOeXBVSC1zZENIa0Fyb1B2RGYwdktDUk5icUZXSGI2Q1JUaksxdHI4TTA0T05vTVhMOE81c09wb0lQekhlWWp6ZkktQmpyTlFlR2xLNGdQYi1nYW1zUS1KOHpPSGR5eU9OVFRkaEHSAdYBQVVfeXFMUGI1NkpxUE1YZngtZ0ZmVDQ1Mzk3bkh2Ukk4UGhBZmk5MTJpNXFVU3EzV2FCdEh4Q2h2bGlhQUY0eUpXeGd5WU9WelNDcS1iRDVCczhMTTdnNzVzSlZNM0NJMVdOSUZhbzc2UmZqYVhEREM4SXBmRmV1TXBRVGtVU3BLQlFNbmI3MzZHalFUanFsZ2h6OXhORTBwSVNxcWVicnlMYmk3amhqa3JNU040MkN6enpEOTVFYkRGVDJkRldHYjVBTVFIQm1XQTF4cHNCcHhMT2hjZw?oc=5",
+    "id": "0539b6f38fb7",
+    "title": "Parandur airport project to be dropped by Tamil Nadu government, announces CM Vijay",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcjBfejJEMVB6NHk5bktuU3diWEE1a3M4VWQzYml0dTNuallhUlhKaEk5eXE1bUYxSm0tckNXcWJCV2hRb2hNMzFHSXJBajM1bWpkQ0FOWG1reHAyTERaWkFmTkZ5bFA2ZFlNWUVSaldQRlpSbURlbnEyLWpXT3BjZmcyS0l0ZHN1bWhKZkxSNlYwNWF0T2FDdWwzWC1lRGk1bDdHUGhEOVFJWDgyR2hUQV9IUk5WVllHX21WajNQYXdCYmJ3R1JGbXdZWVczckdQODF3VXJRZ1ltWGp4c2lrVHo5Z0Y2SWPSAe4BQVVfeXFMUHZ1cXNkT2tPT3VlQTRESkFteWxUSDBBNmZMejJZellWejJuNkhLVUJXRHNvVnpObENXZlZGc21zVTg5REJYSmpEa3hXcTc0cGNHVThFWFhsSDdyZ3JSZjg4OGFpbUhvVy1UM2dvQTFXOTZlVHYzTmRVUU1qam9nMkN5MzNNaW1SVDVtUjNxc25iQmFNQXJONkUwMEJhbmZ4aDl5a3hXTmNTUDg0cy15Q0dpZktMakFLTjVrMG52eXhBLXdnTy0xTll5M0xUem4tY1ZfMjRsNDFMQ2RRUzRxWVl1ZXE1MUtLMTJUeGFkQQ?oc=5",
     "source": "The Hindu",
     "hot": 2,
-    "publishedAt": "2026-08-24T03:17:47+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:39:08+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "f35a0cad7a75",
-    "title": "Punjab SIR: Former envoy Navdeep Suri issued notice, told to ‘produce documents’",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDhHOVBZVzdrd09WSFROdU5EQkk3TjloU1ZsaVEtX3g2b0JEenBZQzJWa3JqdllGeGN5Smk5SGZhSUpxcFZVZTRvLW9LVTZzZlg2Qkgza1hrS29aTEw1amxwYXlKNUZueEhnZV9kTEZoZHZoNUZsS0FpR0JiM0NqNzh1RlQxX2FMaG11NkRhV3g0SjJvT2M0ZFJPS0dybUxxZ3V1bXI0ckdleU51MmU3SW12MS0tWHdCU19PZnIxSU9DZjlJMFRRaURoZHo5NExrdm9seNIB2wFBVV95cUxQODVudUIxTjBIYVI1VFNkN3QyaUlxT3pnMm9DWkJId0hKNkh1U2ZUbU1oVGdoLVRKOGQwcGFaZjBoY2J0Y0JUbTJsdnRQZzJHa2dLR1ktZmFUbTRLQUQwQVZyQVVEeHBCcWhGczFTWU1UcWJSazRhS2ZDRjh4UGFuTk9CM0hDazNyUjVXc2lDenZBZEZhTmg1QlhTSmxDOVdJb2tGN2o2aUxXeXl5eElNRkEwTjVvOXpRak41Q1B1ZVI5cXpENG1jYVhqOF9xWS1MUndyTzJiZDdLUXM?oc=5",
-    "source": "The Indian Express",
+    "id": "028a8aad0792",
+    "title": "\"Standard Practice\": Sources On India's Request At PM-Trump Press Meet",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnc?oc=5",
+    "source": "NDTV",
     "hot": 2,
-    "publishedAt": "2026-08-23T23:50:54+00:00",
+    "publishedAt": "2026-08-24T06:17:10+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "c41020ad1376",
+    "title": "BJP, JD(S) to lay siege to Vidhana Soudha seeking Minister Nagendra’s removal",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWxQcm5wTG9sdjU4ZFd0dk5US2xFUkJreUt1RlZIRE8xOTlaTTc5ZlJyd3VoTWtNeFNDSTBhX2tkaUhsT1JTcFY1SW9zSEx2blJuWUhJWXI5SlJuckhXak1Qc25fYkdxeGpqOTFqVThXMWlmdGZ6V3psdmpsRWJqLXN1VGFCUFlVblhVUVJhcEVfMUVKamVsWFQ4dVhOb05rQlpVbnR1WVRSdUpDNUdFRl82MHgxMGdRWDhYN0lJT0I4Y2RkMVRNYnU0UFpyZUVf0gHeAUFVX3lxTE1HMDdNT1dVNFlwVGI0M1ktV2lKeklCR001bURxWWdIZXV6ZnA0RnB6cHBjMXhoNFE2dTI4Qzg5TjdUSEdOMzRNaU5HS3IzRmppdFJSNlZEME05TEpESVJrSWJMazRWbkF3R3g1aWpuM0pCSTJlMGRuUEQtQVNDd05qR0pzNktDTk1DUm13Wmo2SFd5X0F3bnI1OUNaZTUwVk91cUdlQzRkMHBkT0o0czYwUTgzMXhfdWhhWnVFSF9qeXgtUjZfenJZMkhTdnJ6SmV5ZjlTekU3WUVzb3d2dw?oc=5",
+    "source": "The New Indian Express",
+    "hot": 2,
+    "publishedAt": "2026-08-23T07:30:41+00:00",
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "a9c50b98f264",
-    "title": "Heavy Rain Hits Delhi, Nearby Areas. Red Alert For Some Districts",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjNmZlRweXQ5VnFPZUVJdWpqZE82dTZEbXNOMFdkOTBVZmxranhucXU3bV9BZWlzcHRsS1lmblJTem5mSENLRGtQWmE5X1hZN2ZRRGRlWjBKY3lNdlJkNEczaG9iTk9LR1ZSMHRqZWlvS0drRFJXR0dzdzFPVFJNZkpwazVydWRhWGVEeHBURVFNZVdNbldPb2Y1NzNWeDVfalg1SFY1UHl2S0VyVVRfVnh1M0VySTdUdUE?oc=5",
+    "id": "25f739041546",
+    "title": "PEI-Genesis Exhibits at AEDEX in New Delhi, India",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd3p6eGZNTXRsMnRpSnhrM05hWHROeHFXNlVMZ2VJdUVlbXd2OGxuY01xLVhPc3M3M3FOWmotODFOdzQ4V09ucjlKWDd6R3BiaXFITk5uMmI2SVBXZVl0ZHV1Uy1HWmU3QjlOUXhFd2FZOTVtWVg2a3U1dVZiNnVrRWdjSmoxTnB6Qkhwa1pVRzc4aGdncnpMajF3?oc=5",
+    "source": "Press Trust of India",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:26:31+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "e416ef09a26c",
+    "title": "TIRUNELVELI: IUML MINISTER SHAHJAHAN SAYS TVK WILL JOIN INDIA BLOC FOR 2029 LOK SABHA ELECTIONS",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVk9zUHg3dGdyUURjc05SbHhMTnRlNWVaSUdHUHBPbTNLS2l2NkxIV0MweWVjX1lZbUpGWmVnYUVPT0JSOTJvV1IxY2ZwRXhUcUtpSl9ROUg2QU5CWnpQaS04LVZNQUdJOUN0SW5leDR5ckNSbk40Q2ZnWWdkelg1RWtXSmJ1YVF5Q0I4OWZrVjZDVjg2NkxVOUt6THpuNlI2Wkd6U19Ka01QU1RRUTJ0cE5USTNRajBWZDFIV29RSk81eVFQU2tYRE1iLUdPN21rS0ZUag?oc=5",
+    "source": "Press Trust of India",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:11:29+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "4aaf36354e4a",
+    "title": "Rahul Gandhi's \"Smash The Patriarchy\" Call To Women Sparks Congress vs BJP",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZzZxWGtkVFAwbXNnWXl6N3hoYmt6Z1NuU3VlMkdUUXg3NVpSaEdWM0tTTGcxY1kyZV8xNjViWTA5blpuU1c5WDNKekNZbmJialprbVlNOWxCRnEtSE9MS0c4QUhaYU5DVTBzV0dDakE5MGgzYjlIdXU0SnEydVZQcVBoOWY2SHZ3cVNoMkNUWDV2dlk0bUJWdEhJbXI1UmljeXJKUmMxeHJ5SWdoVGJtNjdR0gG6AUFVX3lxTE9Cblc4RnNWWm1ZVUVscnQ4YWI1VHc1NDNJNUM1V05yMlZWXzVjdUdxSXQwcHowSFg5UENZLUZKcmlFQVdId1R6UWFyODB3STlqYmtLZm5DT1dNX1pFRXVSMXNqSzM2U2hXa3VoQjhRNEl4WDhqSFM2SFdWVWZFUUZrTHBmSGJtNTJEVzBISmR1aFhibzNVY01BcTFsYmhLT040TkZJVGQ0UjRCdGEwclRGYWFHaXdoeXRwQQ?oc=5",
     "source": "NDTV",
     "hot": 1,
-    "publishedAt": "2026-08-24T05:51:33+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:06:04+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "8666be8e8049",
-    "title": "After PM CARES Fund, CJP flags ₹92 crore upkeep bill for ministers’ homes: ‘Stop fixing lavish homes’ | India News",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbFpRcmx0em5nSXpKbW4xTjhMU3FwaHBYa25jZjZVY0FoVnN4Zk00a2lNREdfZG1GUWV3QTdOblh0TG81NW11QUZQaUtHeXRaek9jbm1jY2lYeHVYVEM2bUlQbE90OVNVTm9DMHBkQ1JoYjNnUVBqamh3RFpRMTEzby1fNEk3U3lSSXdYSGpkMlpXS2w5NUw4d3VJVTZaOWdVODhuNWtzclpMaEtrTzk4dlFMUmJjdTJDMmZwc2VPQ2dGWmtvVUdPOTVqNHJ4NEtlQldHRDNkRF96UXZCUU9JSF9DYzTSAeoBQVVfeXFMUERncERZQUhDNlprZ1BWWVd1NmhhLVVpNHd6VGNmbmlENWtLS1gtdW9weFd0R3k2ZnBTeEpWaVFqZkFFbU5vMS1FRFFrRFFnQWl0TWFIYmhva1Jpcmx2b3ZLbUIwMGdkNjk3QVd5YWNSTExUZE5TcF8tOEUyNnMyb1V4ajBuYTE2c3VSa3RIZmNvbGotaldtY0FIY2JVdWFlMlBLcmRPbVZCM2NSTk9EZDREdk9wNWZ0RnNrdGI5YVRzeGRjUGZ2VFNsSjd0cjI1RVVQSnFFS1U2WmdUYnhsbzcwcDV1ZHVRWWN3?oc=5",
-    "source": "Hindustan Times",
+    "id": "79a970e8f5f7",
+    "title": "Amity University launches research hub in New York to deepen India-US innovation ties",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZG1KLW9lc1VYVlZ4WWpEcmhUYjRETnVtSU83SmhadXAxSnRSNmZBb29XSlVpNG5NdnhXNHM5ZUlpenVDY2cweFZ3R0hMbjdUWUV2R3VWdmtmU0NPYVRacG9vMzdSMjJZanVkcnhMTjhLeWo1QzRiOHhlbHpWUVNaSHk5S2lHSkZfbkk0ZFZRY1BBeUt3TnJud2swSEcyMzBZSlN3YWhJSnhzdXFWd3BKXy1aV1NEa0RHR2J6MGdrbkE0bUtNUkdLcXI4ZEFzSUdoelFV?oc=5",
+    "source": "Press Trust of India",
     "hot": 1,
-    "publishedAt": "2026-08-24T03:38:04+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T06:11:15+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "9c1946a07587",
+    "title": "‘We are watching your every move’: Threat letter names Kashmiri Pandit families",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXllbVhZNXduS0NjN1FxbGs5TDRrRkRRUVREZ1UyN1hwcWxGSXNERTY0YlZGZjVfSEFrcEx5VVU2a0cwWFNJblcwZVEyUk90VUd6ZGxKSUFHM3dURFJ6WHFkRkJIUVQ2YjQtNlZyN3hkZFdsTjBITWZrTTNoWVdaakdjTGhWbXZZU0M5cERVcmE4MkpIZW9IVzh6UGJhR21Qb0kycTBJU2NyZG5FRUJxZ0NMcURaenFlcW9iWXNMd0tlX3BLY3lzMEFR0gHPAUFVX3lxTE9WMFRqOWlCSWVaQlJKcThFRGZOUWc1aFZuNEJuVkNTY25vUE1BM2k0ZWJMaTY5dVlLVktWRGRvdlBQUDVBb3p2TGJueWxLby1KSndNZk1oMktqbTF6VTl3OW5EaGIxRzhLV1doUHRvR19SbzNEU25oWW1kTkoycE9nZU8xMHEtaDJyTy0zUzVDcjJDWEJQbWxRTG43RnVtdzJHN2Z3U3dhbnByTGhwZlV0cGVQYXpRRWpWS1BPZ0hJMTV5YTFvakRJUV9GRDdBZw?oc=5",
+    "source": "Greater Kashmir",
+    "hot": 1,
+    "publishedAt": "2026-08-24T04:08:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "92714193a2cd",
+    "title": "Indian central bank likely intervenes, anchoring rupee in face of global ructions, traders say",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYktHT1AtVS13NThNNDU5M0tTdzJRYUZxUDlnUFhCdlZpckZKSkU1SC1SYXdDVGdEakJZTWVvLUt3TGtBZUcwRUNnQUF2VkJLRTJQRXVQNjQ1WGdEY2lNUlBBdXdDclpxc3VuaWlERUl4ZkFVOEV4UEwyeXoxT0xvUTlQb3BBOC1qUWptTGkyWk40dVY3X29sMkV3cWp0SklmUkV2NUR2NURFTm03ZjRkbWdqOXoyaGVHdGxyMUwwOA?oc=5",
+    "source": "Reuters",
+    "hot": 1,
+    "publishedAt": "2026-08-24T03:53:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "e3277f3fd9f2",
+    "title": "'Two quintals of fish' prepared for Ajay Rai's Ayodhya visit sparks row on Shravan Ekadashi | Watch",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNEwwN1JPcEZUS1labkg4VTI4bGdTM01rYzg5ekFTQU9XQzR0SnRrVnhMNkFseHNMeHF5WlNkRmNUemZUTmVuRHNLT0E4WkJVVkxMdHlUYnE0UHlxVTd5cTRTelUtVU9KNWk5RWsyNU9HN3BSSUQ3OThOajJtQm5NbXFneVV3V2V6ZDRMWXk5WFZROWI1NXlNdkdManAzcmZRQ1lWNGtPM0lGbUVJN21kdHgwMWRGYTZqdUxGZ0pUNFlKc21oWlhLTUNQekFBd2xRTGJYbHJ4U2g3V040V3ZjM0Z5LVUxUdIB6wFBVV95cUxPaFJFRTl5R0t6Y2Q3RDN6c0lqTHRJTXFKOHZ6SkVrN0RDTGZHcG5lbTNhOHZ3YWx0TGhoWktvZkVJcmMtNTFKdHBVcUNybWdQZlVoYk1PazZxS3FLa3BjelB3dktPcngzcmhpcnNfZFk2cXg1X1owc3ZPSi1xeldPOV9EZi1LM001N3BaUDEtczRjYUlTZHdtUFQ4eUowVldVWVhsbVc1RmdqbXQtT3VwMnd3cHVLVUdmLTEzYkhjNWpzRXZYVTlmWm1YNXgzUVVCb3BobS1qNDVLZEgzTWNaV1FSTmQ5UjMzajQ0?oc=5",
+    "source": "Moneycontrol.com",
+    "hot": 1,
+    "publishedAt": "2026-08-24T03:25:42+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "9990683b7533",
@@ -75,6 +111,15 @@
     "firstSeen": "2026-08-24T05:39:18+00:00"
    },
    {
+    "id": "ab75523eed37",
+    "title": "'He harasses me, sends videos': Bengaluru woman ends life, blames ex-classmate in suicide note",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWDdNeDlzaGl1bFM0RzhLXzJLaTFYNk0yQkIxUWF4dWJUSGNxdEJGQ3R3blJrUlJOaFBkRGhtYkV3YjJnb1NJRHJOOXlZZXR5dUF0bXRqNHNDTWR0WkRfX0t0SW1yWnlUWkNjT1lucFAwaV8zVmlpd1I3YWY0ZXhTVlp0TU9yeDdsOWxmNDMyU0Q2a2w1QmYyb2g2SERiaFNrQzNKYjlPZmtRUUxVaUgzbW9vR2E5eFhTMUhrc1NXVmtyOFAtOVNNNm1ESXYzTTNqejZmeE1WaWstNEFBV2YxMFhPaC1KUlV6TlFpU2FWem5ieGliajFmZTRn0gH_AUFVX3lxTE14Q2RrLVhldTY0eGRjY2ZSbGtmR05JamtiOTFvbjBNZkdmR0UtNHRwRGVlaTRoWWZMRVc0VHBNem9NRFdUYUM5dDRPNVVucjE2Wkt0Z0paT2ZJRDJFUUwzNnhZM1hnenRibDF4YVROWGdNRlR0ZC1RVmVHV0gzczdUSFYxUlU4NHYyc3lCMmYwMXhic2lpT1NlallOTjFNU1kwdDk2aE82UDkwZ1dlUlYzeEtfQlNMUk9rVXZaMjN0WHg3cnY3b1pfLUhXTHpFUF9LNDlIUFBTcWZPaXViZF9SM3lTZ091dDZ0Rmd0MVNqUHc4dUdsNkEzN216ZUVyWQ?oc=5",
+    "source": "The Times of India",
+    "hot": 1,
+    "publishedAt": "2026-08-24T02:23:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
     "id": "23c4d8cd27f4",
     "title": "Indian shares extend cautious trade on concerns over Iran sanctions",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5",
@@ -84,13 +129,13 @@
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "7e3feba3eebd",
-    "title": "2 MLAs among several injured after car jumps divider, slams into Innova at Delhi's ITO",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRXd0VFNaSTlQLVhEV3dqLWQ4OUY2N2E4UHZ3NE9FVEpRMEh6ZXVielRzXy11T2xkOVVCWGhmS3NpcFh3R3dCcXpGWDh3eHByblYwMlhiMVFodFh2REdaVXh5bUVUODFzU1VwY3pCU2E5SWNFQXVSd29EYVVqOUlKaEw1eG91dEN3dVliUHZTRXIzUzI3VGZ5aFgxT3FBNnEzQWFNTHdJX3NrWmN3MHEwS2VsNVVrN0RVVHc4UXVtMFJXQ3hCMmpIY3BpS0JGRWxpTXl4TTFWeDh3ek1pb1k5OVJBSFB5eFRmMEdmYUJ3?oc=5",
-    "source": "The Times of India",
+    "id": "97b7e0dca032",
+    "title": "3 Newborns Die After Ventilator Blast Triggers Fire At Maharashtra Hospital",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd09oOVhXZlFKOHVrWUhZaDhkVjl6ZE1mUEZraU5hbktBZEZ2M2RoWW14SFRmSTFxSmZMRzFuT196cGtwbmRRVHRpblpOTE1qanE4NURzUGF1R2lMcG1zaUZqNm03Z2dvMUg5VHhaTHdxNTE0aHA1RThINElWUmFJeWQ3T01KYndXS1VNWlNXaWtTNzFuc0VpQXMxYlc0bFFNNHJKTXhpN09Wazc2bGVaRTc3YXFPMUdfUGpubjAwNkw1OURaa2NfZ21ObzdIQTFYSnE3Y1dB?oc=5",
+    "source": "NDTV",
     "hot": 1,
-    "publishedAt": "2026-08-24T01:33:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T02:16:00+00:00",
+    "firstSeen": "2026-08-24T03:55:33+00:00"
    },
    {
     "id": "cdcdc2a341c6",
@@ -113,65 +158,29 @@
    {
     "id": "d21227de3a6a",
     "title": "Manasarovar Yatra concludes; final batch of pilgrims returns to India via Lipulekh Pass",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM085Nkk3QlpaSTBJNms1dlpLN2JaVjJoUGZfc09UeUpnYm15S25YcmwwVUNYVnhUdDQxMjlYRDRReFdkaThBVU5aRHNqcHJGaUsxaklfZW8ySUxuY1kxSDkxUVVGTzZIYk9zM3BjdDJIV1FIUXpDQ1F1anRQNUNuam1aNFJNSUVpZ3hMS1hmOUN2QXZBVmt1cjJEbktyRElwb3FHOGZkNXBKVDFoZHJPcW03S3p3aTRrbldGWWNrb0xxLVZiV19wNXVRZ0pIZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONjNJLVAzTC1sZzdZYmlmQ0Rucy1ZZmx1Z1BSOWg0aDJFeXVheW16RkxBcmtrVkFhNEMwRXNrTm9VZzRKRHluNzZJeFBqZktDVzVSVEdGWUVkUkpMZ0l4SXFET2tzdDlYZ2RwOTRtM0J5cks1d1p5c1Vhd0I5MEpkclkwaGt2MXJtblNQNHFDbjVpOGwweUVlcmlhb3ZGMWJJd1ZfN2Zoakd2WTh5RG5yVHpjRVVaYzNRMVJybmxfbDJiTDVDLVlQTUZZSlRaM00?oc=5",
     "source": "Press Trust of India",
     "hot": 1,
-    "publishedAt": "2026-08-23T22:43:15+00:00",
+    "publishedAt": "2026-08-23T21:14:32+00:00",
     "firstSeen": "2026-08-24T02:46:31+00:00"
    },
    {
-    "id": "5195c2fd38a8",
-    "title": "India crash out after goalless draw against Australia in FIH Women's World Cup",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmc2YXUwb2lTaXM0UnRwbV9UX2tJZXE1WTZ0cGVjUERaY0dyVGIzZy1sWW1tTVM4QWpTRmFXUnk3TlRqX2tRUng1X21Tb085LVotTUdFYjdUUDMwcDFQZU1tM0w3MlB1REZ2Mk5VWm9pRFd1UHIzN2pFVWNoNEk1c2tSRDdXU181SFBiMEQ2bHFfdUV6UXo5Wk5hTFZHVEVFeDBNX3FlV0VFQnBZN3M0dTdaeEdYQVBxUm1zRjVfcHc?oc=5",
+    "id": "08d5c3661a50",
+    "title": "India U20 men defeat Yemen in second friendly",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1hxRFVPUHVrZHg1cGljOVNDMmo0WWh5NEhBSUdmR1JKdmEwbEtnOFU1ME5mOWFTOTJNa0tMOTBXOFdTZnA2TlBIQWliYVZCUVZKN1BqWlJ2cmwxNDNBUEc5QlloMkZ6YkdRekkzNncyUUlJVHhSeXp3b2p2YmlCQkl4S20yMUd2STdNWU9zb2Q3enI4?oc=5",
     "source": "Press Trust of India",
     "hot": 1,
-    "publishedAt": "2026-08-23T19:17:33+00:00",
-    "firstSeen": "2026-08-23T21:23:23+00:00"
+    "publishedAt": "2026-08-23T17:27:54+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "f3633565e43f",
-    "title": "Woman Dies By Suicide In Bengaluru After Complaining Of Blackmail, Harassment",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTR0cVBFdkphR2lvOHVFeERLT2gyNWNhVGNZemlXa2docV94M2FzT3g2aTU1WVpHcWthZ3Bhd1pxNUFlUWtlMGVpQmhnaGoyZFhuOGZLMklXdmFOeG1uaF84SU5fcUUyMDNmNFBZdmtnTVo3S3ptZUxobWZHZUowRXlkZk5QWDlpZk5ONUJNci1OYUNWekVEeU91bWIydk44N0t0S3VPMHBHUTdCMnk2M2UyQmJpMC1W0gHAAUFVX3lxTE9ndk9tN2w2aTllaFFZMmEzZ2c0RkZ3UUdRQnp2U2hjdEJwbmo2cEE0N3BvcjU0d2tDeFE2RlJ4ajZuLWtvTkIyRTVYaG9KaFRTYUlfZUt2dkk2QUx5ZmxHSm9rV0lmenVKU0RfRWgwQV9tTmJPaFVvZzVJMFZDanFuZGxWNlpIYTV6RkRLaktDREYtdDJNVEVuQnpkZlJMTFJ2ZnJyTzZ5UUw2cTlXWXhMRUx3ZG0tWjlKY2xrYmg2TA?oc=5",
-    "source": "NDTV",
+    "id": "8f1e4c865483",
+    "title": "SIR: Ex-diplomat says he had trouble ‘proving citizenship’ despite representing India in 3 countries",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWF3WnBES29JMG1WV1U2Um9HeGxnZUZ0azE0bWV0Nkc1RkxHUVBxTHg4djVYd0JKc2JFTWlrZS1NN3hnczAzcEZBSGNkN08ydTUtTnY3UUViWXl2VXN3Um5Xd0ZnVC1JcFFtV1NfV3hVWWxseWlJY3VnOGRqb3NvcW5HV3ZjalItLWFXN0FXSVo4MnpZallZSkZWa1JJenNXcjlVTjJ1bUJWX3RYTlRBetIBtgFBVV95cUxQd1ZqSGtoWGZ0bHFCbU5Hc0NQdk1xS0llbUR0VnYtLTBVVURvT2pTQVMxOFVTbGJ1ZXdvRDI2cFlVNk9CQWdSa2VIYmEwTU1kMDVGdWJmYjhWbEtPY1dQTXN0WWRkengxZEFFU016bFJOaTBUMlNFNVFBR3I1WmROaFNvUWpaS0xGZ0FVMmV1VGc1MmlEVXc5UUt1ajV5SDAtbTh3d05sX29pblU3OUhtNnQwSFZ6dw?oc=5",
+    "source": "Scroll.in",
     "hot": 1,
-    "publishedAt": "2026-08-23T19:02:51+00:00",
-    "firstSeen": "2026-08-24T04:49:03+00:00"
-   },
-   {
-    "id": "9cc68ecc8e0a",
-    "title": "Ramdas Athawale demands sedition charges against those demanding end to reservation",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjlQaDBrZ3FPRTQ0cDFPeUZqOGIxLVlqbkI5bndOTDRIb2VnVzFabEo4eUJnS1kwalA5bkRwTllNVGRDTGtYQXIyM09OWmRTelpXb2ItcXhjbnlmeXczNXJvN0g2TWNuTXo1bWNKWEJQbElkME9lRVNhaXlrWnJmUnBwYXc1UWdadUVqdnFCWEtIR3pVMTBlU2JXWkVwUWNvWEgwLV9yd0lpNEQxLTZfd3RZTzNMcWp5bTBr?oc=5",
-    "source": "Deccan Herald",
-    "hot": 1,
-    "publishedAt": "2026-08-23T18:37:22+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "f6ae401c4f33",
-    "title": "India Open to be moved to Guwahati in 2028: BAI",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUNRT3hObUlNVkxqOTkxTHFURzc3NFVHeVprNm1MaXo5NTJfWnB5T2w0MjZDX1lTazd5NFJqUUlRbTJ0enZhQlFueG1rd2xFeW1hVDNrdmptbzlYelFnRkE3UFZJcXAtWlpwUjh5Yl93VWRZYkNIUjc2MTJqSkZsVk9JTnJidF9rR201dUZGc1JTTEhCcWc?oc=5",
-    "source": "Press Trust of India",
-    "hot": 1,
-    "publishedAt": "2026-08-23T17:57:56+00:00",
-    "firstSeen": "2026-08-23T21:23:23+00:00"
-   },
-   {
-    "id": "a50f58714546",
-    "title": "India capable of becoming global shipbuilding hub: Rajnath",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHVmMkk4RnE3a2NmNGt5NUpsM3pKbWRsa2xMQkc3Y3VOWFZLazhZZW1IT2xkY3IxbzhRTHVlalhwd1c5ZFVfZVByalZvdURZZmxZeWJSWUVzZ0NNRElSOHZZaTBleFJYSmxBZVdnLWFibnhuTHkxdERkVEdrQy0xYkNmSzhYbllhRWVqQjlKcElBZWdERTVEVkdxZjZrbjQ5T2xxMnBMWQ?oc=5",
-    "source": "Press Trust of India",
-    "hot": 1,
-    "publishedAt": "2026-08-23T16:10:58+00:00",
-    "firstSeen": "2026-08-23T21:23:23+00:00"
-   },
-   {
-    "id": "a08acdef8edb",
-    "title": "Book by law ministry official traces India's 5,000-year bond with tiger",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkE0dDFjSFk2SXFITlJfX1hDd1dyR1R4QmVHckFzRGRLa25sbGxRaHNfRFVGc0hqdEl2cWtMd1pKMm5XbFJ1aDhxQU5reVVSMS1qOVdkaGw3cjZTYk5XaWpEU1dyeW9xbWptSC1KcFZma3VJRVA3cGp0UXBBYzBleXluZXhTVjgxSXBUc01zNHJZbG82QnZBQlZCYUdQZzZJc1F1b0l2VzBVd0VjZUR5eFcyQXpYZlBNREE?oc=5",
-    "source": "Press Trust of India",
-    "hot": 1,
-    "publishedAt": "2026-08-23T15:41:37+00:00",
-    "firstSeen": "2026-08-24T05:39:18+00:00"
+    "publishedAt": "2026-08-23T14:52:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "ecb294361de5",
@@ -183,31 +192,31 @@
     "firstSeen": "2026-08-23T21:23:23+00:00"
    },
    {
-    "id": "c2cceb86bf14",
-    "title": "Vice Prez Radhakrishnan to launch India's first non-GMO popcorn maize hybrid seed in Andhra",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVNoRG1lb294T0haUXBXc0ozLUh6YXJnNFFIanBFdkJrZmxpQUhLYXdNZEpBVzg2Vm4zNzl0V0otQnF2VEVHek5HU2d6eHRBckZvb1NhM2toVV9OMVYzeHM2VXlSbkx6bFdJNHF5S2hYVy1ITFIwOWdIVnRMNzNoUUxoMW0wcUxLNHlVZDZUMWpJNUZsTGVFa3BCM0gwcm5vSWcwc0QwcUNlZmxkNkpNUE5vdE1lQjZhRnhacXpNWEV2c2oxX1Q5OXctODBXaHdCQW1uRWdB?oc=5",
+    "id": "a50f58714546",
+    "title": "India capable of becoming global shipbuilding hub: Rajnath",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGtNZkZuZ0hINXZuTURQQ1E5amtpS2lBVF9PNkR6TG5WdEZFODNIa3hrMTZ6YU0temJlcy05RjBkNExvSWhSM3luX0dINnVwd2Zhb2RyRlZSSFRNNjlndmx0WjBIYThLWHg3S2dkX0JQdlJlVDJIUERaSUZhUkFiSGQteVE3TW9ScS1XU05vNEEza1BnUURTSzFpR2E1b3hEZUtGdl9BOEg?oc=5",
     "source": "Press Trust of India",
     "hot": 1,
-    "publishedAt": "2026-08-23T13:01:39+00:00",
+    "publishedAt": "2026-08-23T14:21:34+00:00",
     "firstSeen": "2026-08-23T21:23:23+00:00"
    },
    {
-    "id": "af7cc43916f2",
-    "title": "KPSC ‘scam’ case: ED raids IAS officer Gangwar's premises in Karnataka",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ3M1RWd4TzJLa05ORm9nSWRJaTRlNG11N0l2VVVNWUdkaUJHbEhYdURsZlZ2aGc0M2xBZzZ0ZkZqWUFlblR1aDZUdkYxWVIyU2hRc240QnVQM1BPcWd3cXRDYjBqOXVURjN2enFaREpRUzJfR2hsRDI5Ml9jSUczMUhlV3dlc3JreHNMTFV5MGxFRnplSmxGMG1FODQ0M1ZNd25GVEFZbFcwaEhIZ3Fzc1RZRnhPXy15WjZLRTdaNTVRWTdDS3U00gHOAUFVX3lxTE5sNVdtOUZIY2RkRy04RkRFNFFRdXkzQks0MWthRU5YZXFBMUFZNkg2SENsNFNLVGZoT1B6ZldqMDVBbWlHLS1PVThCR2F2MDdlRUdOaVZjeUltVEx6VDhDRGlQTXBQc0RpMXZuUmg1WXJsa2twX3dGVlROaG9rMXR1S0J3al9MOElBa3ZURXd5eWpsNlB6UWFvY1hnOXFqMWI1bmRGZF8wOHpocGc4aDRwZmdRRmRZMGRCMnBIRG1aMURiQzBTcVVuNm1xY3VR?oc=5",
-    "source": "The Hindu",
+    "id": "5e9d314d74ba",
+    "title": "‘Bahubali’ Knocks Down Unsafe Gachibowli Building",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYi1TS0hYRjZtNVN1X09WaUVIRUZJUGtUXzN3OEN2VThqcGd3Q09CVWFobUhjYVA1NVNGU3ZfaWNRZWgwbFcyM0U0dlNEQk8xeEpCNy1BRXBrdDBVTlJxbVVTcy1HeHVRS0JoYlFPcHVkTHdERHJORHVEdXRnZFpMT1p2cm9aMTZhWEtTSDVsX1ZFcGN2cWlvdFA5SzhJYUl2Ym4yc3J2UkJ6Wmk1ZC1kX2dVTFc0M2Rjd2tVNFJ6YjRMZGFRbWhMVdIBzgFBVV95cUxPMVJuUm1sTFpSNDBxYmtFX3d0cWw5dDl3MkxBZV9DZ1RveHBPVk9ZaGFYQlRHNGw3TjRqRXR1RU5FeU1iOEhuZFM4VmhLZFY1NFBfLTlQZ1Fxd2xDaWxhcTcySXRCN2FSWDhDZ1c5TkpSdjgtOXEtNVhrMzVkZHVEUjRoZmRVeTFOU0Q0M2Q2SDgtMHhWQzk5Xzc4N205Q0x1S2JPUmwyWVRhVG8yem1vQlJjQzJqbF9wajhhSVNTSUEteWt2UWhLYkpWX1ZSQQ?oc=5",
+    "source": "Deccan Chronicle",
     "hot": 1,
-    "publishedAt": "2026-08-23T12:44:41+00:00",
-    "firstSeen": "2026-08-24T03:55:33+00:00"
+    "publishedAt": "2026-08-23T09:14:46+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "c41020ad1376",
-    "title": "BJP, JD(S) to lay siege to Vidhana Soudha seeking Minister Nagendra’s removal",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWxQcm5wTG9sdjU4ZFd0dk5US2xFUkJreUt1RlZIRE8xOTlaTTc5ZlJyd3VoTWtNeFNDSTBhX2tkaUhsT1JTcFY1SW9zSEx2blJuWUhJWXI5SlJuckhXak1Qc25fYkdxeGpqOTFqVThXMWlmdGZ6V3psdmpsRWJqLXN1VGFCUFlVblhVUVJhcEVfMUVKamVsWFQ4dVhOb05rQlpVbnR1WVRSdUpDNUdFRl82MHgxMGdRWDhYN0lJT0I4Y2RkMVRNYnU0UFpyZUVf0gHeAUFVX3lxTE1HMDdNT1dVNFlwVGI0M1ktV2lKeklCR001bURxWWdIZXV6ZnA0RnB6cHBjMXhoNFE2dTI4Qzg5TjdUSEdOMzRNaU5HS3IzRmppdFJSNlZEME05TEpESVJrSWJMazRWbkF3R3g1aWpuM0pCSTJlMGRuUEQtQVNDd05qR0pzNktDTk1DUm13Wmo2SFd5X0F3bnI1OUNaZTUwVk91cUdlQzRkMHBkT0o0czYwUTgzMXhfdWhhWnVFSF9qeXgtUjZfenJZMkhTdnJ6SmV5ZjlTekU3WUVzb3d2dw?oc=5",
-    "source": "The New Indian Express",
+    "id": "061f4fcbdb66",
+    "title": "'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | India News",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQLUN3YW1waEFuVG9PeWNHSEtsTkdWNnVoV0FrQVQ2Z0o0WWZTak9VVnVza3NINmNvSV81ZEY2LXptd090SkJYYnJHUWJ5czBwVW1xT3lVNWdoZ2dTM01LUTdnMTdWU3UtQUFyNXFtVVBCOWluOUo2Qm1PZTBOOWc5LUx1ZU5tRTFtN0xOcDJfQzhEREltTWY4VjFLRHgybmFkRDRySnZNdVZxdTdUdHhSaUxxdk8xU1BCV2ZxRkQ2X2dOWGZNcU42M3Vya3hVdGtSaFA1WWg2Ry02c2hfNkxJU0hQbHZzbENCRk93NV9zRGRKY2FnVzNMVnA3UjMtM0VMYXNF0gGIAkFVX3lxTFBvcDRFU185TkFOU2labmZibUthalh0cm9vQkJwc0xyZnduQWxmMWhpeTdhSzRWTDJqZW5fQ2I3OUg1ZllCQmNvb1Y5US1fTjBWNW1Tb0JLZjZ5aGpEX05jT3NXTWxEZDBzYUdRMjgyUm9WNkRQZkxGa3A5bEpjdEp6YldGa3lGazNrRlhQbWlTUXBUTXBZdmRVU0ZGTTdiSS0wbXFrRGVzUy1RWHJMbnBTdFBVbXBDYVZHYVZVeW5NUW5rM2hYMlB6RVY3OV9Id0FQZTJONzJ1YUtVWmY4UnZHSlZ1NUhMakJLOC1sQmxGN1drdVFVU184MjAxLXlXSGtjdTh5Ni0zeQ?oc=5",
+    "source": "Hindustan Times",
     "hot": 1,
-    "publishedAt": "2026-08-23T07:30:41+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-23T08:55:30+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    }
   ],
   "world": [
@@ -216,18 +225,18 @@
     "title": "New Zealand to consider banning children under 16 from social media",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFloQVg2UTg4RktIeHpoU3BpYW5OVy1ZS05JUmNfVk5WVURPNW83RHVqVGFUZ09FdHY0LW1rR3AxRzlIYmMxNFgxbnFHU3BFMDl4UXczM3hqLV9rb1pOMlB0MXNfWm0tRnhPNng0VjJxYmVEWE1hU0h6RmNFREpSYmdCNjM5dDJDMHV4WVJzVXJZdHRjeDRLcFY1enNhTFB5dG9J?oc=5",
     "source": "The Guardian",
-    "hot": 2,
+    "hot": 3,
     "publishedAt": "2026-08-24T05:22:00+00:00",
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "779b679a2f68",
-    "title": "‘Not a single drop’: Iran threatens to halt Gulf oil exports over US ‘economic war’",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzlKSjRUeFZMYUdQd0t2Vl9nd09sVUF4ZWg0OHZkaDA2enU2MTlmMmNRc19MSlhxWlRkSVFfYlNXanJrUzZseXVUOWQ0aE9na1ZIemt2NVh6NFp0Z1dCSmE0MExES1ZSMXlxeGUwRFlURnhXNzRTczZORkdTZzA2cHNuU3ZKa1E3MFpjY25URUdGN0xzLWlZQ2dtbVVXVkVuZGN3QWNObmVPbGFYaGdXSGE0MEVib0dUSEdpaWM0TkpMeEw1bWJkdmlPNTdKUGhs0gHWAUFVX3lxTE5ONnByVFZDSUtIeXBLWk9xRDZUMXlTT1BaOWtIT1piZ0tHbl8wY2pzUzRTMmdudFo2TVJUNXFkMW40eWNBR2RTZTNGeGZvWUJlVGMtWXo1dW5iLXRzYXJ5MlY3Wk1RZUo3S2ZFZDJENUpwdEdVUmt2Q1ZWb1YtMDBGNDhYQi1lbDkxY0d1TlJLYXlBeWZmbHdleEdZWXNVdDNOOXBtT3JsOEtMMWxPajQ5X2NVbTlJNzNzaDJFQV9HRnRYM29YSGp6QlBZYkpOX3dUNndUd2c?oc=5",
-    "source": "Moneycontrol.com",
+    "id": "022764846b5a",
+    "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5",
+    "source": "Reuters",
     "hot": 2,
-    "publishedAt": "2026-08-24T02:53:49+00:00",
-    "firstSeen": "2026-08-24T05:39:18+00:00"
+    "publishedAt": "2026-08-24T06:22:00+00:00",
+    "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
     "id": "b92687595b51",
@@ -239,22 +248,22 @@
     "firstSeen": "2026-08-23T21:23:23+00:00"
    },
    {
-    "id": "e5c1ad24817e",
-    "title": "21 former captains, including Gavaskar and Kapil, renew appeal over Imran Khan's medical treatment",
-    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQY18xQ1lpcjZ2dWtsYkktU0dYODJSSUFjaTJYMDNYeDY3RWNOZTFneGxtU2hVbHhQSE4tbGpzUEw1V2V3c1JZaFBRV3JidG5YYXFKS1J5bTIzTDVKc2ozTmhqS0xvQlVyMXRHcG8tLWxraWVBZjlTOUxJMzYySV9na0tIVlhJd2lTU1pYeE1Da1l4QjVfYy0zcEFoMTVyc3U2SEdOanRpSWJRS3ptX1BZSmhBaTFObFJQY0pkaE9XZWhvNko5cGFFRWRxOXhYTHdBRTFQWVNGakg0NTlIY2gwS0hFTTBobjVJM3dBbnljSXZmMS1Bb0VFbWVfVzlmVlZkaWRFZzZiSF9YQ0pYNVdqY0EzWURnQnR4YmRF0gGgAkFVX3lxTE1CQUNHRlNpcmg4NTJIWURNbTZ3QnRjX1hIQloybEYwbTNrbWlvWnBhbkxUeF9BX3UzTDByN01ZcnJ4NWhUcVZQaE5vcXNFQnhLZVlfYld6ZXg2RHVHanVNaUhXT2huX2ktUlJGdElLVDhVWm8tSV9WVWRiVk1qS0FBTEktcWQyNTRfdElMUDNraUpQcHRuOGhvcngzM1ZYbVdqWVVEMUpNZnFKamRpaUVkUzZlX3pUOVBGZVh3TWtkTjFrSURaR0JrVC1wMHdfb0RwNTl3VFNQNk5heERuR0lSTkhFdjJqRUIydUY4Uk9HZDBvdjNQaXViZDlzcHVVQjdXNWNmcnlGVldBYUwzS1BXZlpBZWJBOGd6Y0F5V2xBNw?oc=5",
-    "source": "The Times of India",
-    "hot": 2,
-    "publishedAt": "2026-08-23T12:05:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "id": "35ab81477ea2",
+    "title": "Norway will drill in Arctic regardless of EU's position, says energy minister",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTE5nRnVOOFJXYXBSWklEZVhITWVHQTNaTllvYUxoclNydEZPMDFHcDd0SmNUUndjZFBrRWpLa2NVekRHbEh5SWFwbU5zb1I4emN0OUNuUTAwY3VtXzBoclEzbE1iQUoyOE1TTExrNnlwR0JxT0ZyS0ZoMkVYYUw3RWxuNnlFWHlUSDRYN3Z3Z1VlS01oTXBaNC00ZWtDZW9Ka1ZuUDZucTVyMDVoRHNCS2ZVbWxQY2RVLXg4c2hB?oc=5",
+    "source": "Reuters",
+    "hot": 1,
+    "publishedAt": "2026-08-24T05:03:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "17790c788f9d",
-    "title": "\"Entering Endgame\": US Warns Iran Of 'Economic D-Day', Tehran's 'Oil' Response",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnNGTkF4RW4wTnJ1Q2l6anBvRzdjcUl3WV9mcWF5b1lrdTZFOGtfbllJSGM4akZqbWpnT2JJcHkwWlNXcFlfUWNsWWhyaThqeUZ0X181NlZ5SW50OW5xVjhXTkpVeFYxM3RDc2dmYUlmQmRCMW9YaG5sNXpDY1dsdWlDdkw2R3NMelctSUV0emNNRG5pRkQ1WUh6enV6ZUdRZ2pVdHZwLVBOZmlIMFJj?oc=5",
-    "source": "NDTV",
+    "id": "9331cba87e61",
+    "title": "Iran's Foreign Ministry announced that Omani Foreign Minister Sayyid Badr Albusaidi will visit Tehran on Tuesday for high-level bilateral talks",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3NjamV0NjVONjdJNHpYbDhBSzZ3X1lRamlFRWJVYkVTZlBzbG50aWo1U3EtdnplUkJ4TTBNcXFnTkRzY0djaXBzWlNYdjA3SllsTE9YRUdDeERNQjdrc2NkZWlHWHhkRXd4eW42TmNMYzMta1RtYlNVbVNIXzltUWVWNEZENEhFaHkzYlR2Ty1RMmNhb25SaWdjWDd6WndKY3FtQ9IBqgFBVV95cUxQTzNXNWQ0bEg4ZHJ1ekdiS1NqSkhOQjA0alhHclVFbFV1cXlUX2dmbVJMWk41Nl9zb2x6R0VmZUxiNGY5d3o2Wi1uY1J3aWNFOVpiX0ltMkZxSzlKaTExNXhhX3BxRHRYQmNLTDV1QUlIM0VCc2NnYllRY2ZCc2lqaFNVOFljSUJELWloY1ZDdVVVd2NqQTBWcmZ3WWNjOXFlMTNhLVhrcGRLQQ?oc=5",
+    "source": "Forex Factory",
     "hot": 1,
-    "publishedAt": "2026-08-24T04:59:14+00:00",
-    "firstSeen": "2026-08-24T05:39:18+00:00"
+    "publishedAt": "2026-08-24T05:01:47+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "807daf0d09fb",
@@ -263,15 +272,6 @@
     "source": "Reuters",
     "hot": 1,
     "publishedAt": "2026-08-24T04:39:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "b958227eebe4",
-    "title": "Morning Bid: Mixing economic wars, trade wars and actual wars",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYlNwM05renFqUDNLaGZkdl9sa0cxLXJDTmhLcXYwRG1aYjlLR1c4QjlGbGtqY3pNaXhMR1E4cnJLLU1VcjNfR2h4anE4RTFqVDk2Y3AwWTY5TVZnZnFkRjZVR0tGaGQ0REJpZXljSElWQWFsRnZGY2NUT0t1M1k?oc=5",
-    "source": "Reuters",
-    "hot": 1,
-    "publishedAt": "2026-08-24T04:34:00+00:00",
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
@@ -284,6 +284,15 @@
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
+    "id": "44c4134a23cc",
+    "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9samdiUmdhNHNOanVaM3V1OXR0Y1FnOXp1OW9Pb1VrbVJfWWVNN200SDNMYmFrQjVOV1o1LTYzdTJzeE1OTjlDaWtHMmhSNEZTRnpfQjhBUi1sUQ?oc=5",
+    "source": "BBC",
+    "hot": 1,
+    "publishedAt": "2026-08-24T03:55:35+00:00",
+    "firstSeen": "2026-08-24T04:49:03+00:00"
+   },
+   {
     "id": "588615650cac",
     "title": "Typhoon Narra wreaks havoc in China, Vietnam as rains lead to floods",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUdJZmtXbGswR3ZFWEt4YXhiQmV4czBoYktSbjRENXhiZ2xfb0EwdFdXdVZWTzFCSTJjM213VHNaem1rcWhCSjBUbFBiRkpXTHdzV0l1TG16aDdRRTAtQVUyVGdDSGJUenBJZ1Ytajh1ZjZBYjFOdDEyR0NFMG9vLUNjS2RzRnVwR19yU1hDLWxGNDU4WFFhQnB2VlRhcTRjSkJqMWwxbXhlR1NGaTk5NHlPMktQSGY3OGNUc09ZUlA?oc=5",
@@ -293,13 +302,22 @@
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "ab7649f6cb4c",
-    "title": "‘Accused ate, consumed more drugs and then bathed’: How murder of Hindu family of four unfolded in Banglade...",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTkzclhfN0VKY0o4Ym96Q196MktXZ0dLZE5JZ0RkOC1ueUh2RkVBeDVhSkZkX2tSNWhBNmxXNDFodzFveHpWYzZGX0VBYUd4V25hTEh1TVl4ZTZWOUpfN3RXNVlPRlNzMW9TT2tLZ2paM2hKc1RiYUE4WmVqcFI3bEdhTDZwY0toQVhjVjlUQVU0YjZLQlUzVElZSUV5WTB3SmtLYnhTTV9xUG5wc0F5OU5kYlprUdIBuwFBVV95cUxPODktenNCMFZnWVdLM0xBcFMxdDNZVVhKQ2JnUl8tU3N4bFlabTJmVlNHdGdsNmZ3cjBjMWtTZmFDU1Z1TUZ0QmVtYXROblBISnZGREtWWWVYSEQ2SVZYaGp5UEVEb3BCaVB3VHJqU2xnMW5UUlB5TzhoZ0JxeVdFWmJTeWtIZU03QWQwVGxTZjBENTJUNDAtZ3FSUVI0ak5uNEZ1OTB6eVlfSlpLRWFLLTVXLXAtVmxvRUhF?oc=5",
-    "source": "Firstpost",
+    "id": "901b2812a67c",
+    "title": "Men Kill Bangladesh Family Of 4, Then Eat Their Food, Bath, Consume Drugs",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVXZnM3ZOd0lkbzktcU1TQm9xNXNlakhtT2hwdXdLLUxDWFZJdXBlTFRmd2ZYcEJLN2tySHJfT2g1YXlMT0lKOGZiZDU0LXhBTjlYOXpjVTh6R3BiM0JwYnBoYURDS3UydFVYQ09jVWNYaTlMUjFxVjdXR3RobUgtV3Z4Z05HMUlPNDE1V21HZGdIVlFENzZ3T1FmZWVBWEl0TWVvTmJKZ0pFbVRSY29NU2pOUnk1Q0t6OGU3U243bkRCbGNFTWJLdGxwUlJrSDQxXzNN?oc=5",
+    "source": "NDTV",
     "hot": 1,
-    "publishedAt": "2026-08-24T03:07:39+00:00",
-    "firstSeen": "2026-08-24T05:39:18+00:00"
+    "publishedAt": "2026-08-24T03:17:23+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "034138f37b5f",
+    "title": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXNxWm1BUVFUdWZuUDJoWi1GRUk1d0RXWTRwR0tQTXd6MXQ2V2RBSkRmMURzajdURDdIQnhEQlFTVVh4TG8yOTdfdWVIdmd4U3AyWm5pSlZ2Y0tSaDNKX1NjcGd1N2dqVmtPUU9rZjMwa3cxWDRLajBjYUhYUDkyY0owcm43TXcyNkp2WlJZUW9ONDA3ZlNlbHlOS19CSTRpYzlOU0pmcVhvaDB6SUsyVU5mM1cwQ2Q5TkwtTmlB?oc=5",
+    "source": "Reuters",
+    "hot": 1,
+    "publishedAt": "2026-08-24T02:42:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "6661e5bdb558",
@@ -320,6 +338,15 @@
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
+    "id": "b06fbc1b9449",
+    "title": "‘Entering endgame’: US turns to ‘economic D-Day’ against Iran; Tehran raises Gulf oil blockade threat",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX29xVHNweDRXNURtVUhmUXo3RHFFcEhCMkJ5TklvdUVxNFlHSTFxM1hDNU83MVo0enI5VGl1Vk1sRzdTYTdlc3Z2VU8tUlp2ZTBQazQtelRKSHRaUlJoWnN1aHg1OHphcW02bE5OejRMYURpRmpJU2M2ZmttZkNRS3BZT2FsMUdOckV0QktiOElnMmZqaDVwTXdaemxUTm41MjZmcU5sYzIwbWx2dkdoVjJWZWRYTGZIQ2xYN05ndXl3SUxMREs4MW0zcnk5djZRR3o3UVVGVEtTMVh3a2xTUEtuWVVPRDBBc1pqdUhGYjVYdw?oc=5",
+    "source": "The Times of India",
+    "hot": 1,
+    "publishedAt": "2026-08-24T02:00:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
     "id": "78c16b71b7e3",
     "title": "Dollar trading near multi-month lows, restrained by debt nerves",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
@@ -327,15 +354,6 @@
     "hot": 1,
     "publishedAt": "2026-08-24T01:48:00+00:00",
     "firstSeen": "2026-08-24T03:55:33+00:00"
-   },
-   {
-    "id": "cdcdc2a341c6",
-    "title": "Inflow cushion to anchor rupee against month-end flows; bonds track oil, Treasuries",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa3l2cUdfaDZqM3VWcmhlUVJka2hkaFJDXy1tUUQxY3RtZVJMSG1GZjNRcFRNaEsxSmlWOXExblVacDNJUXRGZm1mZUJibjlvSEQzLXBGNk1EUURIRkNTOFVOZTR0dWFyZkxHM3Y0a3JXbjdtbHUyYlRDQnBSeGRCdWkxLVZ6QUw5d1VwdW4zOEkxTERwWTIycXVjcGZXTERCMVgtY3VHTzlSelVSbWhTYldlS3VJV2dSOVVhaThJc2tCaHJS?oc=5",
-    "source": "Reuters",
-    "hot": 1,
-    "publishedAt": "2026-08-24T01:33:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
     "id": "792dd8f0065f",
@@ -365,13 +383,13 @@
     "firstSeen": "2026-08-24T03:55:33+00:00"
    },
    {
-    "id": "5b271eaf6115",
-    "title": "Eli Lilly launches oral weight-loss pill Foundayo in UK",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObU9LbU1nZ2VSekplaHBCQWF3NXROc0FramRwLWc3VVAxWEJBclRWSXNLRDV3NXNGQ1RRenFoZTZDYjdiblREX3hvMHRrN0ktNmcyYkF1ZmhXeVRTQ3lfOWMtZnJfYVo3MUVLb0dtZU5hTDhncnR4NGNhZ1diWHFNcjZfTENwQnRPalV5aEtUcWFfVXFJSlM2TlNpdHBuUVpITWNfYVBUYzY?oc=5",
+    "id": "e8e9f873ff53",
+    "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBHVU1CRk11cEJVVlNPQS03dldaSzZGLVpBNGh3blkxTmJUZkw0WTRpSjAyY1pxTWh3THJKTFlyMUFJQVVqUlVzV0dVMWtuTXpoOUFicGgyR2tKalN6T05Na0RsWHM3Vi1pRkUzbnJYRkRFVVdaS09pMkxwN0pXazI2YXYwM2RoMWU4cVRxa2IzTzhDazJvMVp3WmJieFlfYy1vZWh3SE8tN1ZYdy16UDFoVWM3RTNkb2t2amo0YUhUZGlXWHgwSQ?oc=5",
     "source": "Reuters",
     "hot": 1,
-    "publishedAt": "2026-08-23T23:07:45+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-23T22:05:00+00:00",
+    "firstSeen": "2026-08-24T01:29:10+00:00"
    },
    {
     "id": "bfbaf988678d",
@@ -381,15 +399,6 @@
     "hot": 1,
     "publishedAt": "2026-08-23T21:54:00+00:00",
     "firstSeen": "2026-08-24T03:55:33+00:00"
-   },
-   {
-    "id": "428c57a035d4",
-    "title": "Iran to detain, confiscate violating ships in Strait of Hormuz: PGSA",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmRMRVV5dW04NHhDTUpROEtlQzRvVFBkZVhac250clFLenFzLTFmWFRMeFA4M0ZlTHNrbmpDRW00MjJycDhMU1BBSVU3akpFSy1GajJpT3UtR3FnbDZFYXpHMVJONnFQbDdvNzV2Tm5JYzVVQ1RraWtxSjAyYzJvV3JyNGY5TFQ5VUZJbWpYd3VSN3NRa21yTC1sNDJXT0MzWV9OR1YydERiSW1hTkM4aWcxbVY4OUJMY1BV?oc=5",
-    "source": "PressTV",
-    "hot": 1,
-    "publishedAt": "2026-08-23T18:07:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
     "id": "29c47bab071e",
@@ -421,13 +430,22 @@
     "firstSeen": "2026-08-23T21:23:23+00:00"
    },
    {
-    "id": "02aef040461d",
-    "title": "US vows 'economic D-Day' as Iran threatens to halt all oil exports",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
-    "source": "Reuters",
-    "hot": 2,
-    "publishedAt": "2026-08-23T15:23:00+00:00",
-    "firstSeen": "2026-08-24T02:46:31+00:00"
+    "id": "f6754dfb2672",
+    "title": "Sensex falls 300 pts from day's high, Nifty below 24,250: Key reasons behind markets turning red",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd2J4NnVheGU2bldNVWU1TEUzaG5JNmZyRjR2Um0yN1JOeFQzRXNzQVVzVnZtUjAybW5oUFdUY3V2U3VWdDE3VV9rT3VmWS00UTFteGMtcl9MRVgzbzRIeTAtdUxHeHF2Um5Cc2N2XzlsRHUwdzRBVkRWZHpPbmVvSUFNVkJFaS1lODJ2S0JyMzZXamZlR0tTM0dBSldocks4Y1I4cHZuRjYwNWk1bjNnSWIzUExHUTQ5QnY0T21RcF91ei1pQlBZRkU0WU5OTUNueXF3MEIyT3FnUTl5Zi1YXzYySUpjLXlZeXNLVFY5ZkzSAfYBQVVfeXFMTXh2MFQyYVFDclFEMUVzbXNGSnFJTVB4V0RwUGRWUDZLSzlydFdtLUoyMkJ4ZHM1QWs3dXdwNmZadWYwbjNaUVNlZlE5b3ZLcU1RS013SHpRbE9JbG0zenlyQTIzVVl6eXFfWDBmbEpMZnp2ZDRZUU9YUjA4V3NmcEJkZE5faW9VT3hyMXo1NVR0djhmLVJ5akRTWEZQVFlEMXJuR3Y4UTRjNDJ0aVVBcGk3TDRQcEZRXzgzX2ppbE4xcm1OVVhyTGhxOVVVTGNzbVFBQktfSHBzYWVrVjJIWmZlSVdqSkh0SGc4VzNVTEl4dTk1QUR3?oc=5",
+    "source": "Moneycontrol.com",
+    "hot": 1,
+    "publishedAt": "2026-08-24T05:42:29+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "973a24e338fd",
+    "title": "Vishal Mega Mart shares skyrocket over 11%; what is driving the sharp surge?",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlBTaGNjNGd2WHU2aDVkY180RWRiNmJTQnFoYU9EN2JRSnU4Y0U0Wjcwb1I0LThBdF82ellLVWpjOFRNNXVLSWZ1eVFSMXhrOE9YdDk3LXNlcnRJSlhsOWRtRUZfYm00dHZES3FNQ0JDdjFzNGR5SzVEWHMwT1ZJcXVSaUZEMmIwekpGcGt4UDdRODBOX2F0Z01XY1hzVmxDRGJ3b1FBUVF6UEhiWi1pSWtGVEhDMEpjczR4MmtTbVp6YTVydmc?oc=5",
+    "source": "Upstox",
+    "hot": 1,
+    "publishedAt": "2026-08-24T04:36:43+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "ff0a628f463a",
@@ -439,13 +457,22 @@
     "firstSeen": "2026-08-24T05:39:18+00:00"
    },
    {
-    "id": "59aeeefc750c",
-    "title": "GIFT Nifty signals positive start for Sensex, Nifty; investors await Iran sanctions",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSHBmc0pjSjVVU1lyQTJxX21JSnhnMHRRVjJuRkJSWmQ5R0xhSUJjX3BGREJsRmsyRGZzWW5UeFRKZTlPTENoeWJhWExBM2NSVlBzdHMweDlXQUNDUkpuWnp1M0lCdVhUallKVldsd19NSkxnRzQwSTZYUnpsRG01LW9lNlpkVV81S2lnZ0c4R2REYnlhcG9menNHdXRaMHFVVDlZRGFvMW1yMmdzSjFjTXBQMkpFemEyZm1qYl9VWEdkelhYUkZGRGp5NFFCc3A0N0FaT1EzZkI4Z2NWUU5B0gHkAUFVX3lxTFBiUFpzRDYtdTZrSzgwYW1RbEt5X0ZCNmRMUTBvbnUtX2lPVTFjNnBKTU9vd2tscTZPM1d5WGhUZXh1NlVfMXh6SDRtM1lkVHVwR21GOW1pSXU3NXVtV28yaXI1OUNCWDk3R2NyQWs2VjNmanh5TU55TndWNEFhRUxwSnF5TkFLMnVSMU1lMzZRTTVoRFJwY083X2g4Mnd0OF9VdWZ4b3RuQjFtOVFsTE4tYXlrRGdHb3publF5dEFkRHkwb24xaHZmMUVfeE40bFEweVJOa3hjaWprZ294dDBrUDFzcA?oc=5",
-    "source": "Moneycontrol.com",
+    "id": "208d2135f1bb",
+    "title": "Alibaba to Raise $10.20 Billion for AI Investment With Share Placement",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODYzZUNTRmFDWldFZ0NoQzJIVWhNY1ZtZ1F2UVlGOU5MWlh6RlBQUHI5NHhpUmVkcjNUX3Mya1hoOUt2aGVQRzdvYnJHcThnOVVNMXl1WXpmVzAycmxKN3pqdFhaa2FtUWlIT0RubXFmeGp6OUQ0TDN4MEVuZG1HZVR2RE5mZEhreDVIQTVkWTRkNzhNVk44ZlVFQl9PbWgwX2c?oc=5",
+    "source": "WSJ",
     "hot": 1,
-    "publishedAt": "2026-08-24T03:08:51+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T03:58:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "6661e5bdb558",
+    "title": "Indian food safety officer shakes up Mumbai, one viral raid at a time",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnhrZVlwZ0IyZ29SRzJTYl8zT01yT2VTSzFDMTFLSUhVeXlxeU5sV3FfVzg0bTB3WEg2YnNSWERXc3JxZHlscFRrWUVPT2hjeTFsTmtTU1VDMjl1Q3FKNlRKQWZIQWtPaWVwaHpPaXc2VE84OGlRdUtvTVB4MGc0M0N3blVvVzhMYW9JN0tVTG5WRXVEM3plbGRLUDl3TE5NM1JuYUdkckVjbmhoUXh6QQ?oc=5",
+    "source": "Reuters",
+    "hot": 1,
+    "publishedAt": "2026-08-24T02:33:00+00:00",
+    "firstSeen": "2026-08-24T05:39:18+00:00"
    },
    {
     "id": "87ac52c56dbf",
@@ -464,6 +491,15 @@
     "hot": 1,
     "publishedAt": "2026-08-24T02:06:37+00:00",
     "firstSeen": "2026-08-24T07:01:45+00:00"
+   },
+   {
+    "id": "e6c5177d5335",
+    "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 24 August",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWHZOazFxSUVURXBKODcwZ1IwZ285ajhRTUgwb2U0V29HOEhlMkxHdk1NNGVJYlp5Wm43el9EV2V3a2VVNzU2LVZDZzNkXzFldk9rZmRRSXc3WFhqaHd2U3ZPNlFsUF9YbGwzYm5vUTJDSXJxSEtkbUVUUlNuRlRTTFRZdlBhcFpqRkRDVUEzbjVlQ1U3NW1tWHV6TnRlcGM3Q0V6bng3WmdEMEJzNzZNdlhPUmVQeWpVc012R1M5SnYyWGlNRkF6OFZFcGVlQVNQMFN4RTlGeFJueGhFWDNjZ193ekxlRHlqSjU0bm8xc1lJRzdfck5HSjBn0gH_AUFVX3lxTE8xN25peDZuTDBJZHpOeThtOWNlT00zWWVUVHVoeDFwYVJQbDNRWi1yMlktZFR4V1dkV2Z2eEtsb3FlOEIwME1Xb0wwSkJDX0c3NHhzTXJ6ZFJaSjhndkFVd1p4VGJ0R0R2RExTaV9wZWItTVJHTG5Pb2NTbF9TRFNQdFRwM3ZoT2M2UWpkNGlveUNNanh2ZzZ6ZEQ0T09LRzVYWGt2TXdpNzIyYndVOHJQUlc0cjNyTkhUSVN6MEtCZFZZUkhrdnZWVmlnaTdGME5MeVc1Z2JIbHlpTVFHNkdrS2NIVG1YZEo2d1lJUU5UaFFuXzZGSWMyMDM3X3dDSQ?oc=5",
+    "source": "livemint.com",
+    "hot": 1,
+    "publishedAt": "2026-08-24T02:03:40+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "9afde8f1b3f8",
@@ -493,15 +529,6 @@
     "firstSeen": "2026-08-24T05:39:18+00:00"
    },
    {
-    "id": "95a83e951df7",
-    "title": "Shares dither, oil slips in wait for US details of Iran sanctions",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
-    "source": "Reuters",
-    "hot": 1,
-    "publishedAt": "2026-08-24T00:49:00+00:00",
-    "firstSeen": "2026-08-24T04:49:03+00:00"
-   },
-   {
     "id": "3824b2d0db5c",
     "title": "Sebi turns down Adani-linked FPIs' settlement applications",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmUyT2dyZG9xQXpVZ0VKeGo3Rk5nOTlPVldPSkluNnhGeHEzclZSWWVEbUg4bEpVQ0xoM1h0U0ZsNEJYRDI5YVlIMXRPdHhHaUVCTTZCVzIzTzMxbWRKVlVNNjZfOUtYZkRuem1rYlhQRms0SmlZVi1BZWxHcVlzNkZmYjJDYlhBME9ycnlrYjZyUEUyTDhoT1BvNm02R19YenBSaEVkTkM2b0pCdkxPcUNOdFlZSG51ZzgySVFranpUbkVCZTJRQTd1RdIB0AFBVV95cUxNRGNYdEJNcXRLNGtVWWFKeUh2VkFXbDFBblh2cWt1ckFwdHF1VTM4Y2piN19zTzlWTXp6ZzFJWWdueXczN19VaTNjb081MXdwWHpzM01PRGFWekNjNEw5SUJmUmFNOTZHbS1uZ2xReHFDTXVHSlVsUDhrRmU0d0VodWFLYnlzU2RjbEg1X3FrYlJXWjJJRzZCU2RZdzItc3VkQkVFc1J5SFdKelpVU1h0amxOUFRKSGN1OWFpem55NkdYZ3FhbWY4c2NEelpkV2VT?oc=5",
@@ -511,13 +538,13 @@
     "firstSeen": "2026-08-24T04:49:03+00:00"
    },
    {
-    "id": "0c706e532177",
-    "title": "Offices, schools closed in southern Taiwan due to torrential rain",
+    "id": "a12a7e4af85b",
+    "title": "4 missing as torrential rain pounds southern, eastern Taiwan",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalIzdG1SUjVnUVcxVnVsWnFVd3ZnLVY2Z3pRZ01ZREtOMWF4dVdlZmd6cDMxRk80c3pGQmpRNXNtdlNuZlA4SjdiN2dYcjV3X1E4WU1YU1VWakFRUlhrcFBrcTRfQk5LLXdPV2tIWUE5MHR5REhQSDJVcVZyN19XcTB5M0kwXzd2bkxrdlMxOC1JTGhDVHIwYXZxOWpBa2hRWGRMM0ZjMXh6VEFUWDdiUVlHZlpZdw?oc=5",
     "source": "Reuters",
     "hot": 1,
     "publishedAt": "2026-08-24T00:06:00+00:00",
-    "firstSeen": "2026-08-24T02:46:31+00:00"
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "282eb8c39626",
@@ -552,7 +579,7 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBHVU1CRk11cEJVVlNPQS03dldaSzZGLVpBNGh3blkxTmJUZkw0WTRpSjAyY1pxTWh3THJKTFlyMUFJQVVqUlVzV0dVMWtuTXpoOUFicGgyR2tKalN6T05Na0RsWHM3Vi1pRkUzbnJYRkRFVVdaS09pMkxwN0pXazI2YXYwM2RoMWU4cVRxa2IzTzhDazJvMVp3WmJieFlfYy1vZWh3SE8tN1ZYdy16UDFoVWM3RTNkb2t2amo0YUhUZGlXWHgwSQ?oc=5",
     "source": "Reuters",
     "hot": 1,
-    "publishedAt": "2026-08-23T22:06:12+00:00",
+    "publishedAt": "2026-08-23T22:05:00+00:00",
     "firstSeen": "2026-08-24T01:29:10+00:00"
    },
    {
@@ -574,22 +601,22 @@
     "firstSeen": "2026-08-24T04:49:03+00:00"
    },
    {
-    "id": "189ea9f38193",
-    "title": "Four domestic players line up for Centre's new mobile manufacturing scheme",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWF3cUdKYUJncGQ4ZnJjZWFqSmxSOEdEUURHdXdkZXl4Tmw2c0pHZjk0UzV2cThxd3kwN2VvN0p0SHhHSG14eEZTSmdzSlktUTZEazU3TUdPNFBHWDhJcGpzS2ZIdGR2R2ZyUzRQOGNDYVhxNFdhcC1oMDRKMExMVXRpUnpPekszQk15WkRzRWMyU0dQWjcwallYbmVDNDRqQmRNU21QX3FlX3RxbEFhaEYxZjcyY0YxMFpWSVlqXzdyWDJoR2Q3bmFfTzYxeFN6cVZJNGVNcmk1QdIB3wFBVV95cUxQNHJGVVNueFhtWDFNRkY0LXNvWnM0RU82NWdPRlI4d2RqZ2FNSGU4dDZmSTVWcjhCMm5zekRBNXdmakJhdWYxT1A5ZlZseWROQ2JicVNxVFJ0V1pIcDZhVXlNekV5Sm1jdHdaUEFmd1NSd293VXYtRVdTajYyVllFSkZIVkV1RWdSY0lVdE96MnlLM2pLeFJLaElQRGlSWkNBZ3dzTUJBN2dMM2tyOUVHN0NuQlpSYlRJc1ZZa1JxZngxd0ZjbjdRVzZLWVk0enlaOGVjaENzV0ZxYks1aTFz?oc=5",
-    "source": "Business Standard",
-    "hot": 1,
-    "publishedAt": "2026-08-23T18:00:20+00:00",
-    "firstSeen": "2026-08-24T04:49:03+00:00"
-   },
-   {
     "id": "36a52fb4e74e",
     "title": "UFBU Announces Major Strike Programme, Indefinite Strike Over PLI and Five-Day Banking",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb0t3V0JXcEhPUEpvZTR0QnEydFMxQUE1cDREWEdqVDN4Y1JpcXlQVGxiSzAteDQxQnE0V3hKSTNrd2JNSjlTZUx0cUc4ZnN3WFVZZ3kyYjdGZzVVVThoSkIxekVOdDZqOVhERHVIWFlReWQydmVoWG9wVVVVVTFlREU1M2JhSFhZUVVKNzkyaFdHVXlaMVBUQWJUT1ROcERnS0xsak02eGZZV0FsQnpfY19ZLW51MktjZ053N0dnZFZuOGs?oc=5",
     "source": "Thekanal",
     "hot": 1,
-    "publishedAt": "2026-08-23T16:18:53+00:00",
+    "publishedAt": "2026-08-23T16:21:18+00:00",
     "firstSeen": "2026-08-24T05:39:18+00:00"
+   },
+   {
+    "id": "02aef040461d",
+    "title": "US vows 'economic D-Day' as Iran threatens to halt all oil exports",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
+    "source": "Reuters",
+    "hot": 1,
+    "publishedAt": "2026-08-23T15:23:00+00:00",
+    "firstSeen": "2026-08-24T02:46:31+00:00"
    },
    {
     "id": "9238bfaebc66",
@@ -601,15 +628,6 @@
     "firstSeen": "2026-08-23T21:23:23+00:00"
    },
    {
-    "id": "5b041c85f6cb",
-    "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending By Reuters",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVVycGlKQmUwR1JIM0J0ZHh0NWZ2MzJfTDhoLTd5ZWFaZGxqVm85TkJON1ZQemhIa0ZWMlkwOE9tMndaMzZDRkJlVlJWZ19fVFhIUzNnTkprNm1lR2lFUk40cU1uMnE1djlvUXpqbFlfUUNzYTRnazZDTGFkLTlPc3pHUGVrV1J6dFBaNmd0NEFVSVpDaF91TGg1RHZBb3JQbmRUeXhIbHhza3dXVGJzektaSkJIakU?oc=5",
-    "source": "Investing.com",
-    "hot": 1,
-    "publishedAt": "2026-08-23T08:40:55+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
     "id": "7b3d2aa1c95a",
     "title": "ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjBuVUZsWDU3MW9GRWxWX1hoc01wUEdtMjN4OEcyZF9rX05VVkpDNzZGNS1sclpSekRMNmZaWUN4OUU3LXdza2MzVjFKV1F0aWZ4U1BmY2N6UXFnNTRSd3VvWTR0clRCbDlHakVlUThtT05FcjdjSEJhai12T0EyT1lwRlVLT1ltTDA2U0I0T19qQ252dENzNXllUlUwaENIU005dw?oc=5",
@@ -617,26 +635,35 @@
     "hot": 1,
     "publishedAt": "2026-08-23T08:38:55+00:00",
     "firstSeen": "2026-08-23T21:23:23+00:00"
-   },
-   {
-    "id": "5052d6dc26fe",
-    "title": "US Fed chair Warsh's speech to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQlNsWXRBdE9tWDhWM1lMTUhSbktacTNibmhWTFVIcmpyQzhiWFpyMXcwYzdrV1hlMmthdHY1Y2tUNDJTdGcyY29YYUZDNG1ybXh2TUZqb0FDQ3g2NzhXS3liUzA1VlpRYzhXeXlwaDk3MzRxaW5VY0dQVGdaRTJ6MXFjX0lKSUhkQk01QlhFSzJoVE5KZDMxTkxsMFZSUWxvaW5PUkQ5MUdtVXpwTFdhTExhcDBLXzdsSlJCQ3lpUjVkem5HQlMxM3QzSkhxV2ZTTTlNYV8xLUFYY2hxTGNjbDdRVmNsMGFhazZQUzVvQzRONWhfb05rUzJSa3F0TGU5dl9vQnVhVU15cjBF0gGSAkFVX3lxTE00XzZ0eTJtQlQyNnpmLUNnSHlPODIza1B3OGFFNEw2TzdVRzRGQ2cyZWNnTVNzZlU4N0FCUDc3UWhncUJXQlZTYllaN3dfYTBUeVJIMHRFdFV2V2tvdF9EVkhsRUhZdUtKN3laSmJPWEF6bkE3WEExa2RjWDFsM2M2VlQ4T2d5eHVzSWlYYVdvWENKcFpnMHBldDNmdkYtODY5SmotNEgtY2dlbGtmUzdoN2tXRTFhcllXMm1LOE5aeXZwNldsMEJISlhNZ0lHMk4xeTFNcnJJdTVEcXJlQ3ZpRzVuQVNOVFpiZDlod1Q3dDN2b0dkS3I3SWdNZmRyQXhzV3NCWWY0VFozLXQ1WExqYlE?oc=5",
-    "source": "livemint.com",
-    "hot": 1,
-    "publishedAt": "2026-08-23T04:01:53+00:00",
-    "firstSeen": "2026-08-24T03:55:33+00:00"
    }
   ],
   "sports": [
    {
-    "id": "894dbc1843dc",
-    "title": "ECB investigates Brydon Carse handcuff video",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSklxUGMtbmdHZUR1cEpNX1ZxcUNCR2Z1dktCbTBUWVVuUjRkU3d5anYtTFNDbnQ0Wm0zRGNuaFhlOXAweXRYcVFPQ1Q0anE3TVpCS3pIUXdFSjRfdjJ6ZXJEajRXenN4NlhRZHJkV1BaTWk0RzVMTVhGdk1KcTd3UV9lZ2pldXNFekk00gGcAUFVX3lxTE1GM2xENDR2Qm5ac2xEVy1vcnctSjlISENyZTJQRGkyTEpfM1ZxSXZsUXF5Z0plZ1dDX3RrZVBPcUtNSDZaNlhhWGpBc1R2M3ZXMFZLR3MzUloxTkJCcUZ4R25WOWdsOUlpVV9sZjVfeXYtc1dtZEFQaklDZkRySVF5QVdCSU9WLThWcVBodGZjdktjend4dW1NQi05Ng?oc=5",
+    "id": "70d5b942996a",
+    "title": "Rishabh Pant surpasses MS Dhoni, becomes first India wicketkeeper to score 2,500 away Test runs",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVDdkZjBPQ1BnS1VORGdwMjU4a3RuZGprTkNUZWhnTkFaQThpWXBYS0s0VGRzSzdQLTdZelV5LUVYRFUwUnRlSW9WeXdaaWpCaTlrU3paNmJmd3FaUVZoa1pjOFRPOTZPTW5xUU9Qb2tEcTNCY21mSW54NXJ5aDRKVUN1ZmZJb3BFUzVmU1JCR2pPWW9TbmlDVVFvbHphRTZLR2tObUNDM1prcjc5bHhPV2tnRFpzcnQ4T3Y5WXBMeXlmai1IdEUwNTVPdnYyWkozbzZpZm0xR0ZYUFZ0UmtibVRjWHhseGNMY3B0dDh5eTBSTTB0cWlRWWRXdEpTWnBUZmJiZmlkakh6YmVPeWRFb25NYXNEUm9x?oc=5",
+    "source": "The Times of India",
+    "hot": 2,
+    "publishedAt": "2026-08-24T06:15:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "326145fc18c4",
+    "title": "India vs Sri Lanka Live Score, 2nd Test Day 2: Pant-Jurel put on 50-run stand for IND vs SL in Colombo",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbnUxVnB0MHlxbmVDdFgzVUkzV3o4YTdpMVBJNXk2bWI0SkRyWGV4N05ORjlPdk9WNXZfQU1TM1B6dURjNWkwTmcwT29IamxjNkR2TzU0TGVrQ3pOWHFpWjJxbWdubW1MNEphOWdvT2RTN2tJbjVXcjlFblRGVWIzRnFXOWp0V1lnWmozTDFraGR0RzYyc1JWdFYxekRDTzF2ajVjQXd5azZrOGI4VVlTYWdtc0pHQlB6Zks4dEsxTi1fTkQxQ1dULU5GMW9ZZ0ZMaHc1Z2lITE53WkFhUXk4T1l0VUJ1anVneUp0RGl4a9IB9gFBVV95cUxQX01BWk01Q1ZETV9xTFdRM2M3SkVTeXZaWlZ6cTNUc3RUZEZWWEVnNVIyY1ZhLUFicDNyMUVrTURhYUZaQjZ4eFVrOFJfYjBYSDBWdGJ0YmFxUmRBdlNtY2l0RkM4X2Q4bDNaRkt4RnZmbHhXeFY2UEdPQ3lHX0lTX0M1TEpMUHV0aUF5ajBxQmc0SmVjbkZJam5ncDM1dG45aXNKc0d2RkE0a01MVGRKazdETGh3VzRFVVVZTDFGbWhicGRaUHlOZGhwSXJlMmw5V21fYm9iZm1IZE5OTUo5QkhHRU83eDNGRE1KeGdjeXppTUJSMEE?oc=5",
+    "source": "The Indian Express",
+    "hot": 1,
+    "publishedAt": "2026-08-24T06:00:41+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "28c620963d2d",
+    "title": "Pant expected to bat after retiring hurt on first day",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT1JwbGtiNXB0V19CbFk5ZlJvak1kNC1lTmN0QzRZb196dGpNSFZtdHdBWDJmZzFleW9KOVFiQWZNdV9ubVYyZTBFZF9SdUdxQW03X1daZWVYU1QzN0xDSmRjY0dBaExGZWZTbUs3Wi1VeDNCUzZtbWxIU0ctZF9fZnJzUjhyQWJpS19aUVNaYXQ4Ml9MR0RsN1lpdlpfMVZzYlVpMTlHdWZ5X2l6Y0ljNEp2cUp3QkloLTJ3WjJKUmEwN0d2NkHSAdcBQVVfeXFMT25qdUtIMkhnY1ZuaW43cUw1NjJQNVNOaTBrM0VMYWZGUVItdklFN29IdnhTTXJCOC1WQzN2V3c1Q3ktdnFJM3FPN050YWhVV0paZWl5Y0VXRkRxY0k2Q25VMFlMbUxnX1lWcm9tZzNwTUxHMEt5MlZFWTJHQXhjOUQ4N1FMNk1LUnFIcVJ3SF80Ql9BRTA5STlHRmpYWlcwa1N4WHZpQjZtYTQ2SmdYYlIwYUpPZ1VfQUY3WlBDRUtZQzQ4eXczQ19XYjNwZlQwTXZpQjZ6Z00?oc=5",
     "source": "Cricinfo",
     "hot": 1,
-    "publishedAt": "2026-08-24T03:19:40+00:00",
-    "firstSeen": "2026-08-24T05:39:18+00:00"
+    "publishedAt": "2026-08-24T03:19:59+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "4f0fbff11fb3",
@@ -648,15 +675,6 @@
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "530058391673",
-    "title": "Watch: Max Verstappen’s horrific Dutch GP crash as Lando Norris wins chaotic race",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVzNDQVRGMWJ1R1FuTl9yRFZpMkh5eXQyZ2ptUE1mbndkX2U3cnlReHFITWJyY2FWNWRpcWlTSDNQS0FmaFhiVnRzZjlPc19SZ0VJcXRFcmhrb2xMSGxvSFJ4R2RiYUlaU1ZzR2cwNk1ZdE9TWHBvaFVhbXc0cjMyeExRZzVUS0hBOEVYUG14UElxanB5b3FDWm83OVdUTEttYnI3eUZ6cWpDcXNQN3hUWmxtMXdOVWpZZ1RsLVRoRDVDaWNWOHB6bWl6M1RwYUttN2kxS0hNblJfSWJCV3pSeUNoMXpORWNERkp5bVZTaS1PY2RVQklmM2k3dw?oc=5",
-    "source": "The Times of India",
-    "hot": 1,
-    "publishedAt": "2026-08-24T01:06:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
     "id": "caaa5b2bdba2",
     "title": "‘Something wrong’ - Hansi Flick talks Alejandro Balde’s future and Barcelona’s No. 9 search after Elche win",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEt3Yl93NzRoRjROSmtleDU3QTlXNm83TVIzSkUweDE5cUc2RGNNemRaWTgwYUIzSUVJdUE1SnE3VW9qYzF1Nk5nYWpmS3FEdlRIWlNoUmN4dzFNR002RHdtbWZqWkZWWDVTVEU2TG5reHdiQm53Q24tcnNBSWxOZVp3c0tJaEoxNnVpX2N3SDFEc0dod0xOU0dwXzBiaGg2Q0I3cVEtOXZKZ1NueXVR?oc=5",
@@ -664,6 +682,24 @@
     "hot": 1,
     "publishedAt": "2026-08-23T22:30:00+00:00",
     "firstSeen": "2026-08-24T07:01:45+00:00"
+   },
+   {
+    "id": "a3fd5af8352b",
+    "title": "India vs Australia HIGHLIGHTS, Women’s Hockey World Cup — Wasteful India crashes out after 0-0 draw, to play for fifth place",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVUdSV1hTLUFDbFZpOHotY3QwNVBBQWRrY01tZmFsRnB5a05RMUZtcEdvZHJ0M213Tmcta01DMjRHM2FTcE1pRlpxSkFJZVc4OVdFaDlnTW9UclBZaXkwSTJhZlZwLVRyczB3YW5VZ1RySkZXZHlQZ1poRmJRTGh1M3lEa1puZ1RxdzRNTldMY3lEcU1vdElPbVlfOExSZjZCWHVDWDRfaFY3LWQtV0pSeENONVo5VFhqT1E1UFp6Y2k4UGdJNGlIRUJMWDNfMlhtNWsxNk5Da9IB3gFBVV95cUxPU2I3Q1NoTVBnbXdxUzVHX3dmQnFGbzlycEx0RmpIbzZwcUdDU3JSSmlfUDZtZmpBYlF2QldmWVd5V2U5eHdHb0poS2RhSDhJSlB1Z0Q5UmN2MFNTdWFCVVdaaWpDRDdIY3hncFFLblZrT3ZIVEQ2cnYxUER0TWhvdHNaVGpXVUFWN21RclVpYS1ENm04amVwWUlxSURCcVB5b2l6VzJ1LXBTQXdXV1g5T3dFWFpid2pwUGQxa21RODB2cDMyYlVfVFRFWWZYN21KUFNQZGNZQ1IycHNGSXc?oc=5",
+    "source": "Sportstar",
+    "hot": 1,
+    "publishedAt": "2026-08-23T19:17:36+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "3b90080b01c7",
+    "title": "Coco Gauff points out ‘very underrated’ Pegula quality ahead of Cincinnati final",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXU3ZDVXbUV3WmJWb3lxSWN1bDJNNzN6Q0NBRHRmS1M3MXRTa3NCUXJWMERpdUlBUHYwVlA5UzdBYWFIUUtvLUlNWDFqZU1nUmE5MHlkQUFadmlHY2UtZGd3MWY4c01aQnR6czdCcTkwOFJkdFBwX0lDMU5ReGdQUW9TUmVzSDg5TEEtdDlEeExTTjRuTTQwWUJsckZJb2JHQjlkSWRHb0t4eGZ1emFyYTFSeXVWVU1Yd0JtSHBuX1NNY2I4M1lTUDhYbkRmU1N3cjRRQ3ZxMA?oc=5",
+    "source": "Tennis World USA",
+    "hot": 1,
+    "publishedAt": "2026-08-23T19:00:44+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "faf3c31f2c1d",
@@ -684,49 +720,13 @@
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "807adda65b1f",
-    "title": "East Bengal wins Durand Cup 2026, beats Mohun Bagan 4-1 in Kolkata derby to lift title after 22 years",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWHE0ZmNDZzdWR1RyUzhPandnTmFRaFVnX0ZhWVBlSmJQcmdwcTRhbERQSVVVUS1RWDQ3RUNVdElPTkljZVNzUVJzUXlfTkhvMHlvekdkT1FUVEgxQk8xd2ZmTXRKYVVvRjFJOHhrRzktMEhWV21KYkxRNFJFRjNsZEc0LXA3eWNpRng1cHZaS2JkRm1kcnd0clRvZnFpSVdpUDN4eDNUcV9Pd05XeVRfaWZoZUViZHhldUNBUlZRQk1Uc3MydldtZ1dnZTRqZTB2QWloZW9oUk1KOHJFemwxdDZzS2RPWUlfSldGOWlyQ0tOcXNHbE93b05IZlZYTlZv0gGHAkFVX3lxTE1ad05ZMXZvQUZGZlJtblE4WHBXYl9ETHAycWpzRVBnUGxjV3hTYnV3cExqcmoteVkwRXFEeWxDc0FLR2NpQWt1NlE0YWRBRThvN0NwN1NtSDNDZFRLXzF2N2poVlZZR1puS05RRG5CS0ItNUVTOWxKX005TkQ0Y18tT3RKeFY4OV8wSGdzZVc1MTkyLUI0LXVmUWw3ODdhZHVqbFlZOFEzUVkxc0pzWG1ncTF4dUE2MUpCV0RwZGlDSV9Pc0otQm81SzRjWkhXd2dMdUFfcVpxRUtWdUg2a05jbzljRDBCMHNqOGYxeGxRV3BiLWpRNTJjVjNWQ2V4NjEzTlJMN2tF?oc=5",
-    "source": "Sportstar",
+    "id": "938835413513",
+    "title": "F1's Dutch GP red-flagged after monster Verstappen crash",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlY3Yk9sUklpTVFoTHZQOHY2NEE2ODFZekhfVmNINzE2NFVKZ1IzQmp2QTVjSTUwendrbThjWWM1bjJrQmlTNVFnWWlQZEZSODU3d3ZJM2lPdm9zODBqdHNyRmIxTFNxbmxIOWpnZHBhUVpjNl8wV3FQamtZd0V5dnpEbnd0Rnl6TnR0OXBzVEJlRFMzc2dVcVln?oc=5",
+    "source": "The Race",
     "hot": 1,
-    "publishedAt": "2026-08-23T13:26:03+00:00",
-    "firstSeen": "2026-08-24T03:55:33+00:00"
-   },
-   {
-    "id": "e14513690bc9",
-    "title": "IND vs SL 2nd Test: Team India batting coach gives big update on injured Rishabh Pant",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVnhHTVBOLWh0cWdGVGdjRnRETVFvN2ZZNzlFbl9nUHl0dzZNMmZRdXJMMUJReTdWUFBBbzFJYzlPWlVlUmo1UlYwZFNnYjhfOU45a3F6MHl4UmtSeERucmNYMmpRNTV0ckwwTFRNc3k2ZWFBTFNfVDJleXRmTUtiTnpZaEdlOVgyX1lFSlFRQ3NuUmRnS19yRDlXNGs4ZXdTLTV6c0pycU03OWpLaGplQXFqQ2ZOWXVDM3A4dm5FRGh4SHcwSGxyang4WThFM0FFRkN3RzR5Ny1UUm9PVnhaZE5SdUdacmloLVFXY3ptaG14TmhlZTRVV1p4WUk0LUVaeXFDb0pCbw?oc=5",
-    "source": "The Times of India",
-    "hot": 1,
-    "publishedAt": "2026-08-23T12:53:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "a4bbec899062",
-    "title": "Padikkal hundred headlines India’s mixed day in Colombo",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnpZWmRXMUFzMHBjbTZVYjVJN1BzLUUxNS0yVjhlVkM2ZGRTeExJTGRMczc0Y2pueHhSZkI1c2REOWVGS1pjYjY4MUVmMHJ5YkdYUE5VU3NYb1JSUXRxaWtFOUtQeXE4aXFkbUd1MkJScjFNdko2RlFBbEMwWWdRcEJFbGdSUUE3WFJ2ZlBFYk9JR2FqMzVNYVRFclJVWnhC?oc=5",
-    "source": "Cricbuzz",
-    "hot": 1,
-    "publishedAt": "2026-08-23T12:50:00+00:00",
-    "firstSeen": "2026-08-23T21:23:23+00:00"
-   },
-   {
-    "id": "1d1adf72815f",
-    "title": "GCT Finals Begin With Fighting Draws In Both Matches",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05aU11M1RNVXI0RmdvMHhFRWl0dDFaVFhjUGRfQ0dEM1J3TnpUNkNyUUtjOU80N3IyR0dPT0lrNS1jamhyeUZOOEtQdEFYLVBfQlNBM196dFdlTkcxNlNmN3p5djRycGh0UktJbGZGYkdmbE8x?oc=5",
-    "source": "Chess.com",
-    "hot": 1,
-    "publishedAt": "2026-08-23T08:37:00+00:00",
-    "firstSeen": "2026-08-24T05:39:18+00:00"
-   },
-   {
-    "id": "c99c9eeb5934",
-    "title": "Two days, 750 balls: Mackay Test among shortest ever",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSk5KUVAwUkk0VmNxQWlTd1QzcFZPelZ6YUNuVFZzWklyRzJ3dGozb3B3QUlzTXVlb3ZQLWhyVjk0ZHA3SkszOUR2THI1OHVpWlBCeEZKOVk2YTIteUxrRm00bUZ5dnV5X2dOOTA4VGVVQ2xBNlBHS0ZySmdJY3JMTG1XXy1La0p3Mi1wVmtEdVBHemxaTXJpcWg4eXE1RjQzcmhXX0pZV0pTOHc?oc=5",
-    "source": "Cricbuzz",
-    "hot": 1,
-    "publishedAt": "2026-08-23T08:00:37+00:00",
-    "firstSeen": "2026-08-24T05:39:18+00:00"
+    "publishedAt": "2026-08-23T13:17:46+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "7908b119e16c",
@@ -744,9 +744,18 @@
     "title": "New Zealand to introduce bill banning social media for children under 16",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTdXSm9FWElqNHo2dUFNNVJJenhqRDBOV1RXR3N5NHhoMXN5cXZ1TTZORGxpVmhRVS1aVzFCZUoxVk9qMkM5NEF1NFRDX25fMkJycmxaZHNyemJsVkNYRGR3cGcwOXZaYnQxbE9LWUQ1UEROTF9FRDlOOU90cXRQX0ZvMllEeTh3cTBFWmozcWZvQlNmYkQ3M0lDWEttRnNqRVJVUllGS2cxVmtpdk9aNXRqa2U3R3Zua0MzMQ?oc=5",
     "source": "Reuters",
-    "hot": 2,
+    "hot": 3,
     "publishedAt": "2026-08-24T03:39:00+00:00",
     "firstSeen": "2026-08-24T05:39:18+00:00"
+   },
+   {
+    "id": "022764846b5a",
+    "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTF6Y2ZNZWtTOGVOZ1cxaXdrdFpWd3BtX2o1a1V5Q1N3QVdMX0RXODJpRm53UXBBTHkyNk8yZjI2SGR6NDNscmhZcURzS3I0M21fbXBaWVZNZmR4QjYxMVdZMjd0OEVKMGlpWktzS0kwR0ZiSDFaWFpaUXdFRmt3UmZQR2NFVW1YeGtHRW92b1FQbl92anFQLXQ2dGdRYXF6WEw1OWllejZEdktRd0hJSlo3S01pOXdHY1h2aTFsQTdYNlk0SDJJeQ?oc=5",
+    "source": "marketscreener.com",
+    "hot": 2,
+    "publishedAt": "2026-08-24T06:17:06+00:00",
+    "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
     "id": "ed9c8e60e5b0",
@@ -776,22 +785,13 @@
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "d89418356275",
-    "title": "Pixel 11 preorder surge lifts Google's Taiwan smartphone share",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXlJM1VPSmVlSzlBZUtEeUFoU0JESGlfbFNMRWpVRVRpSkkxcDB1OExraHpNRG5iaDBWZmVsOVdpQ2JIc3k5TnlneHFIUFVBZFJfMU03UU1SQWh0dExEVHJ2cDZEWDlORGxSZE9SWWJuYVFnMG03bURDTTRiNG5VQWpFS2t2RW16WVpEYUlUb29MTkk?oc=5",
-    "source": "digitimes",
+    "id": "08e0de79ece7",
+    "title": "If these Galaxy S27 Ultra renders are accurate, Samsung can't stop Apple copycat claims",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjhoWUV5dk8yeUdhUmhGdWsySDdrV3BXX3Z6ZzRRSmF0ZmxRU2h3SVhzWVZlOXVDcndrSXFuLWg2ZTZpZHREODN4WlpoTlNVSWFZcmE0ZE9NT1FtV21ZWFhXd3JlRVVhQm42VmIxSnZoR2U4TllmV3podFVtd3hCb1IxbF8?oc=5",
+    "source": "Android Authority",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:20:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "022764846b5a",
-    "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTF6Y2ZNZWtTOGVOZ1cxaXdrdFpWd3BtX2o1a1V5Q1N3QVdMX0RXODJpRm53UXBBTHkyNk8yZjI2SGR6NDNscmhZcURzS3I0M21fbXBaWVZNZmR4QjYxMVdZMjd0OEVKMGlpWktzS0kwR0ZiSDFaWFpaUXdFRmt3UmZQR2NFVW1YeGtHRW92b1FQbl92anFQLXQ2dGdRYXF6WEw1OWllejZEdktRd0hJSlo3S01pOXdHY1h2aTFsQTdYNlk0SDJJeQ?oc=5",
-    "source": "marketscreener.com",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:17:06+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T06:14:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "9b081e390567",
@@ -815,19 +815,28 @@
     "id": "cbd5e33e5fca",
     "title": "Xiaomi excludes second-hand phones from warranty and battery protection services",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVU4OG9ncHpGYlVzdGkzMTY5MDE4UTczQnJqbTRfdzRFcnVsc2tKTm83VXFFTWE4a0hZVU1IOHlWZVJ4TV9wejFtT3k2R3llU2JWaXhsUjhMT09SSFk3MjlJMGtxc3BaSXk0UlJMS3J1MWQ5LV9TQnJ0X3J5dnpwTHVjYWpYNUIwOWFsZHJwM0M2dTgtV1h1T21lZnhoakw0alQteWxTb2N2TWZR?oc=5",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "hot": 1,
     "publishedAt": "2026-08-24T05:01:57+00:00",
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "475581b5bf3a",
-    "title": "Zelenskyy details rift with Ukraine’s dismissed Defense Minister Fedorov",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
-    "source": "AP News",
+    "id": "23cbd91088aa",
+    "title": "Google Fitbit Air Allegedly Available in Retail Stores Ahead of India Launch",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONXUzQThFMHBaQ0RaUFkzOGVfeEdPVG1lRWhwRkhIbUltR1N0MUVpTExiRDJPRW1KMmx5TFVib2ExX0pFM3h3bXhaWmNDTTZVSk14RGFmU0NLc3QtWlhLel9WUmFmVWVheS16bUhIc1djNDNTdmZIYnRuazRTZHdYMkpLWXFBSlNzSTR2TWlmZWdCVjJmVnFPV0FIdXBGYjFVakp6WVVJMzJKU2V3cnhfbUFXalNxdlF0MG56UmFjd2XSAcYBQVVfeXFMTUI5ckltM2h0VTZxNVVxMzZWNGtuVkRSTFNwN18zMGN2S2RnUmpFbm1hWmRWMUM2QW1wX0ZNNi05Tk8yZ01QOWJMU3U0bk9PMlZvVFM0RUlfNlV5M05ZWTdNcng2UjAyZzVFaWF6Qm1Mem5ieFZYUEpYQVRjNFhsdjR0QnRHb1pObXhtR1ZNLU1zakJFV1JEckdONUFjLTYxSnpxWEtDQUhaUHFnRzhGVkwtSE5JdjFhRmE5d2VyUjlSTlpTd2lR?oc=5",
+    "source": "Gadgets 360",
     "hot": 1,
-    "publishedAt": "2026-08-24T02:42:00+00:00",
-    "firstSeen": "2026-08-24T04:49:03+00:00"
+    "publishedAt": "2026-08-24T03:25:29+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "e8a20470a628",
+    "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFhTZEFZTUhYaHB6bUtnVVg0Q2hMT19aV3MxMkJEX3IySC04dWlZaFlWYjJqdDJ0Y2s5RmZtTk9HNDluQ2tGT2cwRkpkYm5xQ2pmbDJBV1hRSkwtTE5zeDcxdEx3VThSV3cxcXM1RTAyUl9pcEw2OExWNm9oZkpwUWdvRXVCWUtNMkRDd2s2eXU3a3VMeDZua1UwYi1wbzljV2Zqd0tESlRjMzVjUUJVQnVfb2I1VUNHWWFWRTJtZWg?oc=5",
+    "source": "Reuters",
+    "hot": 1,
+    "publishedAt": "2026-08-24T03:18:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "1b13955bc9f5",
@@ -848,24 +857,6 @@
     "firstSeen": "2026-08-24T07:01:45+00:00"
    },
    {
-    "id": "78c16b71b7e3",
-    "title": "Dollar trading near multi-month lows, restrained by debt nerves",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
-    "source": "Reuters",
-    "hot": 1,
-    "publishedAt": "2026-08-24T01:48:00+00:00",
-    "firstSeen": "2026-08-24T03:55:33+00:00"
-   },
-   {
-    "id": "cdcdc2a341c6",
-    "title": "Inflow cushion to anchor rupee against month-end flows; bonds track oil, Treasuries",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa3l2cUdfaDZqM3VWcmhlUVJka2hkaFJDXy1tUUQxY3RtZVJMSG1GZjNRcFRNaEsxSmlWOXExblVacDNJUXRGZm1mZUJibjlvSEQzLXBGNk1EUURIRkNTOFVOZTR0dWFyZkxHM3Y0a3JXbjdtbHUyYlRDQnBSeGRCdWkxLVZ6QUw5d1VwdW4zOEkxTERwWTIycXVjcGZXTERCMVgtY3VHTzlSelVSbWhTYldlS3VJV2dSOVVhaThJc2tCaHJS?oc=5",
-    "source": "Reuters",
-    "hot": 1,
-    "publishedAt": "2026-08-24T01:33:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
     "id": "70fba4994e75",
     "title": "The sunhat is everywhere in Athens as crowds grow larger at ancient sites",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaU5FVWRBQUJLSlZOUVNxakNZbVZ1V0ZJWi1XMmEwZGNybzlENkhORzBhX3gxZjVqbEEyVGE3Nk9LdTRzd05yLWJMeXdhTUtHS25OU3FrMExnRGFvZG44YTVzWjZpQjRjdTZVbk5PTldaUWZfaVotX09kd3pTMXAxZmtKWTdzai1NQUVSeQ?oc=5",
@@ -873,6 +864,15 @@
     "hot": 1,
     "publishedAt": "2026-08-24T00:38:00+00:00",
     "firstSeen": "2026-08-23T21:23:23+00:00"
+   },
+   {
+    "id": "7033a8e24d03",
+    "title": "Drone attack kills two children, burns logistics hub in Russia's Krasnodar",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHlaU2l2LVBMWUlIYnc5WTVya19SRVFldDFJODV4bG9ydzItNU9NNDJsRlRERzdfZkt0SXJNZl9RcGItS2ZoSVdSZXhFM0ZMSjh6Z0NZS2xIWnVNbS0tQW9mT1Npay1YVnVZamUwUFVNMWhJSnRaMmpqSEJieEh0OGYwaUt6STF2X3dRS2JMa1NLSms5aE84MFkxZHZYV0hzNEVnV3dSdmVQT09KTE5RdWlqTTNUSV9yU0E?oc=5",
+    "source": "Reuters",
+    "hot": 1,
+    "publishedAt": "2026-08-24T00:29:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "e284e3f9c13a",
@@ -938,87 +938,105 @@
     "firstSeen": "2026-08-23T21:23:23+00:00"
    },
    {
-    "id": "200d2bef8b7d",
-    "title": "Iran says Pakistan's army chief to visit Tehran on Monday",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
+    "id": "7b3d2aa1c95a",
+    "title": "ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjBuVUZsWDU3MW9GRWxWX1hoc01wUEdtMjN4OEcyZF9rX05VVkpDNzZGNS1sclpSekRMNmZaWUN4OUU3LXdza2MzVjFKV1F0aWZ4U1BmY2N6UXFnNTRSd3VvWTR0clRCbDlHakVlUThtT05FcjdjSEJhai12T0EyT1lwRlVLT1ltTDA2U0I0T19qQ252dENzNXllUlUwaENIU005dw?oc=5",
     "source": "Reuters",
     "hot": 1,
-    "publishedAt": "2026-08-23T13:13:07+00:00",
+    "publishedAt": "2026-08-23T08:38:55+00:00",
     "firstSeen": "2026-08-23T21:23:23+00:00"
-   },
-   {
-    "id": "a97a031cac15",
-    "title": "Is this your first look at the Galaxy S27 Ultra's design?",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnMk5tMnAzaEFUd3JTUDA0am1DV0c1ZFFQOWkzTk1YbDI2cXoyOUFva0huaE1hemJfX2RXQzBTdjRMc0h2bGVLR3NTWGFxUjNySTBtQkdPY0tXUXlGWFdsY1ZZWTN6RzRqTDJ2cTVScmVyV2NX?oc=5",
-    "source": "SamMobile",
-    "hot": 1,
-    "publishedAt": "2026-08-23T10:02:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
    }
   ],
   "channels": [
    {
-    "id": "4879f5dd9183",
-    "title": "Former diplomat raises concerns over SIR in Punjab over 'mismatch' notice",
-    "link": "https://www.thehindu.com/news/national/punjab/former-diplomat-raises-concerns-over-sir-in-punjab-over-mismatch-notice/article71383418.ece",
-    "source": "The Hindu",
+    "id": "b8314e6a90b6",
+    "title": "New Zealand To Ban Social Media For Under-16s",
+    "link": "https://www.ndtv.com/world-news/new-zealand-to-ban-social-media-for-under-16s-11950202#publisher=newsstand",
+    "source": "NDTV",
     "hot": 3,
-    "publishedAt": "2026-08-24T06:33:41+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T06:27:00+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "5af69ae1d379",
-    "title": "SC to hear plea challenging FIR against journalist who reported on Ram temple donation row",
-    "link": "https://www.hindustantimes.com/india-news/sc-to-hear-plea-challenging-fir-against-journalist-who-reported-on-ram-temple-donation-row-101787552738535.html",
+    "id": "d32314171686",
+    "title": "JPSC 'irregularities': SC issues notice to Centre, state after CBI probe plea",
+    "link": "https://timesofindia.indiatimes.com/india/jpsc-irregularities-supreme-court-issues-notice-to-centre-state-after-cbi-probe-plea/articleshow/133455501.cms",
+    "source": "Times of India",
+    "hot": 2,
+    "publishedAt": "2026-08-24T07:52:34+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "6b7e07c43ea6",
+    "title": "'Normal practice': Govt on Sergio Gor's 'no questions' remark at PM Modi-Trump meet",
+    "link": "https://timesofindia.indiatimes.com/india/normal-practice-for-vvip-visits-govt-clarifies-sergio-gors-no-questions-remark-during-pm-modi-trump-meet/articleshow/133455151.cms",
+    "source": "Times of India",
+    "hot": 2,
+    "publishedAt": "2026-08-24T07:17:47+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "174867d71bb5",
+    "title": "SC bans construction activity within 100 metres from edge of Rajasthan's Jojari river",
+    "link": "https://www.hindustantimes.com/india-news/sc-bans-construction-activity-within-100-metres-from-edge-of-rajasthan-s-jojari-river-101787555804525.html",
     "source": "Hindustan Times",
-    "hot": 3,
-    "publishedAt": "2026-08-24T06:25:38+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "0c3c3b72427e",
-    "title": "Tamil Nadu Drops Parandur Airport Project, Vijay Says \"I Stand With Protesters\"",
-    "link": "https://www.ndtv.com/india-news/tamil-nadu-drops-parandur-airport-project-vijay-says-i-stand-with-protesters-11949992#publisher=newsstand",
-    "source": "NDTV",
-    "hot": 3,
-    "publishedAt": "2026-08-24T05:14:54+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "ff4e7e4a4f3f",
-    "title": "Delhi Woman Killed, Husband Injured After SUV Crashes Into Multiple Vehicles",
-    "link": "https://www.ndtv.com/delhi-news/delhi-kailash-colony-metro-station-greater-kailash-delhi-woman-killed-husband-injured-after-suv-crashes-into-multiple-vehicles-11950128#publisher=newsstand",
-    "source": "NDTV",
     "hot": 2,
-    "publishedAt": "2026-08-24T05:29:13+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:16:44+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "828568b92eaf",
-    "title": "Chlorine Gas Leak At Nagpur Water Plant Triggers Panic, Several Hospitalised",
-    "link": "https://www.ndtv.com/nagpur-news/chlorine-gas-leak-at-nagpur-water-plant-triggers-panic-several-hospitalised-11949939#publisher=newsstand",
-    "source": "NDTV",
+    "id": "ea37f65d716c",
+    "title": "BJP leaders detained during march to Vidhan Soudha seeking Minister B Nagendra's removal",
+    "link": "https://www.hindustantimes.com/india-news/bjp-leaders-detained-during-march-to-vidhan-soudha-seeking-minister-b-nagendras-removal-101787555456450.html",
+    "source": "Hindustan Times",
     "hot": 2,
-    "publishedAt": "2026-08-24T05:02:12+00:00",
-    "firstSeen": "2026-08-24T05:39:18+00:00"
+    "publishedAt": "2026-08-24T07:15:30+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "97b7e0dca032",
-    "title": "3 Newborns Die After Ventilator Blast Triggers Fire At Maharashtra Hospital",
-    "link": "https://www.ndtv.com/india-news/amravati-hospital-fire-3-newborns-die-after-ventilator-blast-triggers-fire-at-maharashtra-hospital-11949623#publisher=newsstand",
-    "source": "NDTV",
-    "hot": 2,
-    "publishedAt": "2026-08-24T04:22:33+00:00",
-    "firstSeen": "2026-08-24T03:55:33+00:00"
-   },
-   {
-    "id": "44c4134a23cc",
-    "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+    "id": "1bcdd98744ab",
+    "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "hot": 2,
-    "publishedAt": "2026-08-24T03:55:35+00:00",
-    "firstSeen": "2026-08-24T04:49:03+00:00"
+    "publishedAt": "2026-08-24T06:55:06+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "a9c50b98f264",
+    "title": "Heavy Rain Hits Delhi, Nearby Areas. Red Alert For Some Districts",
+    "link": "https://www.ndtv.com/india-news/rain-hits-delhi-nearby-areas-red-alert-for-some-districts-in-national-capital-11950224#publisher=newsstand",
+    "source": "NDTV",
+    "hot": 2,
+    "publishedAt": "2026-08-24T06:33:02+00:00",
+    "firstSeen": "2026-08-24T07:01:45+00:00"
+   },
+   {
+    "id": "028a8aad0792",
+    "title": "\"Standard Practice\": Sources On India's Request At PM-Trump Press Meet",
+    "link": "https://www.ndtv.com/india-news/standard-practice-sources-on-indias-request-at-pm-narendra-modi-and-donald-trump-press-meet-at-g7-summit-11950310#publisher=newsstand",
+    "source": "NDTV",
+    "hot": 2,
+    "publishedAt": "2026-08-24T06:17:10+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "d3f0bc8c246d",
+    "title": "Pant surpasses Dhoni, becomes first India wicketkeeper to achieve this feat",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-surpasses-ms-dhoni-becomes-first-india-wicketkeeper-to-score-2500-away-test-runs/articleshow/133453359.cms",
+    "source": "Times of India",
+    "hot": 2,
+    "publishedAt": "2026-08-24T06:15:43+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "cc9bf907ceeb",
+    "title": "Amid protests, TN CM Vijay drops project for 2nd airport for Chennai at Parandur",
+    "link": "https://timesofindia.indiatimes.com/city/chennai/parandur-airport-project-dropped-new-site-to-be-finalised-soon-tamil-nadu-cm-vijay/articleshow/133451025.cms",
+    "source": "Times of India",
+    "hot": 2,
+    "publishedAt": "2026-08-24T04:25:42+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
     "id": "2be9ad229659",
@@ -1030,202 +1048,175 @@
     "firstSeen": "2026-08-23T20:50:18+00:00"
    },
    {
-    "id": "50bdd80e3b00",
-    "title": "TVK Govt Drops Parandur Airport Plan, Expands Free Bus Scheme; DMK Slams Move",
-    "link": "https://www.indiatoday.in/india/video/tvk-govt-drops-parandur-airport-plan-expands-free-bus-scheme-dmk-slams-move-ytvd-2978443-2026-08-24?utm_source=rss",
+    "id": "ed41d1aff844",
+    "title": "India Test-Fires Fully Indigenous AK-203 'Shair' Assault Rifle In Amethi",
+    "link": "https://www.indiatoday.in/india/video/india-test-fires-fully-indigenous-ak-203-shair-assault-rifle-in-amethi-ytvd-2978502-2026-08-24?utm_source=rss",
     "source": "India Today",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:58:54+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T08:07:58+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "61d28fdf5c41",
-    "title": "Women MLAs in Tamil Nadu reiterate need to dispense with usage of ‘maiden’ speech",
+    "id": "c8c3259404e4",
+    "title": "Political Row Erupts Over Ayodhya Fish Feast Controversy In Holy Month Of Sawan",
+    "link": "https://www.indiatoday.in/india/video/political-row-erupts-over-ayodhya-fish-feast-controversy-in-holy-month-of-sawan-ytvd-2978493-2026-08-24?utm_source=rss",
+    "source": "India Today",
+    "hot": 1,
+    "publishedAt": "2026-08-24T08:04:05+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "8495b76a110b",
+    "title": "Women MLAs reiterate need to drop usage of Tamil term for maiden speech in Tamil Nadu Assembly",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/women-mlas-in-tamil-nadu-reiterate-need-to-dispense-with-usage-of-maiden-speech/article71383488.ece",
     "source": "The Hindu",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:57:43+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T08:00:10+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "14e0a690507f",
-    "title": "PTI demands immediate cardiac care for Imran Khan at Shifa Hospital",
+    "id": "dfad4eeede75",
+    "title": "Imran Khan’s party PTI demands immediate cardiac care for him at Shifa International Hospital",
     "link": "https://www.thehindu.com/news/international/pti-demands-immediate-cardiac-care-for-imran-khan-at-shifa-hospital/article71383417.ece",
     "source": "The Hindu",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:57:27+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:59:52+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "564423a46ab8",
-    "title": "CPI(M) demands regular supply of essential commodities in ration shops in Puducherry",
-    "link": "https://www.thehindu.com/news/cities/puducherry/cpim-demands-regular-supply-of-essential-commodities-in-ration-shops-in-puducherry/article71380130.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:57:09+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "b455efe67fbc",
-    "title": "Tamil Nadu government to reimburse cost of three LPG cylinders annually from Pongal 2027: CM Vijay",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-to-reimburse-money-for-three-lpg-cylinders-annually-from-pongal-2027-cm-vijay/article71383242.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:55:56+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "6e71177a2bfd",
-    "title": "Families of two police officers killed in crash say they were heroes",
-    "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:54:47+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "55d53d50608b",
-    "title": "Former Udupi Panchayat president’s murder: Police secure gangster after shooting at his leg",
-    "link": "https://www.thehindu.com/news/cities/Mangalore/former-udupi-panchayat-presidents-murder-police-secure-gangster-after-shooting-at-his-leg/article71383365.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:50:00+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "a93a8c323c4b",
-    "title": "NEET protest violence: CJI says women protestors can file sexual assault complaints against police with probe panel",
-    "link": "https://www.thehindu.com/news/national/women-protestors-can-approach-panel-probing-neet-protest-violence-with-complaints-of-sexual-molestation-against-police-cji/article71383369.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:49:03+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "58dd2b95e0cd",
-    "title": "Kashmiri Pandits Face Fresh LeT Proxy Terror Threat, Seek Security In J&K",
-    "link": "https://www.indiatoday.in/india/video/kashmiri-pandits-face-fresh-let-proxy-terror-threat-seek-security-in-jk-ytvd-2978431-2026-08-24?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:47:55+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "464ad49bbde0",
-    "title": "No Onam relief for Keralam PRD’s PRISM contract workers as three months’ salaries remain pending",
-    "link": "https://www.thehindu.com/elections/kerala-assembly/no-onam-relief-for-keralam-prds-prism-contract-workers-as-three-months-salaries-remain-pending/article71383450.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:44:21+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "e80f04cb582e",
-    "title": "J&K re-starts probe into Wandhama massacre in which 23 Kashmiri Pandits killed",
-    "link": "https://www.indiatoday.in/india/jammu-and-kashmir/story/jk-agency-re-starts-probe-into-1998-wandhama-massacre-in-which-23-kashmiri-pandits-were-killed-2978428-2026-08-24?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:44:21+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "e77ea8dc803a",
-    "title": "Odisha govt rejects Opposition demand for special Assembly session on mining Bill",
-    "link": "https://www.thehindu.com/news/national/odisha/odisha-govt-rejects-opposition-demand-for-special-assembly-session-on-mining-bill/article71383180.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:43:39+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "fd3669dc30b2",
-    "title": "CrossCountry to run full train service after power outage causes major disruption",
-    "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:41:05+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "8a31dfce7fa4",
-    "title": "Fish without garlic, onion is veg: UP minister's claim amid Ayodhya fish serving row",
-    "link": "https://www.indiatoday.in/india/story/uttar-pradesh-ayodhya-fish-controversy-rajbhar-om-prakash-sanjay-nishad-over-fish-vegetarian-2978405-2026-08-24?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:39:34+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "fcd9d17e9867",
-    "title": "3 Infants Dead In Massive Fire At Amravati Hospital NICU; Ventilator Explosion Suspected",
-    "link": "https://www.indiatoday.in/india/video/3-infants-dead-in-massive-fire-at-amravati-hospital-nicu-ventilator-explosion-suspected-ytvd-2978421-2026-08-24?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:37:19+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "991ba60b3e7c",
-    "title": "Mexico brings back 47 bison as ecosystem slowly begins to recover",
-    "link": "https://timesofindia.indiatimes.com/world/us/american-bison-had-been-hunted-to-extinction-in-mexico-160-years-later-the-country-introduced-47-bison-in-2025-and-the-ecosystem-is-slowly-restoring-itself/articleshow/133453681.cms",
-    "source": "Times of India",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:33:10+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "56dd9d9ecb03",
-    "title": "‘CTA intentionally prevented’: PTI alleges negligence over Imran Khan’s hospital visit",
-    "link": "https://timesofindia.indiatimes.com/world/pakistan/cta-intentionally-prevented-pti-alleges-negligence-over-imran-khans-hospital-visit/articleshow/133453738.cms",
-    "source": "Times of India",
-    "hot": 1,
-    "publishedAt": "2026-08-24T06:32:12+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
-   },
-   {
-    "id": "4572242c0b6b",
-    "title": "Farmers, water bodies: Why has CM Vijay dropped 2nd Chennai airport plan, for now",
-    "link": "https://www.hindustantimes.com/india-news/farmers-water-bodies-why-has-cm-vijay-dropped-2nd-chennai-airport-plan-for-now-101787551992686.html",
+    "id": "e6b132e157c3",
+    "title": "Woman stuffs husband's intestines in bag after stabbing him, landlord witnesses horror",
+    "link": "https://www.hindustantimes.com/india-news/haryana-woman-stuffs-husbands-intestines-in-bag-after-stabbing-him-landlord-witnesses-horror-kurukshetra-news-101787555175372.html",
     "source": "Hindustan Times",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:29:57+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:57:26+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "716c43e5e755",
-    "title": "Festive Season Inflation: Sugar Prices Surge Up To Rs 65, Ethanol Diversion Sparks Political Row",
-    "link": "https://www.indiatoday.in/india/video/festive-season-inflation-sugar-prices-surge-up-to-rs-65-ethanol-diversion-sparks-political-row-ytvd-2978414-2026-08-24?utm_source=rss",
+    "id": "2a484d3d30e3",
+    "title": "Delhi HC notice to Abhijit Mitra, X, Google over Saurav Das’ privacy plea",
+    "link": "https://www.hindustantimes.com/india-news/delhi-hc-notice-to-abhijit-mitra-x-google-over-cjp-saurav-das-privacy-plea-residential-address-exposed-101787558022208.html",
+    "source": "Hindustan Times",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:56:12+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "c19e4b040046",
+    "title": "Woman on Census duty robbed of gold chain near Vandalur railway station",
+    "link": "https://www.thehindu.com/news/cities/chennai/woman-on-census-duty-robbed-of-gold-chain-near-vandalur-railway-station/article71381045.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:55:22+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "f2707d43756c",
+    "title": "Why destroy India's heritage?: Yogi Adityanath attacks Rahul Gandhi over Manusmriti",
+    "link": "https://www.indiatoday.in/india/story/rahul-gandhi-manusmriti-remarks-yogi-adityanath-indian-heritage-raebareli-ptag-2978449-2026-08-24?utm_source=rss",
     "source": "India Today",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:28:51+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:51:22+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "c7ec2bc08a94",
-    "title": "Tamil Nadu CM Vijay announces expansion of free bus travel for women in deluxe, mofussil buses",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-announces-expansion-of-free-bus-travel-for-women-in-deluxe-mofussil-buses/article71383426.ece",
+    "id": "b9eb83588dca",
+    "title": "Houses burnt, CRPF jawan injured in gunfight in Manipur’s Senapati district",
+    "link": "https://timesofindia.indiatimes.com/india/houses-burnt-crpf-jawan-injured-in-gunfight-in-manipurs-senapati-district/articleshow/133456429.cms",
+    "source": "Times of India",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:49:35+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "ea5d28ef5b19",
+    "title": "Amravati hospital fire: Saw infants covered in black ash, recalls parent",
+    "link": "https://www.thehindu.com/news/national/maharashtra/amravati-hospital-fire-saw-infants-covered-in-black-ash-recalls-parent/article71383586.ece",
     "source": "The Hindu",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:26:19+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:48:52+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "0736135587fd",
-    "title": "Measures planned to improve quality of services at Telangana Tourism’s Haritha hotels",
-    "link": "https://www.thehindu.com/news/national/telangana/measures-planned-to-improve-quality-of-services-at-telangana-tourisms-haritha-hotels/article71381300.ece",
+    "id": "dbdb5d61c04a",
+    "title": "Japanese lawmakers travel to Beijing, seeking to mend ties after Takaichi's Taiwan remark fallout",
+    "link": "https://www.thehindu.com/news/international/japanese-lawmakers-travel-to-beijing-seeking-to-mend-ties-after-takaichis-taiwan-remark-fallout/article71383600.ece",
     "source": "The Hindu",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:24:07+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:46:05+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    },
    {
-    "id": "2c89f5effcf8",
-    "title": "Salah scores two goals, has two disallowed in first start for Trabzonspor",
-    "link": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
+    "id": "dbb683510597",
+    "title": "Keralam actor Devan set to join Vijay’s TVK after BJP exit",
+    "link": "https://www.thehindu.com/news/national/kerala/keralam-actor-devan-set-to-join-vijays-tvk-after-bjp-exit/article71383615.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:44:38+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "00dace67da9f",
+    "title": "Trabzonspor president reacts to Salah disallowed hat-trick goal",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trabzonspor-president-reacts-to-salah-disallowed-hat-trick-goal?traffic_source=rss",
     "source": "Al Jazeera",
     "hot": 1,
-    "publishedAt": "2026-08-24T06:18:32+00:00",
-    "firstSeen": "2026-08-24T07:01:45+00:00"
+    "publishedAt": "2026-08-24T07:43:09+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "f6a25d3a4779",
+    "title": "SIR in Karnataka: Draft roll out now, here’s how you can check it",
+    "link": "https://www.thehindu.com/news/cities/bangalore/sir-in-karnataka-draft-roll-out-now-heres-how-you-can-check-it/article71383540.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:43:04+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "ff3ce645519a",
+    "title": "When will Vijay govt roll out free LPG cylinder scheme in Tamil Nadu, who can avail it",
+    "link": "https://www.hindustantimes.com/india-news/when-will-vijay-govt-roll-out-free-lpg-cylinder-scheme-in-tamil-nadu-who-can-avail-it-101787551687710.html",
+    "source": "Hindustan Times",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:42:59+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "d7f6514e87fe",
+    "title": "Congress Attacks Centre Over Women's Quota Bill Delay, Questions Linking It To Delimitation",
+    "link": "https://www.indiatoday.in/india/video/congress-attacks-centre-over-womens-quota-bill-delay-questions-linking-it-to-delimitation-ytvd-2978479-2026-08-24?utm_source=rss",
+    "source": "India Today",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:42:56+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "ef85ffd11f12",
+    "title": "Delhi Police bust fake call centre offering airline jobs, arrest 3",
+    "link": "https://www.indiatoday.in/india/story/fake-airline-job-scam-delhi-police-arrest-three-east-delhi-call-centre-ptag-2978456-2026-08-24?utm_source=rss",
+    "source": "India Today",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:39:58+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "92e4cc947bd6",
+    "title": "Delhi lashed by heavy rains; IMD issues red, orange alerts for more showers",
+    "link": "https://www.thehindu.com/news/cities/Delhi/rain-lashes-several-parts-of-delhi/article71383576.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:36:49+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
+   },
+   {
+    "id": "dca016be78b3",
+    "title": "Pune tribal students to meet Maharashtra Minister in Mumbai today; hunger strike continues for 11th day",
+    "link": "https://www.thehindu.com/news/national/maharashtra/pune-tribal-students-to-meet-minister-updates/article71383516.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-24T07:36:22+00:00",
+    "firstSeen": "2026-08-24T08:11:04+00:00"
    }
   ]
  }
