@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26T09:43:13+00:00",
+ "updatedAt": "2026-08-26T10:37:07+00:00",
  "sections": {
   "india": [],
   "world": [],
@@ -8,22 +8,265 @@
   "tech": [],
   "channels": [
    {
-    "id": "77367a571bc5",
-    "title": "Jadavpur unrest probe committee to hold first meeting this week after 'injured' VC rejoins",
-    "link": "https://www.thehindu.com/news/cities/kolkata/jadavpur-unrest-probe-committee-to-hold-first-meeting-this-week-after-injured-vc-rejoins/article71392164.ece",
+    "id": "d3959e05d503",
+    "title": "At least eight killed in Nepal flash flood; multiple districts placed on high alert",
+    "link": "https://www.thehindu.com/news/international/nepal-flash-flood-washes-away-villages-project-sites-near-tibet-border/article71391731.ece",
     "source": "The Hindu",
     "hot": 2,
-    "publishedAt": "2026-08-26T09:11:43+00:00",
-    "firstSeen": "2026-08-26T08:46:15+00:00"
+    "publishedAt": "2026-08-26T10:29:11+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
    },
    {
-    "id": "2664b0ec74a6",
-    "title": "Villages washed away as massive flash floods tear through Nepal - watch",
-    "link": "https://timesofindia.indiatimes.com/world/south-asia/massive-floods-sweep-through-nepal-several-districts-put-on-high-alert/articleshow/133534727.cms",
+    "id": "9185f90f56fc",
+    "title": "SP promises ‘Stree Samman Samriddhi Yojana’ if voted to power in 2027",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/sp-promises-stree-samman-samriddhi-yojana-if-voted-to-power-in-2027/article71392368.ece",
+    "source": "The Hindu",
+    "hot": 2,
+    "publishedAt": "2026-08-26T10:28:31+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "77b2fb6c895d",
+    "title": "Over 100 Indians missing after flash floods hit Nepal - what we know so far",
+    "link": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms",
     "source": "Times of India",
     "hot": 2,
-    "publishedAt": "2026-08-26T08:22:29+00:00",
+    "publishedAt": "2026-08-26T10:14:43+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "736d33530a8d",
+    "title": "Remembering Dolly Parton, who gave away everything but her songs",
+    "link": "https://www.thehindu.com/entertainment/music/remembering-dolly-parton-who-gave-away-everything-but-her-songs/article71392330.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:29:26+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "6cdaf273503b",
+    "title": "Father, son die after inhaling toxic gas while cleaning well in Sowcarpet",
+    "link": "https://www.thehindu.com/news/cities/chennai/father-son-die-after-inhaling-toxic-gas-while-cleaning-well-in-sowcarpet/article71391981.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:28:53+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "d879519eeebe",
+    "title": "Hyderabad Police Commissioner wishes public on Milad-un-Nabi",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-police-commissioner-wishes-public-on-milad-un-nabi/article71392264.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:28:47+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "9e33458952be",
+    "title": "Kota: 20-year-old NEET aspirant from MP found dead in rented flat",
+    "link": "https://www.hindustantimes.com/india-news/kota-20-year-old-neet-aspirant-from-mp-found-dead-in-rented-flat-101787739976061.html",
+    "source": "Hindustan Times",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:26:15+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "637017b99d58",
+    "title": "Sonya Gill, AIDWA leader and women’s rights activist, dies at 70",
+    "link": "https://www.thehindu.com/news/national/maharashtra/sonya-gill-aidwa-leader-and-womens-rights-activist-dies-at-70/article71391923.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:25:46+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "c2c621fe653f",
+    "title": "Explained: When it makes sense to take a joint home loan and when it doesn’t",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/explained-when-it-makes-sense-to-take-a-joint-home-loan-and-when-it-doesnt/articleshow/133537253.cms",
+    "source": "Times of India",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:20:15+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "10008f8706f3",
+    "title": "EC renews outreach plans for Gen Alpha, Z",
+    "link": "https://www.thehindu.com/news/national/ec-renews-outreach-plans-for-gen-alpha-z/article71392329.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:19:20+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "dca425b666bf",
+    "title": "Why Gurugram drowns in rains, but Noida doesn't. 3 key factors",
+    "link": "https://www.indiatoday.in/india/story/why-gurugram-floods-in-rain-while-noida-drains-faster-and-dwarka-waterlogging-gurgaon-2980232-2026-08-26?utm_source=rss",
+    "source": "India Today",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:17:59+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "7229b4d513e2",
+    "title": "Video shows 6-year-old removed by Bihar cops from protest site, Dipke reacts",
+    "link": "https://www.indiatoday.in/india/story/bihar-student-protest-six-year-old-boy-police-abhijeet-dipke-aap-react-2980266-2026-08-26?utm_source=rss",
+    "source": "India Today",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:17:40+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "34d04beea839",
+    "title": "MIT class project becomes $850M plan for 8-motor hybrid aircraft factory",
+    "link": "https://timesofindia.indiatimes.com/science/in-2017-an-mit-class-project-explored-a-new-kind-of-aircraft-it-has-now-grown-into-an-850-million-ohio-factory-plan-for-an-8-motor-hybrid-plane-that-can-take-off-from-an-area-about-the-length-of-a-soccer-field/articleshow/133536701.cms",
+    "source": "Times of India",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:13:00+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "cdb89b0dd4c2",
+    "title": "Madras Crocodile Bank turns 50: How does this reptilian zoo run?",
+    "link": "https://www.thehindu.com/news/cities/chennai/madras-crocodile-bank-turns-50-how-does-this-reptilian-zoo-run/article71391602.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:10:25+00:00",
     "firstSeen": "2026-08-26T09:43:13+00:00"
+   },
+   {
+    "id": "7f7e00a7df35",
+    "title": "Les Paul's son says family got no warning before New Jersey home was demolished",
+    "link": "https://timesofindia.indiatimes.com/world/us/les-pauls-7-acre-new-jersey-home-studio-and-workshop-sold-for-990000-in-july-weeks-later-the-property-where-he-pioneered-multitrack-recording-was-demolished-and-his-son-says-the-family-got-no-warning/articleshow/133536815.cms",
+    "source": "Times of India",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:10:08+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "7612c42df19d",
+    "title": "‘No one will forget Hathras…’: Akhilesh Yadav hits out at BJP over women's safety",
+    "link": "https://www.hindustantimes.com/india-news/no-one-will-forget-hathras-akhilesh-yadav-hits-out-at-bjp-over-womens-safety-101787738770616.html",
+    "source": "Hindustan Times",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:09:16+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "4b385c549319",
+    "title": "'Questions don't stop with batons': Rahul attacks Bihar govt over BPSC protests",
+    "link": "https://timesofindia.indiatimes.com/india/questions-dont-stop-with-batons-rahul-gandhi-attacks-bihar-govt-over-bpsc-protests/articleshow/133537210.cms",
+    "source": "Times of India",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:08:42+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "4c2ad352f1c8",
+    "title": "Stock Market Highlights, Sensex Today: Sensex Settles 183 Points Lower As IT, Auto, FMCG Stocks Drag",
+    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-26-august-us-iran-war-oil-price-11959504#publisher=newsstand",
+    "source": "NDTV",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:04:59+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "561c129e574b",
+    "title": "NEET aspirant ends life in Kota apartment, eighth coaching student death this year",
+    "link": "https://www.thehindu.com/news/national/neet-aspirant-dies-in-kota-apartment-eighth-coaching-student-death-this-year/article71392217.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:04:52+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "4643d6312123",
+    "title": "NEET-UG protests case: Petitioners seek re-constitution of high-powered enquiry committee",
+    "link": "https://www.thehindu.com/news/national/neet-ug-protests-case-petitioners-seek-re-constitution-of-high-powered-enquiry-committee/article71387458.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:04:21+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "7a9225aefc79",
+    "title": "Kangana Ranaut's \"Bro, Wait\" Post To Rahul Gandhi's \"Smash Patriarchy\" Call",
+    "link": "https://www.ndtv.com/india-news/kangana-ranauts-bro-wait-post-to-rahul-gandhis-smash-patriarchy-call-11961096#publisher=newsstand",
+    "source": "NDTV",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:02:27+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "e143a2ecbcf4",
+    "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+    "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+    "source": "Al Jazeera",
+    "hot": 1,
+    "publishedAt": "2026-08-26T10:00:05+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "8271ace5b004",
+    "title": "Bridge, Houses Gone In Seconds: Videos Capture Horror Of Nepal Flash Floods",
+    "link": "https://www.ndtv.com/world-news/nepal-floods-bridge-houses-gone-in-seconds-videos-capture-horror-of-nepal-flash-floods-11960838#publisher=newsstand",
+    "source": "NDTV",
+    "hot": 1,
+    "publishedAt": "2026-08-26T09:57:52+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "7c37d9d54910",
+    "title": "India rejects ‘politically motivated, highly malicious references’ in remarks by UNCERD",
+    "link": "https://www.thehindu.com/news/national/india-rejects-politically-motivated-highly-malicious-references-in-remarks-by-uncerd/article71392232.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T09:57:23+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "5878e6778112",
+    "title": "Opinion: Opinion | The General Who Survived Iran's Wildest Battles: Meet Ahmad Vahidi",
+    "link": "https://www.ndtv.com/opinion/meet-the-general-who-survived-irans-darkest-battles-ahmad-vahidi-11961077#publisher=newsstand",
+    "source": "NDTV",
+    "hot": 1,
+    "publishedAt": "2026-08-26T09:56:27+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "dcdcc685f920",
+    "title": "AK Sood appointed Principal Scientific Advisor",
+    "link": "https://www.thehindu.com/news/national/ajay-kumar-sood-appointed-principal-scientific-advisor/article65338825.ece",
+    "source": "The Hindu",
+    "hot": 1,
+    "publishedAt": "2026-08-26T09:53:09+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "927d4205c378",
+    "title": "Sukesh Chandrasekhar convicted for impersonating SC judge to get bail: ‘Didn’t just cross the line but leapt over it'",
+    "link": "https://www.hindustantimes.com/india-news/sukesh-chandrasekhar-convicted-for-impersonating-sc-judge-to-get-bail-didn-t-just-cross-the-line-but-leapt-over-it-101787734924483.html",
+    "source": "Hindustan Times",
+    "hot": 1,
+    "publishedAt": "2026-08-26T09:43:35+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "fe3692b40815",
+    "title": "Bhutan King Meets Bangladesh's New President During Dhaka Transit",
+    "link": "https://www.ndtv.com/world-news/bhutan-king-meets-bangladeshs-new-president-during-dhaka-transit-11961060#publisher=newsstand",
+    "source": "NDTV",
+    "hot": 1,
+    "publishedAt": "2026-08-26T09:42:20+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
+   },
+   {
+    "id": "e6531071342a",
+    "title": "Live Updates: At Least 8 Dead As Massive Flash Floods Hit Nepal, Rescue Ops On",
+    "link": "https://www.ndtv.com/world-news/nepal-flash-floods-live-updates-nepal-hit-by-massive-flash-floods-multiple-casualties-feared-rescue-ops-on-11960633#publisher=newsstand",
+    "source": "NDTV",
+    "hot": 1,
+    "publishedAt": "2026-08-26T09:40:51+00:00",
+    "firstSeen": "2026-08-26T10:37:07+00:00"
    },
    {
     "id": "d1c5ea6cf212",
@@ -32,249 +275,6 @@
     "source": "Hindustan Times",
     "hot": 1,
     "publishedAt": "2026-08-26T09:39:57+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "6efb82ea357a",
-    "title": "Karnataka Minister Khader seeks action against Central official over Datura licence suspension delay",
-    "link": "https://www.hindustantimes.com/india-news/karnataka-minister-khader-seeks-action-against-central-official-over-datura-licence-suspension-delay-101787737132112.html",
-    "source": "Hindustan Times",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:38:51+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "7b9584a82089",
-    "title": "High vigilance necessary for H1N1, no cause for panic, says Indian Medical Association; warns against antibiotics use",
-    "link": "https://www.hindustantimes.com/india-news/high-vigilance-necessary-for-h1n1-no-cause-for-panic-says-indian-medical-association-warns-against-antibiotics-use-101787735198266.html",
-    "source": "Hindustan Times",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:35:54+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "c898886183c6",
-    "title": "DK Shivakumar Like Real Estate CEO; Will Contest Ramanagara: Nikhil Kumaraswamy On Bidadi, Dynasty",
-    "link": "https://www.indiatoday.in/india/video/dk-shivakumar-like-real-estate-ceo-will-contest-ramanagara-nikhil-kumaraswamy-on-bidadi-dynasty-ytvd-2980258-2026-08-26?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:35:25+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "d0d4ab520f7a",
-    "title": "Railway gateman hit by train at Uttarakhand’s Girdhar crossing, dies: Police",
-    "link": "https://www.hindustantimes.com/india-news/railway-gateman-hit-by-train-at-uttarakhand-s-girdhar-crossing-dies-police-101787736855287.html",
-    "source": "Hindustan Times",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:34:14+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "24cd8f52c0f0",
-    "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-    "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:31:51+00:00",
-    "firstSeen": "2026-08-26T06:52:48+00:00"
-   },
-   {
-    "id": "3cd10390abe7",
-    "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
-    "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:28:03+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "f867290706c6",
-    "title": "Mangaluru’s integration with SWR should be used for aggressive Railway development in the region: Kanyakumari Association",
-    "link": "https://www.thehindu.com/news/cities/Mangalore/mangalurus-integration-with-swr-should-be-used-for-aggressive-railway-development-in-the-region-kanyakumari-association/article71392057.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:27:27+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "3f563913b0a6",
-    "title": "NCB busts cross-border heroin cartel in Jammu; mastermind among 3 arrested with 5.16 kg heroin",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ncb-busts-cross-border-heroin-cartel-in-jammu-mastermind-among-3-arrested-with-516-kg-heroin/article71392015.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:23:28+00:00",
-    "firstSeen": "2026-08-26T08:46:15+00:00"
-   },
-   {
-    "id": "a569cac9ab55",
-    "title": "The Bulgarian village that fears becoming an Iranian target",
-    "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
-    "source": "Al Jazeera",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:20:33+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "27eb69e3e42e",
-    "title": "CJP a welcome move, but…: What's Tejasvi Surya's take on Gen Z political rise",
-    "link": "https://www.indiatoday.in/india/story/tejasvi-surya-cjp-credibility-gen-z-bjp-opposition-governance-cockroach-janta-party-2980234-2026-08-26?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:18:15+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "2957e9811dfd",
-    "title": "HT Exclusive: After opening missile manufacturing to pvt sector, Modi govt targets 1,500km strike range",
-    "link": "https://www.hindustantimes.com/india-news/ht-exclusive-after-opening-missile-manufacturing-to-pvt-sector-modi-govt-targets-1-500km-strike-range-101787735611023.html",
-    "source": "Hindustan Times",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:17:38+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "26eb9ddd2e7c",
-    "title": "Tunnel Road Project, Park Land Row & Infrastructure Debates | Bengaluru News",
-    "link": "https://www.indiatoday.in/india/video/tunnel-road-project-park-land-row-infrastructure-debates-bengaluru-news-ytvd-2980245-2026-08-26?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:16:26+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "521d166267e2",
-    "title": "CENTAC releases revised UG NEET draft merit list",
-    "link": "https://www.thehindu.com/news/cities/puducherry/centac-releases-revised-ug-neet-draft-merit-list/article71391542.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:15:38+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "d637d0d4aee4",
-    "title": "Scottish island bought by couple was gifted to National Trust 43 years later",
-    "link": "https://timesofindia.indiatimes.com/world/uk/a-scottish-scholar-and-his-american-wife-bought-the-remote-island-of-canna-43-years-later-they-gifted-it-their-home-and-their-lifes-work-preserving-gaelic-culture-to-the-national-trust-for-scotland/articleshow/133533553.cms",
-    "source": "Times of India",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:15:00+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "dd14f39c0876",
-    "title": "BDA Master Plan, GBA Restructuring & Transport Push: How Bengaluru Infrastructure Is Being Revamped",
-    "link": "https://www.indiatoday.in/india/video/bda-master-plan-gba-restructuring-transport-push-how-bengaluru-infrastructure-is-being-revamped-ytvd-2980243-2026-08-26?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:14:17+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "65fb50e9b99e",
-    "title": "One for the future: Gen Alpha rise to demand accountability, better infrastructure",
-    "link": "https://www.hindustantimes.com/india-news/one-for-the-future-gen-alpha-rise-to-demand-accountability-better-infrastructure-101787735651674.html",
-    "source": "Hindustan Times",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:14:11+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "3f4e9edcb8e1",
-    "title": "From sacred fire to darkness: Navia Natarajan’s choreographic exploration of ‘Agni’",
-    "link": "https://www.thehindu.com/entertainment/dance/from-sacred-fire-to-darkness-navia-natarajans-choreographic-exploration-of-agni/article71383703.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:13:18+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "cdb89b0dd4c2",
-    "title": "Madras Crocodile Bank turns 50: How does this reptilian zoo run?",
-    "link": "https://www.thehindu.com/news/cities/chennai/madras-crocodile-bank-turns-50-how-does-this-reptilian-zoo-run/article71391602.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:13:17+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "e833bc858ec2",
-    "title": "Deletions in Karnataka’s draft SIR rolls alarming | Data",
-    "link": "https://www.thehindu.com/data/deletions-in-karnatakas-draft-sir-rolls-alarming-data/article71391961.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:12:02+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "910a12fdde15",
-    "title": "Panic over Telangana’s voter purge",
-    "link": "https://www.thehindu.com/opinion/op-ed/panic-over-telanganas-voter-purge/article71362081.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:11:34+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "0dd5ced5fd17",
-    "title": "43 and counting: Statues around Hussainsagar mark shift from Telugu pride to social icons",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/43-and-counting-statues-around-hussainsagar-mark-shift-from-telugu-pride-to-social-icons/article71389447.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:10:53+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "07979e9c5967",
-    "title": "4.46 crore voters in Karnataka draft rolls; 1.07 crore names deleted",
-    "link": "https://www.thehindu.com/news/national/karnataka/446-crore-voters-in-karnataka-draft-rolls-107-crore-names-deleted/article71385511.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:10:52+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "9a7bc2abdadd",
-    "title": "What’s missing in T.N. for intersex babies? Genetic tests at government hospitals",
-    "link": "https://www.thehindu.com/sci-tech/health/whats-missing-in-tn-for-intersex-babies-genetic-tests-at-government-hospitals/article71374543.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:09:28+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "8193f64d7abe",
-    "title": "Cancer drugs replaced with water, sold under govt scheme: Interstate racket busted",
-    "link": "https://www.indiatoday.in/india/story/delhi-police-rajasthan-government-health-scheme-interstate-racket-busted-cancer-drugs-black-market-vials-replaced-water-2980213-2026-08-26?utm_source=rss",
-    "source": "India Today",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:09:02+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "ceb1cf2c8791",
-    "title": "Rs 30 lakh a month for an intern? India’s trading firms are in a fierce talent war",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/rs-30-lakh-a-month-for-an-intern-indias-high-speed-trading-firms-are-in-a-fierce-talent-war/articleshow/133534799.cms",
-    "source": "Times of India",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:07:28+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "e38987420bf4",
-    "title": "Owaisi denounces Allahabad HC ruling on hijab as ‘attack on Islam’",
-    "link": "https://www.thehindu.com/news/national/telangana/aimim-chief-owaisi-denounces-allahabad-hc-ruling-on-hijab-as-attack-on-islam/article71391940.ece",
-    "source": "The Hindu",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:06:59+00:00",
-    "firstSeen": "2026-08-26T09:43:13+00:00"
-   },
-   {
-    "id": "6ea2dc044800",
-    "title": "Zohran Mamdani's remarks on RSS chief Mohan Bhagwat's New York event draw flak, support",
-    "link": "https://www.hindustantimes.com/india-news/zohran-mamdani-remarks-on-rss-chief-mohan-bhagwats-new-york-event-draw-flak-support-101787728387269.html",
-    "source": "Hindustan Times",
-    "hot": 1,
-    "publishedAt": "2026-08-26T09:05:11+00:00",
     "firstSeen": "2026-08-26T09:43:13+00:00"
    }
   ]
