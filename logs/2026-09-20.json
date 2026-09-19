@@ -1350,6 +1350,536 @@
    "publishedAt": "2026-09-19T19:18:47+00:00",
    "firstSeen": "2026-09-19T20:12:42+00:00",
    "section": "channels"
+  },
+  {
+   "id": "5c9b18c28921",
+   "title": "Kathmandu-bound Air India plane returns to Delhi due to suspected tech issue",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2pXcC1vQnh6U2VIU3dLQXNPb1NZajVBTnUtS2c2M0pCemRXWGV1cG9idTJLYTBteXZPNVZCOGl3WWtYTGV3M0RxdmhwMXlteXpCZHJKRnFZSGRpbUhjc25uNTRhVTM0a1Mzb3ppeFR0cXJKVGljOWNmSFdoVVY4TmpVOEkyMGFsMUsyWjh2SVVGVlYzVlo5UGpGVjVZaHl5UVFLdlRpYXNaUmVIUW96WkctMm9uR0dJYlg3YXlESXk?oc=5",
+   "source": "Press Trust of India",
+   "hot": 3,
+   "publishedAt": "2026-09-19T16:25:26+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "7eceee4f156c",
+   "title": "We are opposed to US policy of imposing tariff for political reasons: Cuban envoy to India",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeG14SHl0VjlENTgta1FFU1psZDNNMlVPQmYtZWRiWmpPTkc5aFo0ZmppRWhtVUFWZ1pPN1Z6VWNvaE5DNGV2UlVSbWYySWNCWm9neDdRZEF2Q0h6Z0puU3dobEl1ay1tRWVFaTZMUW1sVDc0dUxxeTFFdUVFLWRMZWNvVmNZck5iUTJWTGlZbWNKN1JQc1hnZWVpLUExbWtNNGpiQkRfM081ZjZvVndvWGFEalhXY2ZTem03RmtmcEZsOFpLNU1rOTkxWlQ4SDhu?oc=5",
+   "source": "Press Trust of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:44:04+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "60962e918555",
+   "title": "India sends fresh tranche of relief material to Nepal",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUtSNnd2UndvUVNoeXlFbUx4TmluLVJUby1qa1pfQkdBa0xfWTB2YnMxMDl0X2dqQy14LTV2TDJPUDJFd1A3ZTQ3MVY5LVU5V204aUlRanAxSHNHWVhJSkJPZURYX3YyTWg5Y1BtbTlvSS1rT3d5ZThSTmFEeWY5OFBiWGw2Nk5lWm95QVBMaTAydElKaFRKNkxKMUx4b3FpVVE?oc=5",
+   "source": "Press Trust of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T19:44:19+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "79d5489d2b3f",
+   "title": "IIT Bombay faculty member booked for caste abuse, suicide abetment",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlB5MFlQU0lpS0lqUll1UHpFWkNqcVUzRUxCVmFrZ1lTNkpNMUxLUFBBU0RHYWx3TlRETHZ1MFFyTUFTNEJRc2RYSGhDY3pyQ3hqa253QWwxQnBZdVpMVE1TN0k5RFNYendpQjVlYmhzYmtiX2ZGSFY2ejZXS2E4X2d3U0tJM1RJUXRjeFJXUFhIMVRqaks0NDVjUkpMcWlyS0Q1QUV1MllCQWhkWlBwQ1E4UVctdS1XaTJWQi10M25DbHFQZnhja20xWVFJVFE1N0HSAdgBQVVfeXFMUDVZVEJJNVNtZzZXaW42S1BaeEZIbXZmdXRuaHljZWlaWWRvTjhPZVR1MWRlaEs1TW9CaDYzdVR0N3ZjY291UEF4MnRERUxaZ1RuZ0JadThBTC0xWWMtM1dldkhpM0ZodjNSQ2hVclRiVWxFUlJ4bW9JMFdGd0NjSVY2cFlEME4zWHF6aGZvYWJaSkk4TkZ1QU5JanhfbUVBQy1mdmxrQXJoWWVNNnJXTTFneTkyVWRxQUVhVjFwVVpmSTZSQlZfSGUtLXk1dGMtaVYzdkhRT3hF?oc=5",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T16:59:51+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "17435e47fc47",
+   "title": "NLC India targets large-scale pumped storage projects in Tamil Nadu, Odisha",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNTNTcmhNeEpQQTBxOXRsN29OVWl1Q2YzUnRNZjFRdWhlVWkySXhuTGN3RjdHRWVOOU51akNraTNFMjVjdlhxb3oyTHZSUHRIT3drSWJvS05sX3B4S3JLWGZuRTk0enlzN2lvRjEzdDVwdGJ2OEdXWU43VVdFb01palZ6QUptcWdPMWYwUFRMek85OGJNSTNxdno2V0NtLVJnSTF3bDRXZ1BFMWRlT2VhVTg2OTQtd1R6eUxjcjlxUQ?oc=5",
+   "source": "Press Trust of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T15:47:20+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "17128c98de85",
+   "title": "India's youth-driven talent will build next Qualcomms, Intels from here in coming years: Vaishnaw",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOekJTbHdiVndUREZ0RktJeThTYzAzelg3cW9ITU1XU0R5UVRsY3VEV0hkeXN3d3ZLM2JSWHpLOFNQeHN6c2ZDX09tbzNLbEZ2TlcwVHV1Nk5zUUdaUUpDZmt2eDZUQzNIU3hnT3o5Rnk2QjNYWmpDRzZQZEVYb0RnQnVwM05NSWZBV0tGb1R2U1M5eU9LNkF2TnFvTUIwQXFialEtUllieGNCZTJZNHh0cEIxOGNyZi1kT09rbkxmV0czZ3JqSzNrTF9IV0JjM2owZ3huVWZvVGFsOW8?oc=5",
+   "source": "Press Trust of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T12:37:58+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "85d7757f78e5",
+   "title": "‘Gift’ For Mann: Bittu Waves Liquor Bottle, Eggs, Tomatoes At CM’s Convoy, Detained In Ludhiana",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2JObnk5d2hoQzFlb0N0UWttX1NjSUdCMm5zcDNnRWtGaVRiaVpHUnpWYk1tRDF1UXM4MV9ISnFDdE1vTVI0ZExoTFp0bWVVMXMydUFjSzQta3EzdWxFNW1HMlZ3c3RWZ2FoWnZmM2xBSmhCaWliR3dZTTJqSGdwRVZMR2dmMlF0WjRtZTUzYzcxdTdDSElqM1BXeXhZTnRtd3RodW91MWg4U1VZQVVMWkJFUEgyR1k3WWV4VzljLTIwUQ?oc=5",
+   "source": "ABP Live English",
+   "hot": 1,
+   "publishedAt": "2026-09-19T10:00:07+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "36d16a3cd9dc",
+   "title": "US tariff law raises uncertainty, may disrupt India's exports if imposed: Exporters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWpZeEtIMDZtSWFMbmotNWZBb0pJRWdCbF95U253N1FyS1dxMXdJZnFIcXZLd29JVl9uVW5kcFctR3R0a2NzN1FPODV5V1ZpdmJrSE5rWng1ZjFUYmpXWUt1cndzOEZaaXV5cGNERFRvdC1FMXY4LU92Y2pVbnhlRmRoZTYzLWhVNk1MTmhvcm1nSGtVQTV5Nzh6VldpRURaeXVJaThRUS1XVGhfbTZ3RlJyY2I4bXFjdkRwVWYzZUdhbGNtdDJv?oc=5",
+   "source": "Press Trust of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T09:42:35+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "efd3279e0fc0",
+   "title": "'Delhi a terrifying daily story for women': Rahul, Priyanka slam Amit Shah over teen's gangrape-murder",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzVTUmlHSVhmQWNZNWxMQ0xoTjVmT3JpcXIxNDg5VDViQ3FBZ3JIM2R2X3pOM243ZE5sNU4zeVhkTHhUUHFKelVCR1pmZUlxRmtLM25qQmRLejY1ZXNfTDgtaGczd1Vlc3JmREs0Uk9uN3FOVEstSDJubk1UVmNRaTZQaUVpbmNTM0hoTkh1UzFjX0R3b0xadnU5VU5FQ1VwLXg1elEzV0dMTTVLeWpzc2dWdFV1bEJ4U2NpOUJuM19LcFNvWm5tRThZMkFtY3lnRTdXNms0MUdIcHIzNm9lc0pvc3BQbVNPcE54SlF0VTRBbmtxV1dhTA?oc=5",
+   "source": "The Times of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T04:11:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "india"
+  },
+  {
+   "id": "a0955ac5091f",
+   "title": "Trump bans media outlets CNN, MS NOW, Politico from White House",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnJxOUhZN2Y5djYxaVB6TGJoU29ndEplbGZFSlBnNG00OXpuUHFlUDNrdmJJQkdFczU1QzVmeHFUN0NKN1Zjem8wMGtEQXFhbnNWU3gyX1lsR1BlbVFWY1JFeDBCMkhDczhRREF6Q1UtemQxSHVONTFhOTVmVjBoYzVTb0t2ME1FazB6Y1hSU0VYb2FpWlBzclN6dDVBWFJVZ1E0Qk1NNmtqMVVpc0gtemZscDRESTE0WXBOaTFWbFJOSUHSAcoBQVVfeXFMUEZmYVd2cEEzczh5MVUyem1qMGxVWElWQzZnQlJIRi1ra1lvS3dRaTR1b3RLZ3hISTRBY1VJLWtTSlFWNGtHelZZVHBSbzdsWnBZaHFheVNXMGFMc0k5bTFaYVFtb1oyV3hHX2tyS3FudHozYzhwUDNpRUpKT1YzaWxoN1VjRmRKaFJRck90UmJMV0gwY2M3R0tiQWNGM1JfVmtySVlSRWFjb3ZTYTQxejFGUDFxM0x2VVM4TTJORm1NWEMtbGhheGF3QQ?oc=5",
+   "source": "The Hindu",
+   "hot": 4,
+   "publishedAt": "2026-09-18T19:28:54+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "world"
+  },
+  {
+   "id": "7bf64a06dd42",
+   "title": "Greenland, Denmark say Trump deal won't compromise sovereignty",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemxkRmwzaU5BNDR0UUJnYWw0YlFGc3p1UTVSM3BXUFE5NnJ1VjRGbTZrQlBNLW9sUEg0d09VSGZrSjd3SkNXWmhzc1Z3Z1I2ZnpaeDBrcW5ncV91UnlRVjRHb0RNOFFwZU1YUHA4NEJzallYRXdLSHZEYXR2V29yTjNDWENBcWZWVndnU1lrcEMtaVZBb2dRZUhaU0c0TnFBQVhlMFVPZGJyZFhsTDRqVGdjYlNWQjlUcFZDY2tPN0lHZw?oc=5",
+   "source": "The Hindu",
+   "hot": 3,
+   "publishedAt": "2026-09-19T16:12:33+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "world"
+  },
+  {
+   "id": "0e8515af7c65",
+   "title": "Iran conveys terms to US for restarting talks, says ‘Trump’s threats will not achieve results’",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYlFkbUhOZ2d6WlRwZ3BQX3MwUWhVUWdyV0E4MV93aWRyZVl3dGdVNUtnUHc5Vnp6eTdWVjJPNjQ4RlFiSEw1ZHhCSTd6V3Q5OUJ2Y1Yyand5WS12RlRIOFZFZmd4YWZSancxeGViVHlUdVpTU3c4MHBJY0lfZ3hIZmQ1U2YtQWhfRVVmTXNHY2ZuRHJjbXo2Z0VRQlNCMFFPUW1aTkpSQnM5UTUxVGpTRVNmdV9GUVNFclNLVVhIaXluREJkMHZKYmRZeGVVMlBjaUtRR0Z0U2FZYUhGbEpEWk4wNHdVVXh1dW43di1Ma1pnR3ZZY1pVNEh3Y3M?oc=5",
+   "source": "The Times of India",
+   "hot": 2,
+   "publishedAt": "2026-09-19T20:15:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "world"
+  },
+  {
+   "id": "6e490cdffd57",
+   "title": "Turkey says it could help meet Saudi military needs under defence pact",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5",
+   "source": "Reuters",
+   "hot": 1,
+   "publishedAt": "2026-09-19T19:21:47+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "world"
+  },
+  {
+   "id": "de9e4f899cc8",
+   "title": "Houthis: How a local Yemeni movement became West Asia’s wildcard",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1NXT0RuWmxiWVpLR3ZyajlWdE9qLVFmdFRZclp3SHpucU5CMFRPTWZJNzFqQzNDVWNib0EyYUxfZzFrZzVoX3ZxNmh0OFlWcHh0VUFwcjkwa2NDRFl1ZV8wU0RqMkJ2Z3VSZFZHUTFUdzV6SnhvbDBJTXkwb3ZxcHBYUHI2dTZtU05HTVd4ZFhIUXIwTDM4RkRmbTRqMnNINTVvcUp4WGhtMlh2NUpTV2ZTb1B0UlZ0YTMwQnp0aG1ObU0yQm1J0gHOAUFVX3lxTE9iX1VSOUpOM2JiSXBKMjZVdlY3WG5OS1VBLVgwUG1XLU8zTGwtWWg0OENUekFkTVZKeklSOE9SaTlBaDdvUlVMdjVjVVBmZURHOThfMFgxdGV6eFBVT2FIVlczRnp6QXczdDZIZXAwTmYyTFJRXzdJQVpZbGJTR3UwQmk2MHhiSERGZXY5MjZUQ2lqdTFwUjhVUFl6ekxzbHNWQUF0ak9KeWhyU0VzSkdMRUgtNWs5MHNDMUJ1OVZzUGtEWjdTWTVSZU1KZEJ3?oc=5",
+   "source": "The Indian Express",
+   "hot": 1,
+   "publishedAt": "2026-09-19T13:08:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "world"
+  },
+  {
+   "id": "6e490cdffd57",
+   "title": "Turkey says it could help meet Saudi military needs under defence pact",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5",
+   "source": "Reuters",
+   "hot": 1,
+   "publishedAt": "2026-09-19T19:21:47+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "business"
+  },
+  {
+   "id": "d6ea7682c56c",
+   "title": "USD/JPY weekly forecast: Suspected rate check revives intervention threat",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURYODNydE5aTFV5UENWa0NMMUppOEVYekpsZEJZQU55RW1Kbk1mTFlZRUx3TVlJWElTTWdjR1gxcHlEUmFsNXZZTUZXRGJuTWFwY2RNQW1DM0ZUTEQ0VERGdGtscWxXTDE3dEloUFhlNDVUNUpXWmJ6YXltNE83c0ZObE4zZWV5ellJbmFXV2F4VDVNVk5fN0M1LXFoaXExZHFQQUlXaFZmZ9IBrwFBVV95cUxOTkFSRlNYcG5TcllobzhfbXkyVl9ITlJ1YXdJcEtjS0xNSlRudHB5anRPZWtWNkhSWjE5R2ozTXZoOERzNzVyQWlibFZOYU9rYk5Lb3JqTXlMclhaYWxjVG5SUGJkUWx5NTdIaG5tdEttc2Y5R3AwSnpEeF9xVWJ1TExjUUQ1TGhfT3VuRDgtdGx6ekJ4b2VCY0oxUkxETS1LeG5FRFRGTk5WNkpMZ3hB?oc=5",
+   "source": "Forex Factory",
+   "hot": 1,
+   "publishedAt": "2026-09-19T17:14:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "business"
+  },
+  {
+   "id": "dce6545bed6f",
+   "title": "Fuel Pumps Warn They Won't Accept UPI Payments Above Rs 2,000 Over New Fee",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzU2aGY3ODY2UjFkaS1UcFMyWVlDOXJWbVNZc3NHVXVMTkhtclVOY1J3bEFaMWhxTk9BUjNjRTY1ME56VmNtMUc5QUlodUNaSVpWMkxuZ0hxUW5PdnlKcXAwNVVjVk5tRTltSzVKOWRSQldabUNyd0JLWkMtS1piel9JWFUxakRIQlM1Zk84V0FYUEg5Q2Rrb1BJUjlwc2daOHZ2WWVpZWpVbzhNOGJ0VC1XVmpZNVnSAb8BQVVfeXFMTzFtZmw2NUVVNzN0V1BsS3JEcHNCbTVxdTFlVzFrajU5bmlVbWR1b082QjItWGpqb2ptWS1aSXVvVWN4bU1VX2gzSl9XSnhPWFcxVTdjOEZhWl9oU3VXNUdFb2d5bDlWTkNUWTY3LTBKdDllUlpoUnVuZFY1SHc0RGZrVkpzbXEtV2dqVlRfcnlwZ1U0dVB5c1lMYXRYQVJacjdBQ0tPN2dTVC1RbTBoSkxrN05TUGtJVk94LVNoaVk?oc=5",
+   "source": "NDTV",
+   "hot": 1,
+   "publishedAt": "2026-09-19T05:16:28+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "business"
+  },
+  {
+   "id": "a64b856de774",
+   "title": "Country To Get Its First Precision Manufacturing Institute, Announces Ashwini Vaishnaw",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON18xc2FqZmp3d2lEQTZia2MyMzRWNm95b1BBTzctbnBfVTRWUDZwNzd4X1MxOVV3Z1BEVFJRdl80RGt3eWRnZzlha05SZnRWQndjSW9PeUlGTDBBMGpRdHhtVlZYZGhwUE1qWHFzUHl0bVlRVGNiU0NoOFlvN1ZaNHl5RjJMMFZ5TWNDZTNvMWV4dnJoZzhaTkVZRVcxTXczdVlzOGNqcXJnM0R4STZramtVeEc4X1ozX1kyNNIBzAFBVV95cUxNeTFUdW5KMy1hVlF0czBtZXBzNk1BSEJwVVcxZmpFeG5zMmJwZ1BwS1lkSUtKRVBTYjdDZjRLbnNVV245RFpFSDJ2UjlvVDMzYjVJOFlXOG1ncTdITW1qQUlZR0NRZHdNTVk0VXJMV2NPb25DSUlBQ0dhQTlNRmM4YkxaNW82Y2UxMG9UTG9tTXdmRmVJcUcxRktZYmhPZzlMcWNLSmt1OWRSQ3ZHUlFfNjRsSUFnbEZxak4zdVpNcDktangyMUZSWml6NHI?oc=5",
+   "source": "Swarajya",
+   "hot": 1,
+   "publishedAt": "2026-09-18T12:29:40+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "business"
+  },
+  {
+   "id": "7cd250e239de",
+   "title": "IPO GMP comparison: NSE vs Hero Motors vs SS Retail vs Jindal Supreme - Check which has worst grey market premium?",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcW50Y1VJbi1MVlNaUmo0OW9ScUFvVjFLVUNnOGZMLWZnWHNmbkRoTkMxYTZLa3AxLUNFSHduZkhkOV83ek9qRmZ4UGQ5NHJvUU9fYXBsN1NETUlHcUFHN240NDFVbEZNaHBZOXRpMlBXQVg1ZUQxR2dPRHRleExhcjFBTUZzbFo2cjNXUFQzTm5jc2xURXRZSVo1M1BHTmdpQ3V1S3g2dUxvMkY3V0U0UENtWG9FeDBYOF9GUFliSS1kNUVJOENiMzNVcEpyZG9aS2ZSYmJkeTZOeW9XVi1NY1BZNXBDYktKclo1T1hHQWNJRVZNZHlMZVdR0gH_AUFVX3lxTE1hSUdJbFlEQ2sxRGdNanRoSnMxci1pN0ttMHBVYURCWl9EZmFhUzJuMDlNUC1Gcl9ZbzdmZUxuNzlTaFZRNHljbEdIRlI5dXlCbkZmYk1XRXNFeDRLQVgxM2JaU3dtLXJRSmZEVnlISlRyNWNqbTRScEdWYlpQMDZpWUh2SEV6MThHU3d0QkZ0RjFrVGlCUEI0YXNmd0lUUmJSS2lyNGlLUFlyZ1psQzVkZHQtbFNEMXpuRjZkdUxieHBRdXgzUTFDWWdrbHBSLUEzTXBCRFNqZ3NKaGJlOGlLRjNSdk80VWs3Q1h3RDhSenNoUkZuNjlhVi0zd3l0UQ?oc=5",
+   "source": "Livemint",
+   "hot": 1,
+   "publishedAt": "2026-09-18T11:20:15+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "business"
+  },
+  {
+   "id": "408c131050f1",
+   "title": "Siraj to lead Hyderabad in first two Ranji Trophy matches",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEtuY2Ewd1R4dHB1OGlsU2xHRnVNWnpSdDdPVTdhcnYwaFVRMEgwMGZ1RHBrLWc3OU1TaWlja1oyU1VIRFh5Vk40SDlwNWJyWEtsZkF0d0RMbkhTdjdaU08xUjBrbzFBckJnNE9ZVEJVZVdkZmFJQUg4amw2VzIxYlJiTXlZTWh0aC15S2pxSkdlQmJNTVVYVFVKcW5IZ3A3ekkxRjJxOXhreXh6VlZQM0hUa9IBxAFBVV95cUxOOS1Xa1dlTnB2MWpqVVZkNlVGVzlMVERpN1QxdnFoZ3prX1pDMVV0VjhFWkhJUU1hSUEzVU9CWm9EdHExQU82OXRnNWNGWXc5MHBIcWxIQUVwWWVObVpoUndaSW5OQUpVZW5xQWFiUG55NGt5OEFKRTJSNHlMVTNRajhNUHZYSHRwb083SEdfMVBQeXFscFpIYS1GQjBpWGVQcUhyTlZzbTJ0UVIydTJrSlkwYzctb19qY1cwazh0Nm1ZcWQt?oc=5",
+   "source": "Cricinfo",
+   "hot": 1,
+   "publishedAt": "2026-09-19T18:42:50+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "sports"
+  },
+  {
+   "id": "6bc06fb54581",
+   "title": "Asian Games 2026 highlights: Japan’s Emperor opens edition in colourful opening ceremony",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGtxV3hkUTBuWGZWOEZfeEU4Y3BwV0FIZDJFbzM2WnpxVjFjRk1waHdYOE5mbzE3UTBPXzFrN1dxMlp1SmdJbWx5WGFGMFltZUpPdDhocTVGZ0lIU0xpSmduY0dLc2s5R3VnMWtjSGdUZEhlU1VBczh4VExHYlNuNGpQb1JfeV82WmtXN0cyUXZhVmZncmxPdF9sNEpCVURxeTZXMElQSFJMLWZrTW1tSG52blZyQdIBvAFBVV95cUxOWEUxc3FCWXhaZWNGajViUjdRc1p5RWpGUFV2T1dsVTJYWURKcUdiNEJFUGVFRy1Nbk0xQzJFUm16ckJFZ1lwZFg3MEhTaUh4TTdBaUg4bnhINFFiRUFfdkFXZnRESGRtQlg0Nk9nNjRORzJEc2o4dXNYOS10WWloVXJRS3NpV1FIN2RvdHZrUFdNd3Y5RzY0a1htRFlsUmFJOGVWVzF3MW9td01HOW5yZFlBZlZvYkx0bFZnWQ?oc=5",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T16:07:23+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "sports"
+  },
+  {
+   "id": "d51faaf521d4",
+   "title": "Davis Cup 2026: India knocked out after 3-1 loss to South Korea in in qualifiers",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREJRc3FKVzlodDRSczNURWxUVmFQaVVIX3B1OFdmbXVmazlpX2phcm0tX0FSY2t4TUo2V3ZGX3oyRW0wTUJVdm95b1Rteng2MVRMUlJQX0Fzemp2NllFRUtVdUVMUkNOUzVmVTRGSDVxVk14QTd5bDdhYTR3T1Ftc1RyUXNGdE53Skd5ZVB4VjVVRkMxSjk3TnBxaE9lUXFX?oc=5",
+   "source": "olympics.com",
+   "hot": 1,
+   "publishedAt": "2026-09-19T07:04:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "sports"
+  },
+  {
+   "id": "5098caa1d981",
+   "title": "iPhone Duo hinge needed extensive engineering, reveals Apple VP ahead of October 23 sale: ‘Feel solid, like a car door'",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbHlYR1hCWEpLQ2wyUVo4SHNpVEhPX1VyNzZuSlN2elNaR3NvaG45S2JnUDNxX0luQWpJV2hVb1hsSkRpdnlJZDc0VU9tU2VWbGdzeUxHT2FYWFFRN0J2bHY5d25SbldOMHBiblpMajFEdldsdDl5VnJQTVRqWW9Jalo2SnVHUkE5VjNaRkpVczc5NGVMeGliaUx3NXNza3B4dTJlX2dKNkxwS1Q0M0NNVFJqUXgxTnBaMjlsUy1VWmdmbEs4LXBJVExyVlF5elZyYXpjWFZwNDQtaXMwdUZsTVBfUklnTVdxVUVSeW1qSmtlRmNyMWhKa20tN1ZYUmfSAYQCQVVfeXFMTjl6LWNYMWp0NlBraXJvTHNTV2ZKaFZWMHBJU1A0dWhVTTE3MFA1Z09pYmQ5RFhBRXk5bDAzeHotUC1WZUFRXzBoODg4SGJJLWxYYURSbVlCbUVIcEQxNEJGTE5ldXRUZWNOcERGellMcGxWZmRjSS1YMEd1TG9BT285TVljOTVBSm91WkFKelFkUUZqVUpBaEp4dmlpOXB0SlhDcmVQcFVqSXFDUU9ITC03Y0I4cllVUGZHd0doREpvVTRHM2s5YVdXZlExUGNtcHpTU3N1R0xHTGJQVXpkTmNQY250MTlkNEFIdjV4ajdFVWlySXJPRXpZT25zR2ctajhSa1k?oc=5",
+   "source": "Livemint",
+   "hot": 1,
+   "publishedAt": "2026-09-19T18:17:32+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "c515a7ab0c56",
+   "title": "Saudi Arabia issues first alert in the capital since escalation, and other Mideast developments",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+   "source": "AP News",
+   "hot": 1,
+   "publishedAt": "2026-09-19T17:58:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "4dec13918aa7",
+   "title": "Video | Apple’s iPhone 18 Pro Plans & First Foldable iPhone Duo | Kaiann Drance Exclusive",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTVoa1ZyYXRZRlUzTy1odVhfdUdXVVo5blJwdnlibWFSYnlyQUJrN216ZVNEam43azduLTlaRFJQWERfNjFINXE0OWZ4SGxwTHJEUTZoR0thVFMtbVRhRVpid25SZ1JkZGJTc0NDU05jRkpCa0NVakx2dG5RTE9kcXVHRlZLWTY3RjgyY3RWUnFTTVFTVDlNb1dPT09McUFwTENRSnRVWUJYV1NWcXpOWVh3?oc=5",
+   "source": "NDTV",
+   "hot": 1,
+   "publishedAt": "2026-09-19T17:22:57+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "9c8c6fc32b12",
+   "title": "Here's how Apple circumvented the battery shipping restrictions for iPhone 18 Pro Max - GSMArena.com news",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2J2dzNLMHNGclc3SDhOWnYzZ2dFVFlaQzBlNTMzeTBjMGl0TUNDd3NnVW5CS1AzLXZoNTBodEVqWENhd3picEd1R1pCVlVFNlVzSFI2eWRwa3V3djd0X2tiOENoV0Vyb3dseGtOM2FvV3BMRmxqNFp5RjJlU2tqU3pKc2d0OElnazhiRnFSbDZJc1lPa3lJSHkyTGlMQXhCRGtYLTlHdGRDTHp6ZVhhTmxucThmQdIBsgFBVV95cUxQRXJjOU9CN1RiUkJMWklFR3VEd2Vmc2FRUXRsOFM2OEM3ZlE5ZDc0d21vbkducnNzNUp2MGRPTGFvcFRBUG1tSzl4c3hzVWt2RkZibWFQNzJ2YkNOaEQyeFpIWVVkRm53RGZ2TU80TlZXSlZXSk5DUVFYRkFFOHZ3ZWxvUTkzU0Y5TTB3aXBRY2tGQjIyQmt3MGVXYnpKaU9UMjloQWphY0VKbEtzZnVYRmlB?oc=5",
+   "source": "GSMArena.com",
+   "hot": 1,
+   "publishedAt": "2026-09-19T16:09:02+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "841e230e64e0",
+   "title": "The ‘Control Resonant’ Metacritic Review Score Has Finalized With GOTY Potential",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeWkza1JFV0dlWFZhTjQ2bUhNNnN0QTFwcHI1S1FibXlWS2Q5NHU4SUZzeWtnX3llVnJmU2J0eW1hQVhlMzZ6VDl5SGZWanZJQ1JrazBMVG9wclAyemRBMHYxdFlvQnRRbzNsVC1mbjJuQVhpZVh0YTlrQTkwbEx5MFpoWWt2dTEzY2phb1lLM0pNR3VsNjk2LU1DTTlUS3JCRTAtd0tuNjktUk5qQlAyNUZGX1cxbDVqd1p1WGpkOW5tdTkwS1REZg?oc=5",
+   "source": "Forbes",
+   "hot": 1,
+   "publishedAt": "2026-09-19T14:46:19+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "c40ec38f4d2c",
+   "title": "Samsung Confirms Free Feature Upgrade For Millions Of Galaxy Phones",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXVmcEFFUzJnYVFGOGt5VXFYcGpGSDBxdXlDc0ZvdkthMjBTTy1PdHAxVmp5VVM2M1FncG1tNkJocGl1dWt5Mm54c0xRRzZVWDNwVmdHMlVqdG14V3g4NTI2ZFhtaU5qdDBsLUl2OF9KbV9oUWhGUTVXQkYyUkVYbkFmQUdUaHl4M3VNbkxQOXhKVV9xVzN5U2s3V2VZMGJMaEpzZVZ5Q3hWMjEwaTliYUJxYWJETnJ1ZWc?oc=5",
+   "source": "Forbes",
+   "hot": 1,
+   "publishedAt": "2026-09-19T14:25:52+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "c705184d038c",
+   "title": "Siri Gets a Makeover: Apple rolls out its new AI-powered assistant",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTVZCUW5wMktGQndORlFDNXY2TlRlQm44aDVFWC1KRlJxSWNTcUpKcjV1aDhtVThEaWFuMlYwZjQzZWNVWkE5VmJMY3hvSVpSalcwQngzcFVjSC1nZ3BZZVVIRFk3ZDAzc3R6R3pBT0xxd0FjVThIenYtTFloS3Z6X09OWFZ2UDNGYlhBUnNyUmVTeGRkeFYteGdrcUJSQmpfc1lidVA5aw?oc=5",
+   "source": "Open Magazine",
+   "hot": 1,
+   "publishedAt": "2026-09-19T14:13:24+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "62f965e6ea86",
+   "title": "iPhone 18 FOMO: How Celebrities And Influencers Are Fueling Impulse Spending",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXZBSTBNalo0MVY5RTR4RG5ERkFxcGJUZ0h6OUdfYVJqWXhQanh4OGdCbDJ3TFNOV3VOa0xwaVRPUHV2MmlsSnhfNHlBcjgxVTNyWkVqblVaNU1WRm9rcXhTaDJGRlAtbXhORVBGdmR1d01LQnNKcnBxbTdLTElZZ1UyV2o5YjNFSkQ4alIycDREQS10YjhMMTd2LVJOaXBkS21wMUhkWEZ6dk9GT3NwZVpwNTVBd9IBvgFBVV95cUxQR0tMdHlxY25CdmgyNmxTTUdmNm4tU1JIZ1p3V0tKTDBFQ2I5MVFaemV1RUdUenBjUUYxb1NwbTZQYzhXVFFuVmhCaFRHSEliOFNmbVR1VzFUOHNIamh1bFVLa29mUFRkQnVkZW1WcVVwWUFuaEVxeHE0YTBQbVJReVMwanpzNl9iWS1lSVhyTV8yd19raXhjMUJRQWV2ejVQcGZEUXEzeHZ1NFJXY29yNGN3QzV5bF9DRTJkUm93?oc=5",
+   "source": "NDTV",
+   "hot": 1,
+   "publishedAt": "2026-09-19T11:13:52+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "4345f01ace08",
+   "title": "Your WhatsApp may be more exposed than you think: 5 settings to check",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVWQ2SWZZV0ZvOWNhLWNFVm1reVhOZzRBOG5jd0F0R293d0NYM0JCX09zbm84MmR1Q1NRcWpQUzJObjBsSzN1VlQySnRoelRkNnZYY0o2MEVGZlN4NWtTeDlOVW93U19NQXkxR3gxQ0kxYmQwNVh5OUQ2cHNwakszZWFPY2l3Y0E2aGk0OEJ0WE4tbnRJM202X1hyZi1ES1BDaU5BOWJZYXg3WGo1TzFWdzF5YVQ0T0o3RzZIYnBEVlFSZFNRWE9FRGw1TVRRSTVJY3pQb041S3lfelJIR1NKTGlPdmFZQdIB6wFBVV95cUxQdnl1R1NiNzc3R2QtVHdkbkpDYWsxRllfei0ySEJRNFAydkZnZENNUWJ1MWRiblNBblkySmVuVkFIVDRzc0FSdzRzX0JjRDBLMmJWN0VVQ0xpRzREWnJYT0QtVDVmUGR2YURtZkdZM1BNSzg2dXhoUmZwV0tIZ0Z1cDE0X25hZDVSaHdDbVZTZW11a3hhRmJLc3pPV0NFWFQzbmF0UUNYdERwdkJ4Z2kxcEROQXFWMEV5U25Fb05hNmpDV1E0YTRtbWUwRUZRc1g2UDVPVkxOZmpZRUZ4blJjWlNmM1NmUld4Z2Rj?oc=5",
+   "source": "The Times of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T09:03:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "22c2ef159270",
+   "title": "France probes misuse of smart glasses in sexual harassment cases",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNektBQWp6ZnpTQ25yWXRMV0ktaXQ1YzBnUktZX0xtSFJzQkZxMVp5QUszNXpvZHRPMlZuN29vUmYzd0JrMHpjbzNFaEI3MjdfbVhSTnV6OU5peFNsZ3pJSjVOQllYTUNSOURWM3pFOURpX0t0NDZRbTN3b0MtcnRMNC1BMEdleGt6RWRUa1Bqb19CS00yOW9GMHQxYlpjYnVrVmo2cThoalpYWUk?oc=5",
+   "source": "Reuters",
+   "hot": 1,
+   "publishedAt": "2026-09-19T00:46:16+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "b3a71b3ebfe7",
+   "title": "OnePlus 13s 16GB RAM Variant Launched in India",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUpxNmRseXFrRzJVUjBnUGFUZGRvMjIyOFo3eFBUeEpBT3BTVXM1SmVtVkRWQXU3WkVfc1dYYTlydm1ZNWppdjFKODN1ang2akJ3YnZVclFpdFBDdjlmVmNDTG1NQm00WjNyQVFxWW1LYktCQldjWXpNMnUweDVpUURkbkFGUQ?oc=5",
+   "source": "The Mobile Indian",
+   "hot": 1,
+   "publishedAt": "2026-09-18T10:25:40+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "tech"
+  },
+  {
+   "id": "28ac209c0cdb",
+   "title": "Iran gives US 7 conditions to restart talks, says ‘threats won't achieve results’",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms",
+   "source": "Times of India",
+   "hot": 2,
+   "publishedAt": "2026-09-19T20:15:37+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "d1de0538e56d",
+   "title": "Journalists denied White House access after Trump banned some media outlets",
+   "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "hot": 2,
+   "publishedAt": "2026-09-19T19:13:49+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "0a9e8d4a6997",
+   "title": "Israel Pardons Combat Medic Who Shot Dead Wounded Palestinian Attacker",
+   "link": "https://www.ndtv.com/world-news/israel-pardons-combat-medic-who-shot-dead-wounded-palestinian-attacker-12070216#publisher=newsstand",
+   "source": "NDTV",
+   "hot": 2,
+   "publishedAt": "2026-09-19T18:54:28+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "f1be3e0e7e52",
+   "title": "Martin recovers from early setback to win Austrian sprint and retake championship lead",
+   "link": "https://www.thehindu.com/sport/martin-recovers-from-early-setback-to-win-austrian-sprint-and-retake-championship-lead/article71486049.ece",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T22:06:27+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "e348539f4d55",
+   "title": "As monsoon withdrawal begins, season may end with 10% deficit",
+   "link": "https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms",
+   "source": "Times of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T21:50:59+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "6b0509706210",
+   "title": "Asian Games 2026: One Asia, one heart as continental extravaganza begins",
+   "link": "https://www.thehindu.com/sport/asian-games-2026-one-asia-one-heart-as-continental-extravaganza-begins/article71484684.ece",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T21:39:51+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "b64b41b840d2",
+   "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+   "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "hot": 1,
+   "publishedAt": "2026-09-19T21:27:06+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "6114c3e6cca1",
+   "title": "Arsenal thrashed by Brighton, sorry Spurs lose again",
+   "link": "https://www.thehindu.com/sport/football/arsenal-thrashed-by-brighton-sorry-spurs-lose-again/article71485954.ece",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T21:25:13+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "750f6fa643ce",
+   "title": "Human brain tissue grew to fill over 90% of missing cortex in mice",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/stanford-scientists-transplanted-human-brain-tissue-into-mice-missing-most-of-their-cortex-within-months-it-grew-to-occupy-more-than-90-of-the-space/articleshow/134353316.cms",
+   "source": "Times of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T21:25:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "bd70bb74d95b",
+   "title": "Harvard students build headset to screen for concussions in about 60 seconds",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/three-harvard-students-built-a-low-cost-infrared-headset-designed-to-screen-athletes-for-possible-concussions-in-about-60-seconds-it-won-the-6500-us-james-dyson-award-but-still-needs-validation/articleshow/134353190.cms",
+   "source": "Times of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T21:20:00+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "218e7a98fc2b",
+   "title": "Shamli Police book six over alleged ‘misleading’ social media posts on Ayush Malik High Court proceedings",
+   "link": "https://www.thehindu.com/news/cities/Delhi/shamli-police-book-six-over-alleged-misleading-social-media-posts-on-ayush-malik-high-court-proceedings/article71485186.ece",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T21:12:47+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "783711e58751",
+   "title": "PM Modi pushes back on West’s narrative over emissions",
+   "link": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms",
+   "source": "Times of India",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:52:39+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "482830431c35",
+   "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+   "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+   "source": "Al Jazeera",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:47:20+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "318561a6c835",
+   "title": "What is the India-Pakistan conflict at sea about? | Explained",
+   "link": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:45:14+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "35f7febb249c",
+   "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+   "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+   "source": "Al Jazeera",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:30:01+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "22269da41bbd",
+   "title": "Why has U.S. deployed ‘space weapons’? |Explained",
+   "link": "https://www.thehindu.com/sci-tech/technology/why-has-us-deployed-space-weapons-explained/article71485873.ece",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:22:18+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "dc8b84357a00",
+   "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+   "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:16:07+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "9e304026240d",
+   "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+   "source": "Al Jazeera",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:13:56+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "614b1d0e6823",
+   "title": "How will the U.S.’s Sanctioning Act affect India? | Explained",
+   "link": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:05:32+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
+  },
+  {
+   "id": "4ad0250602ee",
+   "title": "The digital recruiter | Shahzad Bhatti",
+   "link": "https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece",
+   "source": "The Hindu",
+   "hot": 1,
+   "publishedAt": "2026-09-19T20:04:27+00:00",
+   "firstSeen": "2026-09-19T22:24:49+00:00",
+   "section": "channels"
   }
  ]
 }
