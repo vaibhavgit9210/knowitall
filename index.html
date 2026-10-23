@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#0d0f12">
-<title>knowitall — the daily brief</title>
+<title>knowitall · the daily brief</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23060a13'/%3E%3Ctext x='32' y='46' font-size='38' text-anchor='middle'%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E">
 <style>
   :root {
@@ -346,7 +346,7 @@ function renderDone(el) {
       <div class="big">☕</div>
       <h2>Brief complete</h2>
       <p>You went through all ${totalCount()} ${filter === 'all' ? '' : SECTION_LABEL[filter] + ' '}headlines for ${day}.<br>
-      New stories land every ~30 minutes — they'll queue up here.</p>
+      New stories land every ~30 minutes. They'll queue up here.</p>
       <button onclick="showTab('browse')">Browse everything</button>
     </div>`;
 }
@@ -381,7 +381,7 @@ async function renderArchive() {
   el.innerHTML = '<div class="note">Loading archive…</div>';
   let days = [];
   try { days = await (await fetch('logs/index.json?t=' + Date.now())).json(); } catch {}
-  if (!days.length) { el.innerHTML = '<div class="note">No logs yet — the archive fills up as the fetcher runs.</div>'; return; }
+  if (!days.length) { el.innerHTML = '<div class="note">No logs yet. The archive fills up as the fetcher runs.</div>'; return; }
   el.innerHTML = `<h2 style="border:none;margin-top:6px">Headline log</h2><div id="archdates"></div><div id="archlist"></div>`;
   const wrap = $('archdates');
   days.slice(0, 30).forEach((d, i) => {
@@ -453,7 +453,7 @@ async function load(first) {
       data = await res.json();
     }
   } catch (e) {
-    if (first) $('brief').innerHTML = '<div class="note">Could not load headlines (data/news.json missing?).<br>The GitHub Action generates it — check back in a minute.</div>';
+    if (first) $('brief').innerHTML = '<div class="note">Could not load headlines (data/news.json missing?).<br>The GitHub Action generates it. Check back in a minute.</div>';
     return;
   }
   rebuildQueue();
